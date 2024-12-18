@@ -1,6 +1,6 @@
 # Project MINI RACK
 
-TODO: Photo of my mini rack
+<p align="center"><img alt="Jeff Geerling's first MINI RACK" src="/resources/jeff-geerling-mini-rack.jpeg" height="auto" width="600"></p>
 
 A guide for miniature rack builds, for portable or compact Homelabs.
 
