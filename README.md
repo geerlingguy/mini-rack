@@ -57,12 +57,23 @@ In this section, gear will be split between devices which natively mount in a 10
 
 #### Rack-mountable gear
 
+  - [Digitus DN-80115 16x 1Gbps Unmanaged Switch](https://www.digitec.ch/en/s1/product/digitus-dn-80115-16-ports-network-switches-12955993)
+  - [MikroTik CRS310-1G-5S-4S+IN 5x 1Gbps SFP 4x 10G SFP+ 1x 1Gbps Ethernet Switch](https://amzn.to/3VJKYBe) (with [RMK-2/10 kit](https://amzn.to/3Pmm5rT))
+  - [MikroTik CRS310-8G+2S+IN 8x 2.5Gbps 2x 10G SFP+ Router](https://amzn.to/3Dx4smb) (with [RMK-2/10 kit](https://amzn.to/3Pmm5rT))
+  - [MikroTik CRS112-8P-4S-IN 8x 1Gbps 4x 1Gbps SFP Router](https://amzn.to/4fivRpi) (with [RMK-2/10 kit](https://amzn.to/3Pmm5rT))
+  - [MikroTik CSS610-8P-2S+in 8x 1 Gbps PoE+ 2x SFP+ 10G Switch](https://amzn.to/3ZKAtP8) (with [RMK-2/10 kit](https://amzn.to/3Pmm5rT))
+  - [MikroTik CSS610-8G-2S+in 8x 1Gbps 2x SPF+ 10G Switch](https://amzn.to/3OYAjyV) (with [RMK-2/10 kit](https://amzn.to/3Pmm5rT))
   - [YuanLey YS2083GS-P 8-port PoE+, 2-port 1 Gbps, 1-port SFP 120W Unmanaged switch](https://amzn.to/41Y3qKv)
 
 #### Gear that fits on a 10" shelf
 
-  - [Zyxel GS1100-16 1 Gbps Unmanaged Switch](https://amzn.to/41GicFw) (needs 3D printed ears)
+  - [Zyxel GS1100-16 1 Gbps Unmanaged Switch](https://amzn.to/41GicFw)
+  - [GiGaPlus GP-S25-0802P 8x 2.5G PoE+ 2x 10G SPF+ Unmanaged Switch](https://amzn.to/4iGMxJR)
   - [Ubiquiti EdgeSwitch 10X 10-port Managed Switch](https://amzn.to/49Hobf2)
+  - [Netgear 8-port Unmanaged Gigabit Switch GS308](https://amzn.to/4gilDq9)
+  - [Real HD 8-port 2.5G Unmanaged Switch with 10G SFP+ Uplink SW8-25G](https://amzn.to/3VJuDwy)
+  
+Note: Some switches intended for full-width rack mount ears _may_ work in a 10" rack with 'universal' rack ears, like the [Pelopy Adjustable Universal Rack Mount Ear Kit](https://amzn.to/4gJ7BxT). Alternatively, _some_ switches (like the Zyxel) may have 3D printable ears on a site like Printables or Thingiverse.
 
 ### 3D Printable mini rack systems
 
@@ -123,6 +134,9 @@ I'm not the first person to build a mini rack. In fact, the mini-homelab communi
 
   - [Jeff Geerling's 'Project Mini Rack'](TODO)
   - [u/Gold-Abalone7538's Mini 10" 9U Rack](https://www.reddit.com/r/homelab/comments/1cek9os/my_mini_10_half_width_9u_rack/)
+  - [Hardware Haven's 'Favorite Home Lab So Far'](https://www.youtube.com/watch?v=wbRViRwflbI)
+  - [TechnoTim's Mini Rack, HomeLab Stack](https://www.youtube.com/watch?v=kGZa-81IDGY)
+  - [Raid Owl's Ultimate Mini Server Rack](https://www.youtube.com/watch?v=wJUDhQ7s9HM)
 
 ## Software
 
