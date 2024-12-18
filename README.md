@@ -1,4 +1,4 @@
-## Project Mini Rack
+# Project MINI RACK
 
 TODO: Photo of my mini rack
 
