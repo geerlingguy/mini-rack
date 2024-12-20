@@ -58,22 +58,40 @@ In this section, gear will be split between devices which natively mount in a 10
 #### Rack-mountable gear
 
   - [Digitus DN-80115 16x 1Gbps Unmanaged Switch](https://www.digitec.ch/en/s1/product/digitus-dn-80115-16-ports-network-switches-12955993)
-  - [MikroTik CRS310-1G-5S-4S+IN 5x 1Gbps SFP 4x 10G SFP+ 1x 1Gbps Ethernet Switch](https://amzn.to/3VJKYBe) (with [RMK-2/10 kit](https://amzn.to/3Pmm5rT))
-  - [MikroTik CRS310-8G+2S+IN 8x 2.5Gbps 2x 10G SFP+ Router](https://amzn.to/3Dx4smb) (with [RMK-2/10 kit](https://amzn.to/3Pmm5rT))
-  - [MikroTik CRS112-8P-4S-IN 8x 1Gbps 4x 1Gbps SFP Router](https://amzn.to/4fivRpi) (with [RMK-2/10 kit](https://amzn.to/3Pmm5rT))
-  - [MikroTik CSS610-8P-2S+in 8x 1 Gbps PoE+ 2x SFP+ 10G Switch](https://amzn.to/3ZKAtP8) (with [RMK-2/10 kit](https://amzn.to/3Pmm5rT))
-  - [MikroTik CSS610-8G-2S+in 8x 1Gbps 2x SPF+ 10G Switch](https://amzn.to/3OYAjyV) (with [RMK-2/10 kit](https://amzn.to/3Pmm5rT))
+  - [MikroTik CRS310-1G-5S-4S+IN 5x 1Gbps SFP 4x 10G SFP+ 1x 1Gbps Ethernet Switch](https://amzn.to/3VJKYBe)
+  - [MikroTik CRS310-8G+2S+IN 8x 2.5Gbps 2x 10G SFP+ Router](https://amzn.to/3Dx4smb)
+  - [MikroTik CRS112-8P-4S-IN 8x 1Gbps 4x 1Gbps SFP Router](https://amzn.to/4fivRpi)
+  - [MikroTik CSS610-8P-2S+in 8x 1 Gbps PoE+ 2x SFP+ 10G Switch](https://amzn.to/3ZKAtP8)
+  - [MikroTik CSS610-8G-2S+in 8x 1Gbps 2x SPF+ 10G Switch](https://amzn.to/3OYAjyV)
   - [YuanLey YS2083GS-P 8-port PoE+, 2-port 1 Gbps, 1-port SFP 120W Unmanaged switch](https://amzn.to/41Y3qKv)
+  - [GiGaPlus GP-S25-0802P 8x 2.5G PoE+ 2x 10G SPF+ Unmanaged Switch](https://amzn.to/4iGMxJR)
+  - [QNAP QSW-M2108R-2C 8x 2.5G 2x 10G SFP+/RJ45 Managed Switch](https://amzn.to/4gNoaJ4)
+  - [QNAP QSW-M2106R-2S2T 6x 2.5G 2x 10G SFP+ 2x 10G RJ45 Managed Switch](https://amzn.to/3VLfwCH)
+  - [QNAP QSW-M2106PR-2S2T 6x 2.5G PoE++ 2x 10G PoE++ RJ45 2x 10G SFP+ Managed Switch](https://amzn.to/4iF3Lrj)
+  - [QNAP QSW-M3216R-8S8T 8x 10G RJ45 8x 10G SFP+ Managed Switch](https://amzn.to/3VOc1eP)
+  - [QNAP QSW-M3212R-8S4T 4x 10G RJ45 8x 10G SFP+ Managed Switch](https://amzn.to/4fBPOaY)
+  - [QNAP QSW-3216R-8S8T 8x 10G RJ45 8x 10G SFP+ Unmanaged Switch](https://amzn.to/3DtQ1zt)
+  - [QNAP QSW-M7308R-4X 4x 100G QSFP 8x 25G SFP+ L3 Managed Switch](https://amzn.to/3ZO0e0X)
+
+Note: Some switches intended for full-width rack mount ears _may_ work in a 10" rack with 'universal' rack ears, like the [Pelopy Adjustable Universal Rack Mount Ear Kit](https://amzn.to/4gJ7BxT).
+
+Some manufacturers require special kits for 10" rack compatibility:
+
+  - Mikrotik offers the [RMK-2/10 kit](https://amzn.to/3Pmm5rT)) for full 10" compatibility
+  - QNAP offers the [SP-EAR-QSWHALFRACK-01](https://store.qnap.com/sp-ear-qswhalfrack-01.html), though you may need to buy two kits to get a short ear for each side!
+  - Pelopy offers a [Universal Rack Mount Ear Kit](https://amzn.to/4gJ7BxT) for many vendors—however fitment can be tricky...
+
+See [Issue #2: Find a perfect way to mount small switches into mini racks](https://github.com/geerlingguy/mini-rack/issues/2) for more discussion around this topic.
 
 #### Gear that fits on a 10" shelf
 
   - [Zyxel GS1100-16 1 Gbps Unmanaged Switch](https://amzn.to/41GicFw)
-  - [GiGaPlus GP-S25-0802P 8x 2.5G PoE+ 2x 10G SPF+ Unmanaged Switch](https://amzn.to/4iGMxJR)
   - [Ubiquiti EdgeSwitch 10X 10-port Managed Switch](https://amzn.to/49Hobf2)
   - [Netgear 8-port Unmanaged Gigabit Switch GS308](https://amzn.to/4gilDq9)
   - [Real HD 8-port 2.5G Unmanaged Switch with 10G SFP+ Uplink SW8-25G](https://amzn.to/3VJuDwy)
+  - Many 4, 5, 6, or 8 port cheap PoE/1 Gbps switches (too many to list...)
   
-Note: Some switches intended for full-width rack mount ears _may_ work in a 10" rack with 'universal' rack ears, like the [Pelopy Adjustable Universal Rack Mount Ear Kit](https://amzn.to/4gJ7BxT). Alternatively, _some_ switches (like the Zyxel) may have 3D printable ears on a site like Printables or Thingiverse.
+Note: Some switches (like the Zyxel) may have 3D printable ears on a site like Printables or Thingiverse.
 
 ### 3D Printable mini rack systems
 
