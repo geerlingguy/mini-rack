@@ -36,6 +36,10 @@ UPSes, or Uninterruptable Power Supplies, offer protection against brownouts or 
 
   - [GeeekPi DC PDU Lite - 7 Channel 12V 0.5U PDU](https://amzn.to/3DliKGG)
   - [PDUOnline (UK) 10" Rack PDUs](https://pduonline.co.uk/product-category/rack-pdus/10-horizontal-pdus/)
+  - [Tupavco TP1713 4-outlet Mini Rack PDU with Protection](https://amzn.to/41JChus)
+  - [Tripp Lite PDU15NETLX Single Phase Switched Mini PDU - 2 Outlets](https://amzn.to/3Dmy0mw)
+  - [Atlas Power AP-S15HR 15A Half-rack Power Conditioner](https://amzn.to/4iG8oBv)
+  - [AliExpress US Power Strip - 3 socket](https://www.aliexpress.us/item/3256805777681738.html)
 
 Ongoing discussions:
 
@@ -48,6 +52,7 @@ Patch panels help organize a mess of RJ45 network cables, USB, HDMI, Coax, or wh
   - [GeeekPi 12 Port 0.5U CAT6 Network Patch Panel](https://amzn.to/3ZZ1os4)
   - [INTELLINET 10 Port 1U Keystone Patch Panel](https://amzn.to/3P1PHKF)
   - [INTELLINET 12 Port 1U CAT6 Network Patch Panel](https://amzn.to/3P2ni7g)
+  - [Rapink Patch Panel Mini 12 Port Cat6A Shielded Patch Panel](https://amzn.to/3PelLuR)
 
 ### Network Gear
 
@@ -136,6 +141,7 @@ Not all gear can be mounted on rack rails. And not every U of space needs to be 
   - [L-com Half Rack 1U Vent Panel](https://www.l-com.com/patch-panel-server-rack-1-space-half-rack-vent-panel-175)
   - [L-com Half Rack 2U Vent Panel](https://www.l-com.com/patch-panel-server-rack-2-space-half-rack-vent-panel-350)
   - [L-com Half Rack 1U Universal Multi Shelf - 5.5" deep](https://www.l-com.com/patch-panel-server-rack-half-rack-1-space-universal-multi-shelf-55-deep-black)
+  - [Digitus Shelf 1U Perforated Steel Shelf](https://amzn.to/4014ATT)
 
 ## Cable Management
 
