@@ -164,7 +164,12 @@ I'm not the first person to build a mini rack. In fact, the mini-homelab communi
 
 ## Software
 
-TODO
+There's a ton of things you can do in a Homelab—and many of them run perfectly fine on mini PCs or SBCs in a mini rack!
+
+Here's a collection of cluster-related projects that may be a good test or starting point for your own rack, if you need the inspiration:
+
+  - [Pi Cluster](https://github.com/geerlingguy/pi-cluster) - Build a K3s cluster with 3 or more SBCs
+  - [Top500 Benchmark](https://github.com/geerlingguy/top500-benchmark) - Benchmark your cluster with HPL (High Performance Linpack)
 
 ## License
 
