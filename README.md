@@ -101,6 +101,8 @@ See [Issue #2: Find a perfect way to mount small switches into mini racks](https
   - [Real HD 8-port 2.5G Unmanaged Switch with 10G SFP+ Uplink SW8-25G](https://amzn.to/3VJuDwy)
   - [Netgear GS110EMX 8x 1 Gbps 2x 10G Managed Switch](https://amzn.to/4fyKWDj)
   - [D-Link DGS-108 8x 1 Gbps Unmanaged Switch](https://amzn.to/4ftNW3N)
+  - [TRENDnet TEG-S762 4x 2.5G 2x 2.5/5/10G Unmanaged Switch](https://amzn.to/4gEau2S)
+  - [GiGaPlus GP-S100-0500T 5x 10G Unmanaged Switch](https://amzn.to/3ZGUia0)
   - Many 4, 5, 6, or 8 port cheap PoE/1 Gbps switches (too many to list...)
   
 Note: Many of these switches have 3D printable ears on Printables, Thingiverse, etc.
