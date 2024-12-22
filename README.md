@@ -8,6 +8,10 @@ Some links in this repository are affiliate links—I earn for qualifying purcha
 
 This repository is maintained by [Jeff Geerling](https://www.jeffgeerling.com), who lives in the US. Sadly, mini rack gear is often only available in specific regions. For example, [many vendors sell only in the UK or parts of Europe](https://www.reddit.com/r/minilab/comments/1g1nto6/offtheshelf_10_gear_guide/). So this repository is mainly focused on gear _I'm_ able to acquire, living in the US. That doesn't mean its scope can't broaden over time, though.
 
+Besides this repository, there are other places where you can discuss your own mini rack builds:
+
+  - [Reddit r/minilab](https://www.reddit.com/r/minilab)
+
 ## Hardware
 
 ### 10" Mini Racks
@@ -60,7 +64,7 @@ The heart of every homelab is a network switch or router. There aren't a lot of 
 
 In this section, gear will be split between devices which natively mount in a 10" rack (e.g. with hard-mounted rack ears), and devices which can _fit_ in a 10" rack but require a shelf or 3D printed mounting adapter.
 
-#### Rack-mountable gear
+#### Rack-mountable Network Gear
 
   - [Digitus DN-80115 16x 1Gbps Unmanaged Switch](https://www.digitec.ch/en/s1/product/digitus-dn-80115-16-ports-network-switches-12955993)
   - [MikroTik CRS310-1G-5S-4S+IN 5x 1Gbps SFP 4x 10G SFP+ 1x 1Gbps Ethernet Switch](https://amzn.to/3VJKYBe)
@@ -84,19 +88,22 @@ Some manufacturers require special kits for 10" rack compatibility:
 
   - Mikrotik offers the [RMK-2/10 kit](https://amzn.to/3Pmm5rT)) for full 10" compatibility
   - QNAP offers the [SP-EAR-QSWHALFRACK-01](https://store.qnap.com/sp-ear-qswhalfrack-01.html), though you may need to buy two kits to get a short ear for each side!
+    - There's also a set of [3D Printable rack ears for QNAP 10" devices](https://www.printables.com/model/1023123-qnap-switch-10-rack-mount)
   - Pelopy offers a [Universal Rack Mount Ear Kit](https://amzn.to/4gJ7BxT) for many vendors—however fitment can be tricky...
 
 See [Issue #2: Find a perfect way to mount small switches into mini racks](https://github.com/geerlingguy/mini-rack/issues/2) for more discussion around this topic.
 
-#### Gear that fits on a 10" shelf
+#### Network Gear that fits on a 10" shelf
 
   - [Zyxel GS1100-16 1 Gbps Unmanaged Switch](https://amzn.to/41GicFw)
   - [Ubiquiti EdgeSwitch 10X 10-port Managed Switch](https://amzn.to/49Hobf2)
   - [Netgear 8-port Unmanaged Gigabit Switch GS308](https://amzn.to/4gilDq9)
   - [Real HD 8-port 2.5G Unmanaged Switch with 10G SFP+ Uplink SW8-25G](https://amzn.to/3VJuDwy)
+  - [Netgear GS110EMX 8x 1 Gbps 2x 10G Managed Switch](https://amzn.to/4fyKWDj)
+  - [D-Link DGS-108 8x 1 Gbps Unmanaged Switch](https://amzn.to/4ftNW3N)
   - Many 4, 5, 6, or 8 port cheap PoE/1 Gbps switches (too many to list...)
   
-Note: Some switches (like the Zyxel) may have 3D printable ears on a site like Printables or Thingiverse.
+Note: Many of these switches have 3D printable ears on Printables, Thingiverse, etc.
 
 ### 3D Printable mini rack systems
 
@@ -125,6 +132,7 @@ SBCs, or Single Board Computers, are ideal for mini racks, due to their low powe
 It can be difficult to adapt storage devices (especially full 3.5" hard drives!) into a mini rack, but there are always solutions—sometimes as simple as placing a 2-bay NAS on its side, or putting an entire 4-bay NAS on a shelf!
 
   - [GeeekPi / DeskPi RackMate SBC Shelf](https://amzn.to/49H76C6) (can hard-mount two 2.5" or 3.5" HDDs side by side)
+  - [10" Rack Hard Drive Mount](https://www.printables.com/model/142325-10-rack-harddrive-mount) (can hard-mount two 3.5" drives)
 
 ### Shelves and Blanking Panels
 
