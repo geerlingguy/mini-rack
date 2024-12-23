@@ -49,6 +49,8 @@ Ongoing discussions:
 
   - [Find the perfect 1U 10" Mini Rack UPS](https://github.com/geerlingguy/mini-rack/issues/1)
 
+> **Note**: Some small PoE switches also have PoE+ or PoE++ power input, such as the [Ubiquiti USW-Ultra](https://store.ui.com/us/en/category/switching-utility/collections/pro-ultra/products/usw-ultra). Assuming you are in a location with another PoE++ switch, and everything is PoE-powered, you could power everything off one Ethernet cable, and bypass the need for a PDU or UPS entirely!
+
 ### Patch Panels
 
 Patch panels help organize a mess of RJ45 network cables, USB, HDMI, Coax, or whatever other signals you'd like to pass through from the back to the front. Often mounted just above or below a switch for a tidy install.
