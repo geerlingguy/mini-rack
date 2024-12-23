@@ -96,6 +96,7 @@ See [Issue #2: Find a perfect way to mount small switches into mini racks](https
 #### Network Gear that fits on a 10" shelf
 
   - [Zyxel GS1100-16 1 Gbps Unmanaged Switch](https://amzn.to/41GicFw)
+  - [Ubiquiti USW-Ultra 42W 8-port Managed PoE Switch](https://store.ui.com/us/en/collections/pro-ultra/products/usw-ultra)
   - [Ubiquiti EdgeSwitch 10X 10-port Managed Switch](https://amzn.to/49Hobf2)
   - [Netgear 8-port Unmanaged Gigabit Switch GS308](https://amzn.to/4gilDq9)
   - [Real HD 8-port 2.5G Unmanaged Switch with 10G SFP+ Uplink SW8-25G](https://amzn.to/3VJuDwy)
