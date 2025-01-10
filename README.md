@@ -166,15 +166,18 @@ Mini racks can quickly turn from beauty into beast, once you start plugging thin
   - [INTELLINET 10" 1U Cable Management Panel - 3 rings](https://amzn.to/3ZY8BZa)
   - [INTELLINET 10" 1U Cable Management Panel - covered](https://amzn.to/4fr239U)
 
-## Example builds for inspiration
+## Build showcase
 
 I'm not the first person to build a mini rack. In fact, the mini-homelab community's been thriving for years! Check out [Reddit r/minilab](https://www.reddit.com/r/minilab/) for some extra inspiration.
 
-  - [Jeff Geerling's 'Project Mini Rack'](TODO)
-  - [u/Gold-Abalone7538's Mini 10" 9U Rack](https://www.reddit.com/r/homelab/comments/1cek9os/my_mini_10_half_width_9u_rack/)
-  - [Hardware Haven's 'Favorite Home Lab So Far'](https://www.youtube.com/watch?v=wbRViRwflbI)
-  - [TechnoTim's Mini Rack, HomeLab Stack](https://www.youtube.com/watch?v=kGZa-81IDGY)
-  - [Raid Owl's Ultimate Mini Server Rack](https://www.youtube.com/watch?v=wJUDhQ7s9HM)
+If you would like your mini rack added to this list, please open a [new issue](https://github.com/geerlingguy/mini-rack/issues/new), add the `build showcase` label, and document your build! Once it is complete(ish), we can add it to this list:
+
+| User | Year | Description |
+| --- | --- | --- |
+| geerlingguy | 2025 | [Mini Rack 001: 4U PoE, Solar, and UPS K3s cluster](https://github.com/geerlingguy/mini-rack/issues/3) |
+| geerlingguy | 2025 | [Mini Rack 002: Simple USB-C powered Pi K3s Cluster](https://github.com/geerlingguy/mini-rack/issues/4) |
+
+[Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
 ## Software
 
