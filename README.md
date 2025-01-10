@@ -1,8 +1,8 @@
 # Project MINI RACK
 
-<p align="center"><img alt="Jeff Geerling's first MINI RACK" src="/resources/jeff-geerling-mini-rack.jpeg" height="auto" width="600"></p>
+<p align="center"><img alt="Jeff Geerling's first MINI RACK" src="/resources/jeff-geerling-mini-racks-001-002.jpg" height="auto" width="600"></p>
 
-A guide for miniature rack builds, for portable or compact Homelabs.
+A guide for miniature rack builds, for compact Homelabs, RF battlestations, and portable network racks.
 
 Some links in this repository are affiliate links—I earn for qualifying purchases. These links help fund the ongoing maintenance of this project :)
 
