@@ -49,9 +49,19 @@ Some PDUs can be remotely managed, other PDUs are basically rack-mountable surge
 
 UPSes, or Uninterruptable Power Supplies, offer protection against brownouts or power loss, and usually have better power protection circuits as well.
 
+#### Mini Rack UPSes
+
+  - [Goal Zero Sherpa 100 AC](https://amzn.to/40tUb3r) (requires USB-C PD 60W+ input and rack shelf)
+
 Ongoing discussions:
 
   - [Find the perfect 1U 10" Mini Rack UPS](https://github.com/geerlingguy/mini-rack/issues/1)
+
+#### Device-specific UPSes
+
+  - [PiSugar 3 Plus 5000 mAh Pi model B UPS](https://amzn.to/4alpT6k) (rack mounting can be tricky, requires one per Raspberry Pi, only supplies 3A at 5V)
+  - [Geekworm X1200 5V UPS HAT for Pi 5](https://www.amazon.com/Geekworm-X1200-Raspberry-Shutdown-Detection/dp/B0CRYVC8C5?ref_=ast_sto_dp) (rack mounting can be tricky)
+  - [Waveshare UPS Module 3S for SBCs](https://amzn.to/3WgNajM) (rack mounting can be tricky)
 
 ### Patch Panels
 
