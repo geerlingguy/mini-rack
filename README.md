@@ -14,6 +14,8 @@ Besides this repository, there are other places where you can discuss your own m
 
 ## Hardware
 
+<p align="center"><img alt="Jeff Geerling's MINI RACK 003" src="/resources/jeff-geerling-8u-003.jpg" height="auto" width="600"></p>
+
 ### 10" Mini Racks
 
 At the center of every mini rack is a 10" or 'half-width' rack. A typical rack is 19" wide, but half-racks fit in more places. There are only a few manufacturers of mini racks, currently, and availability varies by country.
