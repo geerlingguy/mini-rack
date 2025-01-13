@@ -45,6 +45,10 @@ Some PDUs can be remotely managed, other PDUs are basically rack-mountable surge
 
 > **Note**: Some small PoE switches also have PoE+ or PoE++ power input, such as the [Ubiquiti USW-Ultra](https://store.ui.com/us/en/category/switching-utility/collections/pro-ultra/products/usw-ultra). Assuming you are in a location with another PoE++ switch, and everything is PoE-powered, you could power everything off one Ethernet cable, and bypass the need for a PDU or UPS in the mini rack!
 
+Ongoing discussions:
+
+  - [Find the perfect 1U 10" Mini Rack PDU](https://github.com/geerlingguy/mini-rack/issues/5)
+
 ### UPSes (Uninterruptible Power Supplies)
 
 UPSes, or Uninterruptable Power Supplies, offer protection against brownouts or power loss, and usually have better power protection circuits as well.
