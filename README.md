@@ -5,9 +5,9 @@
 
 **Project MINI RACK** is a guide for miniature rack builds, for compact Homelabs, RF battlestations, and portable network racks.
 
-Some links on this site are affiliate links—I earn for qualifying purchases. These links help fund the ongoing maintenance of this project :)
-
 This site is maintained by [Jeff Geerling](https://www.jeffgeerling.com), who lives in the US. Sadly, mini rack gear is often only available in specific regions. For example, [many vendors sell only in the UK or parts of Europe](https://www.reddit.com/r/minilab/comments/1g1nto6/offtheshelf_10_gear_guide/). So this site is mainly focused on gear _I'm_ able to acquire, living in the US. That doesn't mean its scope can't broaden over time, though.
+
+> Some links on this site are affiliate links—I earn for qualifying purchases. These links help fund the ongoing maintenance of this project :)
 
 ## Community
 
