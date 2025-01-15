@@ -16,10 +16,9 @@ Issues are generally broken down into:
 
   - [help me find](https://github.com/geerlingguy/mini-rack/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+me+find%22): for help finding a particular piece of equipment
   - [build showcase](https://github.com/geerlingguy/mini-rack/issues?q=is%3Aopen+is%3Aissue+label%3A%22build+showcase%22): for complete or nearly-complete builds, to show off your stuff to the world!
+  - [website issues](https://github.com/geerlingguy/mini-rack/issues?q=is%3Aopen+is%3Aissue+label%3A%22website+issues%22): for problems with this website
 
 Besides this repository, please check out [Reddit's r/minilab](https://www.reddit.com/r/minilab), which has a lot of discussion not only about mini racks, but also mini _homelabs_ (which may or may not incorporate a physical rack).
-
-This website is generated from the [`geerlingguy/mini-rack`](https://github.com/geerlingguy/mini-rack) repository. If you encounter any problems with the website, please check if it is already documented under [website issues](https://github.com/geerlingguy/mini-rack/labels/website%20issues).
 
 ## Hardware
 
@@ -222,7 +221,7 @@ GPLv3 or later
 
 ## Open Source Repository
 
-[geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack)
+This website is generated from the [`geerlingguy/mini-rack`](https://github.com/geerlingguy/mini-rack) GitHub repository.
 
 ## Author
 
