@@ -13,7 +13,7 @@ This site is maintained by [Jeff Geerling](https://www.jeffgeerling.com), who li
 
 Visit [Project MINI RACK Issues](https://github.com/geerlingguy/mini-rack/issues) to discuss your own mini rack builds, ask for help finding a particular piece of equipment, or to share your experience.
 
-Issues are generally broken down into:
+Issues are categorized:
 
   - [help me find](https://github.com/geerlingguy/mini-rack/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+me+find%22): for help finding a particular piece of equipment
   - [build showcase](https://github.com/geerlingguy/mini-rack/issues?q=is%3Aopen+is%3Aissue+label%3A%22build+showcase%22): for complete or nearly-complete builds, to show off your stuff to the world!
