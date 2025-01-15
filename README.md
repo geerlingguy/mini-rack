@@ -1,6 +1,4 @@
-# Project MINI RACK
-
-<p align="center"><img alt="Jeff Geerling's first MINI RACK" src="/resources/jeff-geerling-mini-racks-001-002.jpg" height="auto" width="600"></p>
+<p align="center"><img alt="Jeff Geerling's first MINI RACK" src="/assets/images/jeff-geerling-mini-racks-001-002.jpg" height="auto" width="600"></p>
 
 A guide for miniature rack builds, for compact Homelabs, RF battlestations, and portable network racks.
 
@@ -23,7 +21,7 @@ This website is generated from the [`geerlingguy/mini-rack`](https://github.com/
 
 ## Hardware
 
-<p align="center"><img alt="Jeff Geerling's MINI RACK 003" src="/resources/jeff-geerling-8u-003.jpg" height="auto" width="600"></p>
+<p align="center"><img alt="Jeff Geerling's MINI RACK 003" src="/assets/images/jeff-geerling-8u-003.jpg" height="auto" width="600"></p>
 
 ### 10" Mini Racks
 
@@ -219,6 +217,10 @@ Here's a collection of cluster-related projects that may be a good test or start
 ## License
 
 GPLv3 or later
+
+## Open Source Repository
+
+[geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack)
 
 ## Author
 
