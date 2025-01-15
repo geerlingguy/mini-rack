@@ -1,3 +1,5 @@
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/geerlingguy/mini-rack) ![GitHub Repo stars](https://img.shields.io/github/stars/geerlingguy/mini-rack)
+
 <p align="center"><img alt="Jeff Geerling's first MINI RACK" src="/assets/images/jeff-geerling-mini-racks-001-002.jpg" height="auto" width="600"></p>
 
 A guide for miniature rack builds, for compact Homelabs, RF battlestations, and portable network racks.
