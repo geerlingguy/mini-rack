@@ -200,7 +200,7 @@ I'm not the first person to build a mini rack. In fact, the mini-homelab communi
 If you would like your mini rack added to this list, please open a [new issue](https://github.com/geerlingguy/mini-rack/issues/new), add the `build showcase` label, and document your build! Once it is complete(ish), we can add it to this list:
 
 | User | Year | Description |
-| --- | --- | --- |
+| :--- | :--- | :---------- |
 | geerlingguy | 2025 | [Mini Rack 001: 4U PoE, Solar, and UPS K3s cluster](https://github.com/geerlingguy/mini-rack/issues/3) |
 | geerlingguy | 2025 | [Mini Rack 002: Simple USB-C powered Pi K3s Cluster](https://github.com/geerlingguy/mini-rack/issues/4) |
 | geerlingguy | 2025 | [Mini Rack 003: ITX Dense Compute with external UPS](https://github.com/geerlingguy/mini-rack/issues/6) |
