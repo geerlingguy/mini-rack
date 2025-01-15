@@ -204,6 +204,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | geerlingguy | 2025 | [Mini Rack 001: 4U PoE, Solar, and UPS K3s cluster](https://github.com/geerlingguy/mini-rack/issues/3) |
 | geerlingguy | 2025 | [Mini Rack 002: Simple USB-C powered Pi K3s Cluster](https://github.com/geerlingguy/mini-rack/issues/4) |
 | geerlingguy | 2025 | [Mini Rack 003: ITX Dense Compute with external UPS](https://github.com/geerlingguy/mini-rack/issues/6) |
+| timothystewart6 | 2025 | [Mini Rack 004: Complete HomeLab - Proxmox, TrueNAS, Firewall, KVM, and of course RGB](https://github.com/geerlingguy/mini-rack/issues/11) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
