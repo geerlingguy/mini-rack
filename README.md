@@ -5,9 +5,9 @@
 
 **Project MINI RACK** is a guide for miniature rack builds, for compact Homelabs, RF battlestations, and portable network racks.
 
-Some links in this repository are affiliate links—I earn for qualifying purchases. These links help fund the ongoing maintenance of this project :)
+Some links on this site are affiliate links—I earn for qualifying purchases. These links help fund the ongoing maintenance of this project :)
 
-This repository is maintained by [Jeff Geerling](https://www.jeffgeerling.com), who lives in the US. Sadly, mini rack gear is often only available in specific regions. For example, [many vendors sell only in the UK or parts of Europe](https://www.reddit.com/r/minilab/comments/1g1nto6/offtheshelf_10_gear_guide/). So this repository is mainly focused on gear _I'm_ able to acquire, living in the US. That doesn't mean its scope can't broaden over time, though.
+This site is maintained by [Jeff Geerling](https://www.jeffgeerling.com), who lives in the US. Sadly, mini rack gear is often only available in specific regions. For example, [many vendors sell only in the UK or parts of Europe](https://www.reddit.com/r/minilab/comments/1g1nto6/offtheshelf_10_gear_guide/). So this site is mainly focused on gear _I'm_ able to acquire, living in the US. That doesn't mean its scope can't broaden over time, though.
 
 ## Community
 
@@ -19,7 +19,7 @@ Issues are generally broken down into:
   - [build showcase](https://github.com/geerlingguy/mini-rack/issues?q=is%3Aopen+is%3Aissue+label%3A%22build+showcase%22): for complete or nearly-complete builds, to show off your stuff to the world!
   - [website issues](https://github.com/geerlingguy/mini-rack/issues?q=is%3Aopen+is%3Aissue+label%3A%22website+issues%22): for problems with this website
 
-Besides this repository, check out [Reddit's r/minilab](https://www.reddit.com/r/minilab) for discussion about about mini racks and the broader topic of mini _homelabs_ (which may or may not incorporate a rack).
+Besides this site, check out [Reddit's r/minilab](https://www.reddit.com/r/minilab) for discussion about about mini racks and the broader topic of mini _homelabs_ (which may or may not incorporate a rack).
 
 ## Hardware
 
