@@ -8,9 +8,18 @@ Some links in this repository are affiliate links—I earn for qualifying purcha
 
 This repository is maintained by [Jeff Geerling](https://www.jeffgeerling.com), who lives in the US. Sadly, mini rack gear is often only available in specific regions. For example, [many vendors sell only in the UK or parts of Europe](https://www.reddit.com/r/minilab/comments/1g1nto6/offtheshelf_10_gear_guide/). So this repository is mainly focused on gear _I'm_ able to acquire, living in the US. That doesn't mean its scope can't broaden over time, though.
 
-Besides this repository, there are other places where you can discuss your own mini rack builds:
+## Community
 
-  - [Reddit r/minilab](https://www.reddit.com/r/minilab)
+Visit [Project MINI RACK Issues](https://github.com/geerlingguy/mini-rack/issues) to discuss your own mini rack builds, ask for help finding a particular piece of equipment, or to share your experience.
+
+Issues are generally broken down into:
+
+  - [help me find](https://github.com/geerlingguy/mini-rack/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+me+find%22): for help finding a particular piece of equipment
+  - [build showcase](https://github.com/geerlingguy/mini-rack/issues?q=is%3Aopen+is%3Aissue+label%3A%22build+showcase%22): for complete or nearly-complete builds, to show off your stuff to the world!
+
+Besides this repository, please check out [Reddit's r/minilab](https://www.reddit.com/r/minilab), which has a lot of discussion not only about mini racks, but also mini _homelabs_ (which may or may not incorporate a physical rack).
+
+This website is generated from the [`geerlingguy/mini-rack`](https://github.com/geerlingguy/mini-rack) repository. If you encounter any problems with the website, please check if it is already documented under [website issues](https://github.com/geerlingguy/mini-rack/labels/website%20issues).
 
 ## Hardware
 
