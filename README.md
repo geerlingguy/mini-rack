@@ -1,4 +1,5 @@
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/geerlingguy/mini-rack) ![GitHub Repo stars](https://img.shields.io/github/stars/geerlingguy/mini-rack)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/geerlingguy/mini-rack?link=https%3A%2F%2Fgithub.com%2Fgeerlingguy%2Fmini-rack%2Fissues)
+ ![GitHub Repo stars](https://img.shields.io/github/stars/geerlingguy/mini-rack?link=https%3A%2F%2Fgithub.com%2Fgeerlingguy%2Fmini-rack%2Fstargazers)
 
 <p align="center"><img alt="Jeff Geerling's first MINI RACK" src="/assets/images/jeff-geerling-mini-racks-001-002.jpg" height="auto" width="600"></p>
 
