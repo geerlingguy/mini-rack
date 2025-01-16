@@ -9,7 +9,26 @@ This site is maintained by [Jeff Geerling](https://www.jeffgeerling.com), who li
 
 > Some links on this site are affiliate links—I earn for qualifying purchases. These links help fund the ongoing maintenance of this project :)
 
-## Community
+## Table of Contents
+
+  - [Community](#community)
+  - [Hardware](#hardware)
+    - [10" Mini Racks](#racks)
+    - [PDUs](#pdus)
+    - [UPSes](#upses)
+    - [Patch Panels](#patch-panels)
+    - [Network Gear](#network-gear)
+    - [3D-Printable mini rack systems](#3d-printable-systems)
+    - [Mini PC/Server Shelves](#mini-pc-server-shelves)
+    - [SBC Shelves](#sbc-shelves)
+    - [Disk Shelves](#disk-shelves)
+    - [Shelves and Blanking Panels](#shelves-and-blanking-panels)
+  - [Cable Management](#cable-management)
+  - [Build Showcase](#build-showcase)
+  - [Software](#software)
+  - [License](#license)
+
+## <a name="community"></a>Community
 
 Visit [Project MINI RACK Issues](https://github.com/geerlingguy/mini-rack/issues) to discuss your own mini rack builds, ask for help finding a particular piece of equipment, or to share your experience.
 
@@ -21,11 +40,11 @@ Issues are categorized:
 
 Besides this site, check out [Reddit's r/minilab](https://www.reddit.com/r/minilab) for discussion about about mini racks and the broader topic of mini _homelabs_ (which may or may not incorporate a rack).
 
-## Hardware
+## <a name="hardware"></a>Hardware
 
 <p align="center"><img alt="Jeff Geerling's MINI RACK 003" src="/assets/images/jeff-geerling-8u-003.jpg" height="auto" width="600"></p>
 
-### 10" Mini Racks
+### <a name="racks"></a>10" Mini Racks
 
 At the center of every mini rack is a 10" or 'half-width' rack. A typical rack is 19" wide, but half-racks fit in more places. There are only a few manufacturers of mini racks, currently, and availability varies by country.
 
@@ -41,7 +60,7 @@ At the center of every mini rack is a 10" or 'half-width' rack. A typical rack i
   - [Middle Atlantic HRF-1214 14U Half Rack Frame (open)](https://amzn.to/4fr2dy2)
   - [4U Rack Rail with Full Holes](https://www.penn-elcom.com/us/4u-rack-rail-with-full-holes-0-08in-thick-r0863-2mm-04) (you can tie two of these together with some 10" gear)
 
-### PDUs (Power Distribution Units)
+### <a name="pdus"></a>PDUs (Power Distribution Units)
 
 Every device in a rack needs power. If it's not provided by a PoE switch, it has to come from somewhere! A PDU, or Power Distribution Unit, takes one power source (usually AC wall power) and lets you plug multiple devices into it—whether through DC 12V adapters, USB-C, or AC outlets.
 
@@ -60,7 +79,7 @@ Ongoing discussions:
 
   - [Find the perfect 1U 10" Mini Rack PDU](https://github.com/geerlingguy/mini-rack/issues/5)
 
-### UPSes (Uninterruptible Power Supplies)
+### <a name="upses"></a>UPSes (Uninterruptible Power Supplies)
 
 UPSes, or Uninterruptable Power Supplies, offer protection against brownouts or power loss, and usually have better power protection circuits as well.
 
@@ -78,7 +97,7 @@ Ongoing discussions:
   - [Geekworm X1200 5V UPS HAT for Pi 5](https://www.amazon.com/Geekworm-X1200-Raspberry-Shutdown-Detection/dp/B0CRYVC8C5?ref_=ast_sto_dp) (rack mounting can be tricky)
   - [Waveshare UPS Module 3S for SBCs](https://amzn.to/3WgNajM) (rack mounting can be tricky)
 
-### Patch Panels
+### <a name="patch-panels"></a>Patch Panels
 
 Patch panels help organize a mess of RJ45 network cables, USB, HDMI, Coax, or whatever other signals you'd like to pass through from the back to the front. Often mounted just above or below a switch for a tidy install.
 
@@ -87,7 +106,7 @@ Patch panels help organize a mess of RJ45 network cables, USB, HDMI, Coax, or wh
   - [INTELLINET 12 Port 1U CAT6 Network Patch Panel](https://amzn.to/3P2ni7g)
   - [Rapink Patch Panel Mini 12 Port Cat6A Shielded Patch Panel](https://amzn.to/3PelLuR)
 
-### Network Gear
+### <a name="network-gear"></a>Network Gear
 
 The heart of every homelab is a network switch or router. There aren't a lot of switches that can natively mount in a 10" rack, but every year a couple new 'half rack' models are introduced.
 
@@ -137,7 +156,7 @@ See [Issue #2: Find a perfect way to mount small switches into mini racks](https
   
 Note: Many of these switches have 3D printable ears on Printables, Thingiverse, etc.
 
-### 3D Printable mini rack systems
+### <a name="3d-printable-systems"></a>3D Printable mini rack systems
 
 Some makers have created entire mini rack 'systems', where you 3D print a faceplate (or cut it out of metal, like with [SendCutSend](https://sendcutsend.com)), and insert different types of gear, like SBCs, SSDs, mini network switches, etc.
 
@@ -146,28 +165,28 @@ This section is for _systems_, not individual 3D printable parts. For parts like
   - [Uptime Lab - Raspberry Pi Server Mark III](https://uplab.pro/2020/12/raspberry-pi-server-mark-iii/)
   - [Mauker's 10-inch rack mounts](https://makerworld.com/en/collections/2928697)
 
-### Mini PC / Server Shelves
+### <a name="mini-pc-server-shelves"></a>Mini PC / Server Shelves
 
 There are a variety of commercial options to mount Mini ITX motherboards (or SBC clusterboards, like the Turing Pi 2, or DeskPi Super6C!), or to mount Tiny/Mini/Micro PCs like a Lenovo M series computer.
 
   - [GeeekPi / DeskPi RackMate Mini ITX 1U shelf](https://amzn.to/3ZKq5qV)
   - [MyElectronics 10" 2U Mini ITX Short-Depth PC enclosure](https://amzn.to/41H6wCe)
 
-### SBC Shelves
+### <a name="sbc-shelves"></a>SBC Shelves
 
 SBCs, or Single Board Computers, are ideal for mini racks, due to their low power, thermal, and space requirements. You can often fit multiple SBCs per U of rack space, and there are many mini rack setups centered around an SBC cluster, or SBC routers or storage devices.
 
   - [GeeekPi / DeskPi RackMate SBC Shelf (Jetson/Pi 4/5 + 2.5" HDD/SSD)](https://amzn.to/49H76C6)
   - [GeeekPi / DeskPi RackMate 2U Rack mount for Pi 5/4 with M.2 NVMe](https://amzn.to/4glDzjL)
 
-### Disk Shelves
+### <a name="disk-shelves"></a>Disk Shelves
 
 It can be difficult to adapt storage devices (especially full 3.5" hard drives!) into a mini rack, but there are always solutions—sometimes as simple as placing a 2-bay NAS on its side, or putting an entire 4-bay NAS on a shelf!
 
   - [GeeekPi / DeskPi RackMate SBC Shelf](https://amzn.to/49H76C6) (can hard-mount two 2.5" or 3.5" HDDs side by side)
   - [10" Rack Hard Drive Mount](https://www.printables.com/model/142325-10-rack-harddrive-mount) (can hard-mount two 3.5" drives)
 
-### Shelves and Blanking Panels
+### <a name="shelves-and-blanking-panels"></a>Shelves and Blanking Panels
 
 Not all gear can be mounted on rack rails. And not every U of space needs to be filled. Often, a device needs extra room above or below for cooling or for an accessory that sticks out. In these cases, you can employ a rack shelf or blanking panels.
 
@@ -184,7 +203,7 @@ Not all gear can be mounted on rack rails. And not every U of space needs to be 
   - [L-com Half Rack 1U Universal Multi Shelf - 5.5" deep](https://www.l-com.com/patch-panel-server-rack-half-rack-1-space-universal-multi-shelf-55-deep-black)
   - [Digitus Shelf 1U Perforated Steel Shelf](https://amzn.to/4014ATT)
 
-## Cable Management
+## <a name="cable-management"></a>Cable Management
 
 Mini racks can quickly turn from beauty into beast, once you start plugging things into each other! Larger racks usually have areas where cables can be routed for a tidy finish and easy maintenance, but mini racks often don't have room. So you can add on accessories to tidy up unsightly cable messes.
 
@@ -193,7 +212,7 @@ Mini racks can quickly turn from beauty into beast, once you start plugging thin
   - [INTELLINET 10" 1U Cable Management Panel - 3 rings](https://amzn.to/3ZY8BZa)
   - [INTELLINET 10" 1U Cable Management Panel - covered](https://amzn.to/4fr239U)
 
-## Build showcase
+## <a name="build-showcase"></a>Build showcase
 
 I'm not the first person to build a mini rack. In fact, the mini-homelab community's been thriving for years! Check out [Reddit r/minilab](https://www.reddit.com/r/minilab/) for some extra inspiration.
 
@@ -208,7 +227,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
-## Software
+## <a name="software"></a>Software
 
 There's a ton of things you can do in a Homelab—and many of them run perfectly fine on mini PCs or SBCs in a mini rack!
 
@@ -217,14 +236,14 @@ Here's a collection of cluster-related projects that may be a good test or start
   - [Pi Cluster](https://github.com/geerlingguy/pi-cluster) - Build a K3s cluster with 3 or more SBCs
   - [Top500 Benchmark](https://github.com/geerlingguy/top500-benchmark) - Benchmark your cluster with HPL (High Performance Linpack)
 
-## License
+## <a name="license"></a>License
 
 GPLv3 or later
 
-## Open Source Repository
+## <a name="open-source-repository"></a>Open Source Repository
 
 This website is generated from the [`geerlingguy/mini-rack`](https://github.com/geerlingguy/mini-rack) GitHub repository.
 
-## Author
+## <a name="author"></a>Author
 
 [Jeff Geerling](https://www.jeffgeerling.com)
