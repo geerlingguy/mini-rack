@@ -96,6 +96,7 @@ UPSes, or Uninterruptable Power Supplies, offer protection against brownouts or 
 #### Mini Rack UPSes
 
   - [Goal Zero Sherpa 100 AC](https://amzn.to/40tUb3r) (requires USB-C PD 60W+ input and rack shelf)
+  - [Tripp Lite 600VA 300W UPS - BC600R](https://amzn.to/3WnvQdg) (fits within the bottom of a RackMate, see [this issue](https://github.com/geerlingguy/mini-rack/issues/1#issuecomment-2599063696))
 
 Ongoing discussions:
 
