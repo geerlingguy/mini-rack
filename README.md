@@ -62,7 +62,7 @@ At the center of every mini rack is a 10" or 'half-width' rack. A typical rack i
   - [Middle Atlantic HRF-1214 14U Half Rack Frame (open)](https://amzn.to/4fr2dy2)
   - [4U Rack Rail with Full Holes](https://www.penn-elcom.com/us/4u-rack-rail-with-full-holes-0-08in-thick-r0863-2mm-04) (you can tie two of these together with some 10" gear)
   - [Rack Magic 3U, 6U, 9U & 12U 10" Mini Rack](https://www.rack-magic.com/en/p/10-rack-3he-6he-9he-12he-tiefe-290-mm-wand-o-boden-montage-rack-magic)
-  - [Rack Magic 5U 10" Wall or Desktop Cabinet](https://www.rack-magic.com/en/p/10-wall-or-desktop-cabinet-5u-250mm-depth-network-server-studio-laborator)
+  - [Rack Magic 5U 10" Wall or Desktop Cabinet](https://www.rack-magic.com/en/p/10-wall-or-desktop-cabinet-5u-250mm-depth-network-server-studio-laboratory)
   - [Rack Magic 3U & 6U 10" Rack Stand](https://www.rack-magic.com/en/p/mini-rack-254mm-10-rack-stand-3u-6u-10-inch)
 
 ### <a name="pdus"></a>PDUs (Power Distribution Units)
