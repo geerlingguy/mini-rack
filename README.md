@@ -162,6 +162,7 @@ Some makers have created entire mini rack 'systems', where you 3D print a facepl
 
 This section is for _systems_, not individual 3D printable parts. For parts like cable modem or mini switch mounts, please see the respective sections elsewhere.
 
+  - [JaredC01's LabStack mini](https://github.com/JaredC01/LabStack)
   - [Uptime Lab - Raspberry Pi Server Mark III](https://uplab.pro/2020/12/raspberry-pi-server-mark-iii/)
   - [Mauker's 10-inch rack mounts](https://makerworld.com/en/collections/2928697)
 
