@@ -64,6 +64,7 @@ At the center of every mini rack is a 10" or 'half-width' rack. A typical rack i
   - [Rack Magic 3U, 6U, 9U & 12U 10" Mini Rack](https://www.rack-magic.com/en/p/10-rack-3he-6he-9he-12he-tiefe-290-mm-wand-o-boden-montage-rack-magic)
   - [Rack Magic 5U 10" Wall or Desktop Cabinet](https://www.rack-magic.com/en/p/10-wall-or-desktop-cabinet-5u-250mm-depth-network-server-studio-laboratory)
   - [Rack Magic 3U & 6U 10" Rack Stand](https://www.rack-magic.com/en/p/mini-rack-254mm-10-rack-stand-3u-6u-10-inch)
+  - [Flyht Pro Stage Rack 9,5" 6U Double Door](https://www.thomann.de/intl/flyht_pro_stage_rack_95_6u_double_door.htm) (Half-rack flight case, 6U – similar models also available, down to 2U) 
 
 ### <a name="pdus"></a>PDUs (Power Distribution Units)
 
@@ -77,6 +78,7 @@ Some PDUs can be remotely managed, other PDUs are basically rack-mountable surge
   - [Tripp Lite PDU15NETLX Single Phase Switched Mini PDU - 2 Outlets](https://amzn.to/3Dmy0mw)
   - [Atlas Power AP-S15HR 15A Half-rack Power Conditioner](https://amzn.to/4iG8oBv)
   - [AliExpress US Power Strip - 3 socket](https://www.aliexpress.us/item/3256805777681738.html)
+  - [the t.racks Power 3 Power Strip – Type F/Schuko](https://www.thomann.de/intl/the_t.racks_power_3.htm)
 
 > **Note**: Some small PoE switches also have PoE+ or PoE++ power input, such as the [Ubiquiti USW-Ultra](https://store.ui.com/us/en/category/switching-utility/collections/pro-ultra/products/usw-ultra). Assuming you are in a location with another PoE++ switch, and everything is PoE-powered, you could power everything off one Ethernet cable, and bypass the need for a PDU or UPS in the mini rack!
 
@@ -208,6 +210,11 @@ Not all gear can be mounted on rack rails. And not every U of space needs to be 
   - [L-com Half Rack 2U Vent Panel](https://www.l-com.com/patch-panel-server-rack-2-space-half-rack-vent-panel-350)
   - [L-com Half Rack 1U Universal Multi Shelf - 5.5" deep](https://www.l-com.com/patch-panel-server-rack-half-rack-1-space-universal-multi-shelf-55-deep-black)
   - [Digitus Shelf 1U Perforated Steel Shelf](https://amzn.to/4014ATT)
+  - [Flyht Pro Rack Tray 9,5" 1U Mount – with cross holes](https://www.thomann.de/intl/flyht_pro_rack_tray_95_1u_mount.htm)
+  - [Flyht Pro Rack Tray 1U 9,5"](https://www.thomann.de/intl/flyht_pro_rack_tray_1u_95.htm)
+  - [Flyht Pro Rack Panel Air 1U 9,5" – vented](https://www.thomann.de/intl/flyht_pro_rack_panel_air_1u_95.htm)
+  - [Flyht Pro Rack Panel 1U 9,5"](https://www.thomann.de/intl/flyht_pro_rack_panel_1u_95.htm)
+  - [Flyht Pro Rack Panel 4XLR 1U 9,5" – with four D-standard holes](https://www.thomann.de/intl/flyht_pro_rack_panel_4xlr_1u_95.htm)
 
 ## <a name="cable-management"></a>Cable Management
 
