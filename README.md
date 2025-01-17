@@ -79,6 +79,8 @@ Some PDUs can be remotely managed, other PDUs are basically rack-mountable surge
   - [Atlas Power AP-S15HR 15A Half-rack Power Conditioner](https://amzn.to/4iG8oBv)
   - [AliExpress US Power Strip - 3 socket](https://www.aliexpress.us/item/3256805777681738.html)
   - [the t.racks Power 3 Power Strip – Type F/Schuko](https://www.thomann.de/intl/the_t.racks_power_3.htm)
+  - [netBooter NP-02B Remote Switched PDU 2 outlet](https://amzn.to/40lpnjZ)
+  - [NETIO PowerPDU 4KB 4 outlet](https://www.netio-products.com/en/device/powerpdu-4kb)
 
 > **Note**: Some small PoE switches also have PoE+ or PoE++ power input, such as the [Ubiquiti USW-Ultra](https://store.ui.com/us/en/category/switching-utility/collections/pro-ultra/products/usw-ultra). Assuming you are in a location with another PoE++ switch, and everything is PoE-powered, you could power everything off one Ethernet cable, and bypass the need for a PDU or UPS in the mini rack!
 
