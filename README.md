@@ -1,7 +1,7 @@
 [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/geerlingguy/mini-rack?link=https%3A%2F%2Fgithub.com%2Fgeerlingguy%2Fmini-rack%2Fissues)](https://github.com/geerlingguy/mini-rack/issues)
  [![GitHub Repo stars](https://img.shields.io/github/stars/geerlingguy/mini-rack?link=https%3A%2F%2Fgithub.com%2Fgeerlingguy%2Fmini-rack%2Fstargazers)](https://github.com/geerlingguy/mini-rack/stargazers)
 
-<p align="center"><img alt="Jeff Geerling's first MINI RACK" src="/assets/images/jeff-geerling-mini-racks-001-002.jpg" height="auto" width="600"></p>
+<p align="center"><img alt="Jeff Geerling's first MINI RACK" src="/assets/images/jeff-geerling-mini-racks-001-002-1200.jpg" height="auto" width="600"></p>
 
 **Project MINI RACK** is a guide for miniature rack builds, for compact Homelabs, RF battlestations, and portable network racks. Watch the video announcing this project by clicking the image below:
 
@@ -44,7 +44,7 @@ Besides this site, check out [Reddit's r/minilab](https://www.reddit.com/r/minil
 
 ## <a name="hardware"></a>Hardware
 
-<p align="center"><img alt="Jeff Geerling's MINI RACK 003" src="/assets/images/jeff-geerling-8u-003.jpg" height="auto" width="600"></p>
+<p align="center"><img alt="Jeff Geerling's MINI RACK 003" src="/assets/images/jeff-geerling-8u-003-1200.jpg" height="auto" width="600"></p>
 
 ### <a name="racks"></a>10" Mini Racks
 
