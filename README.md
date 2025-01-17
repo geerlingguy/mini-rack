@@ -241,6 +241,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | geerlingguy | 2025 | [Mini Rack 003: ITX Dense Compute with external UPS](https://github.com/geerlingguy/mini-rack/issues/6) |
 | timothystewart6 | 2025 | [Mini Rack 004: Complete HomeLab - Proxmox, TrueNAS, Firewall, KVM, and of course RGB](https://github.com/geerlingguy/mini-rack/issues/11) |
 | sefs93 | 2025 | [Custom 3D-printable rack](https://github.com/geerlingguy/mini-rack/issues/21) |
+| stirkage | 2025 | [IKEDA Eket DIY 10" rack](https://github.com/geerlingguy/mini-rack/issues/22) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
