@@ -16,6 +16,7 @@ This site is maintained by [Jeff Geerling](https://www.jeffgeerling.com), who li
   - [Community](#community)
   - [Hardware](#hardware)
     - [10" Mini Racks](#racks)
+    - [10" 3D-Printable Mini Racks](#printableracks)
     - [PDUs](#pdus)
     - [UPSes](#upses)
     - [Patch Panels](#patch-panels)
@@ -67,7 +68,7 @@ At the center of every mini rack is a 10" or 'half-width' rack. A typical rack i
   - [Flyht Pro Stage Rack 9,5" 6U Double Door](https://www.thomann.de/intl/flyht_pro_stage_rack_95_6u_double_door.htm) (Half-rack flight case, 6U – similar models also available, down to 2U)
   - [DSIT 10" 15U Rack](https://www.redcorp.com/en/product/servers-racks-options/dsit/server-rack-15u-glass-door-black-312x310x752mm-wxdxh--ds10-3315/y3872053#)
 
-### <a name="racks"></a>10" Mini Racks - 3D printable
+### <a name="printableracks"></a>10" Mini Racks - 3D printable
 
 There are a number of 10 inch / half-width rack options that can be 3d printed.
 
