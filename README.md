@@ -1,4 +1,4 @@
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/geerlingguy/mini-rack?link=https%3A%2F%2Fgithub.com%2Fgeerlingguy%2Fmini-rack%2Fissues)](https://github.com/geerlingguy/mini-rack/issues)
+-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/geerlingguy/mini-rack?link=https%3A%2F%2Fgithub.com%2Fgeerlingguy%2Fmini-rack%2Fissues)](https://github.com/geerlingguy/mini-rack/issues)
  [![GitHub Repo stars](https://img.shields.io/github/stars/geerlingguy/mini-rack?link=https%3A%2F%2Fgithub.com%2Fgeerlingguy%2Fmini-rack%2Fstargazers)](https://github.com/geerlingguy/mini-rack/stargazers)
 
 <p align="center"><img alt="Jeff Geerling's first MINI RACK" src="/assets/images/jeff-geerling-mini-racks-001-002-1200.jpg" height="auto" width="600"></p>
@@ -66,6 +66,26 @@ At the center of every mini rack is a 10" or 'half-width' rack. A typical rack i
   - [Rack Magic 3U & 6U 10" Rack Stand](https://www.rack-magic.com/en/p/mini-rack-254mm-10-rack-stand-3u-6u-10-inch)
   - [Flyht Pro Stage Rack 9,5" 6U Double Door](https://www.thomann.de/intl/flyht_pro_stage_rack_95_6u_double_door.htm) (Half-rack flight case, 6U – similar models also available, down to 2U)
   - [DSIT 10" 15U Rack](https://www.redcorp.com/en/product/servers-racks-options/dsit/server-rack-15u-glass-door-black-312x310x752mm-wxdxh--ds10-3315/y3872053#)
+
+### <a name="racks"></a>10" Mini Racks - 3D printable
+
+There are a number of 10 inch / half-width rack options that can be 3d printed.
+
+#### Fully 3D printed
+
+Fully 3D printed mini racks require little or no components to build.
+
+These are typically cheaper to build than designs with integration metal frames, but may be weaker and less durable.
+
+  - [Cube Rack - 10" inch Network Cabinet / Server Rack](https://www.printables.com/model/688952-cube-rack-10-inch-network-cabinet-server-rack)
+  - [10 inch server rack by McBig](https://www.printables.com/model/427461-10-inch-server-rack)
+  - [10 inch server rack M5 by Qwertymanzero](https://www.printables.com/model/1115636-10-inch-server-rack-m5)
+
+#### Partialy 3D printed / supported with metal frame
+
+3D Printed mini rack designs with an integrated metal frame offer better strength but require more components to build.
+
+  - [10 inch server rack by Jorge](https://www.printables.com/model/1003967-10-inch-server-rack)
 
 ### <a name="pdus"></a>PDUs (Power Distribution Units)
 
