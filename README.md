@@ -176,6 +176,7 @@ This section is for _systems_, not individual 3D printable parts. For parts like
   - [JaredC01's LabStack mini](https://github.com/JaredC01/LabStack)
   - [Uptime Lab - Raspberry Pi Server Mark III](https://uplab.pro/2020/12/raspberry-pi-server-mark-iii/)
   - [Mauker's 10-inch rack mounts](https://makerworld.com/en/collections/2928697)
+  - [dalovering's fully 3D printable half-width server rack and trays](https://www.printables.com/model/358304-fully-printable-half-width-server-rack-and-trays)
 
 ### <a name="mini-pc-server-shelves"></a>Mini PC / Server Shelves
 
