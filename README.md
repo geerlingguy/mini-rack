@@ -67,6 +67,26 @@ At the center of every mini rack is a 10" or 'half-width' rack. A typical rack i
   - [Flyht Pro Stage Rack 9,5" 6U Double Door](https://www.thomann.de/intl/flyht_pro_stage_rack_95_6u_double_door.htm) (Half-rack flight case, 6U – similar models also available, down to 2U)
   - [DSIT 10" 15U Rack](https://www.redcorp.com/en/product/servers-racks-options/dsit/server-rack-15u-glass-door-black-312x310x752mm-wxdxh--ds10-3315/y3872053#)
 
+### <a name="racks"></a>10" Mini Racks - 3D printable
+
+There are a number of 10 inch / half-width rack options that can be 3d printed.
+
+#### Fully 3D printed
+
+Fully 3D printed mini racks require little or no components to build.
+
+These are typically cheaper to build than designs with integration metal frames, but may be weaker and less durable.
+
+  - [Cube Rack - 10" inch Network Cabinet / Server Rack](https://www.printables.com/model/688952-cube-rack-10-inch-network-cabinet-server-rack)
+  - [10 inch server rack by McBig](https://www.printables.com/model/427461-10-inch-server-rack)
+  - [10 inch server rack M5 by Qwertymanzero](https://www.printables.com/model/1115636-10-inch-server-rack-m5)
+
+#### Partialy 3D printed / supported with metal frame
+
+3D Printed mini rack designs with an integrated metal frame offer better strength but require more components to build.
+
+  - [10 inch server rack by Jorge](https://www.printables.com/model/1003967-10-inch-server-rack)
+
 ### <a name="pdus"></a>PDUs (Power Distribution Units)
 
 Every device in a rack needs power. If it's not provided by a PoE switch, it has to come from somewhere! A PDU, or Power Distribution Unit, takes one power source (usually AC wall power) and lets you plug multiple devices into it—whether through DC 12V adapters, USB-C, or AC outlets.
