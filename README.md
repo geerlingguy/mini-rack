@@ -244,6 +244,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | sefs93 | 2025 | [Custom 3D-printable rack](https://github.com/geerlingguy/mini-rack/issues/21) |
 | stirkage | 2025 | [IKEDA Eket DIY 10" rack](https://github.com/geerlingguy/mini-rack/issues/22) |
 | alatnet | 2025 | [Custom 8U Homelab rack](https://github.com/geerlingguy/mini-rack/issues/23) |
+| RasPiBuilder | 2025 | [Mini Rack 005: Home automation, Docker Swarm, AI Agents, NAS](https://github.com/geerlingguy/mini-rack/issues/39) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
