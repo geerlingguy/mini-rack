@@ -55,7 +55,7 @@ At the center of every mini rack is a 10" or 'half-width' rack. A typical rack i
   - [Digitus Network Cabinet - 9U (wall-mountable)](https://amzn.to/3ZIjjBP) (also 6U)
   - [KENUCO SOHO Mini 6U Rack (enclosed, locking, wall-mountable)](https://amzn.to/3OZvLIi)
   - [NavePoint 6U 10" Server Cabinet (enclosed, locking, wall-mountable, glass door)](https://amzn.to/3P3uWOS)
-  - [NavePoint 6U 10" Server Cabinet (enclosed, locking, wall-mountable, glass door)](https://amzn.to/3BzPc7y)
+  - [NavePoint 6U 10" Server Cabinet (enclosed, locking, wall-mountable, perforated)](https://amzn.to/3BzPc7y)
   - [NavePoint 9U 10" Server Cabinet (enclosed, locking, wall-mountable, perforated door)](https://amzn.to/4iFBznY)
   - [INTELLINET 7U 10" Network Cabinet (enclosed, locking, wall-mountable, glass door)](https://amzn.to/3VHYJAc)
   - [L-com 8U Half Rack Frame Rack (open)](https://www.l-com.com/patch-panel-server-rack-8-space-14-half-rack-frame-rack-10-panel-width-14-deep-passive-top-open-bottom)
