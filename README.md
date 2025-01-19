@@ -66,6 +66,7 @@ At the center of every mini rack is a 10" or 'half-width' rack. A typical rack i
   - [Rack Magic 3U & 6U 10" Rack Stand](https://www.rack-magic.com/en/p/mini-rack-254mm-10-rack-stand-3u-6u-10-inch)
   - [Flyht Pro Stage Rack 9,5" 6U Double Door](https://www.thomann.de/intl/flyht_pro_stage_rack_95_6u_double_door.htm) (Half-rack flight case, 6U – similar models also available, down to 2U)
   - [DSIT 10" 15U Rack](https://www.redcorp.com/en/product/servers-racks-options/dsit/server-rack-15u-glass-door-black-312x310x752mm-wxdxh--ds10-3315/y3872053#)
+  - [DIY Laser Cut Mini Rack](https://github.com/ssilverm/lasercut-mini-rack)
 
 ### <a name="pdus"></a>PDUs (Power Distribution Units)
 
