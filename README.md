@@ -250,6 +250,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | jeofo | 2025 | [Deskpi 8U Showcase](https://github.com/geerlingguy/mini-rack/issues/38) |
 | jccherry | 2025 | [Mini Rack --> Rackception](https://github.com/geerlingguy/mini-rack/issues/37) |
 | loganmarchione | 2021 | [Custom 4U mini-rack](https://github.com/geerlingguy/mini-rack/issues/33) |
+| mrp-yt | 2025 | [GALAXY 10" 3D Printable Homelab Server Rack](https://github.com/geerlingguy/mini-rack/issues/55) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
