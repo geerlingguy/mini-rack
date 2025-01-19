@@ -190,6 +190,7 @@ SBCs, or Single Board Computers, are ideal for mini racks, due to their low powe
 
   - [GeeekPi / DeskPi RackMate SBC Shelf (Jetson/Pi 4/5 + 2.5" HDD/SSD)](https://amzn.to/49H76C6)
   - [GeeekPi / DeskPi RackMate 2U Rack mount for Pi 5/4 with M.2 NVMe](https://amzn.to/4glDzjL)
+  - [Racknex UM-SBC shelves for Pi 2/3/4/5](https://racknex.com/shop/raspberry-pi/?filter_rack=10-inch)
 
 ### <a name="disk-shelves"></a>Disk Shelves
 
