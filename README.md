@@ -33,11 +33,17 @@ This site is maintained by [Jeff Geerling](https://www.jeffgeerling.com), who li
 
 ## <a name="standard"></a>The 10" Mini Rack Standard
 
-There is no particular worldwide 'standard' published for what constitutes a "mini rack". However, after a few decades of various competing widths being built out, most of the industry has settled on the same height standards as typical 19" racks, but with the width being 236.525mm (9.312") between screw holes. This equates to around 220mm (8.75") of horizontal clearance in which gear can be fitted.
+There is no worldwide 'standard' published for what constitutes a "mini rack". However, most of the industry has settled on the same '1U' height standard as typical 19" racks (44.45mm, or 1.75"), but with the width being 236.525mm (9.312") between screw holes. This equates to an _absolute maximum_ of around 220mm (8.75") of horizontal clearance.
 
 <p align="center"><a href="https://commons.wikimedia.org/wiki/File:19_inch_vs_10_inch_rack_dimensions.svg"><img alt="Mini Rack size standard" src="/assets/images/mini-rack-size-wikipedia.png" height="auto" width="600"></a></p>
 
-(Image source: [Wikipedia](https://commons.wikimedia.org/wiki/File:19_inch_vs_10_inch_rack_dimensions.svg).) Allowing for extra tolerances, mini rack gear should fit within around 8.5" of horizontal space, and mounting holes should be able to accomodate a few mm of width to either side.
+(Image source: [Wikipedia](https://commons.wikimedia.org/wiki/File:19_inch_vs_10_inch_rack_dimensions.svg).)
+
+Allowing for extra tolerance, mini rack gear should fit within around 210mm (8.45") of horizontal space, and mounting holes should be able to accomodate a few mm of width to either side.
+
+For screws, some manufacturers forego threads and use square holes for cage nuts, while others use standard 10/32 or 12/24 screws.
+
+Screw or square holes must follow the same vertical spacing as the 19" rack specification.
 
 [See issue #29](https://github.com/geerlingguy/mini-rack/issues/29) for more discussion around mini rack dimensions.
 
