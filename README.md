@@ -261,6 +261,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | Mauker1 | 2023 | [3D printable rack](https://github.com/geerlingguy/mini-rack/issues/64) |
 | paulgrove | 2023 | [3D Printed "Cube" Mini rack](https://github.com/geerlingguy/mini-rack/issues/51) |
 | RustyBrakes | 2025 | [Mini Rack: with Xeon ITX NAS](https://github.com/geerlingguy/mini-rack/issues/46) |
+| DJSdev | 2025 | [RackMate T1 - Side mount for laptop, Tripp Lite UPS, 10Gbe, RPis, Mac Minis](https://github.com/geerlingguy/mini-rack/issues/44) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
