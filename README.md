@@ -50,23 +50,25 @@ Besides this site, check out [Reddit's r/minilab](https://www.reddit.com/r/minil
 
 At the center of every mini rack is a 10" or 'half-width' rack. A typical rack is 19" wide, but half-racks fit in more places. There are only a few manufacturers of mini racks, currently, and availability varies by country.
 
-  - [GeeekPi / DeskPi RackMate T1 8U rack (open)](https://amzn.to/3DjLhfI)
-  - [GeeekPi / DeskPi RackMate T0 4U rack (open)](https://amzn.to/4iIBsZ6)
-  - [Digitus Network Cabinet - 9U (wall-mountable)](https://amzn.to/3ZIjjBP) (also 6U)
-  - [KENUCO SOHO Mini 6U Rack (enclosed, locking, wall-mountable)](https://amzn.to/3OZvLIi)
-  - [NavePoint 6U 10" Server Cabinet (enclosed, locking, wall-mountable, glass door)](https://amzn.to/3P3uWOS)
-  - [NavePoint 6U 10" Server Cabinet (enclosed, locking, wall-mountable, perforated)](https://amzn.to/3BzPc7y)
-  - [NavePoint 9U 10" Server Cabinet (enclosed, locking, wall-mountable, perforated door)](https://amzn.to/4iFBznY)
-  - [INTELLINET 7U 10" Network Cabinet (enclosed, locking, wall-mountable, glass door)](https://amzn.to/3VHYJAc)
-  - [L-com 8U Half Rack Frame Rack (open)](https://www.l-com.com/patch-panel-server-rack-8-space-14-half-rack-frame-rack-10-panel-width-14-deep-passive-top-open-bottom)
-  - [Middle Atlantic HRF-1214 14U Half Rack Frame (open)](https://amzn.to/4fr2dy2)
-  - [4U Rack Rail with Full Holes](https://www.penn-elcom.com/us/4u-rack-rail-with-full-holes-0-08in-thick-r0863-2mm-04) (you can tie two of these together with some 10" gear)
-  - [Rack Magic 3U, 6U, 9U & 12U 10" Mini Rack](https://www.rack-magic.com/en/p/10-rack-3he-6he-9he-12he-tiefe-290-mm-wand-o-boden-montage-rack-magic)
-  - [Rack Magic 5U 10" Wall or Desktop Cabinet](https://www.rack-magic.com/en/p/10-wall-or-desktop-cabinet-5u-250mm-depth-network-server-studio-laboratory)
-  - [Rack Magic 3U & 6U 10" Rack Stand](https://www.rack-magic.com/en/p/mini-rack-254mm-10-rack-stand-3u-6u-10-inch)
-  - [Flyht Pro Stage Rack 9,5" 6U Double Door](https://www.thomann.de/intl/flyht_pro_stage_rack_95_6u_double_door.htm) (Half-rack flight case, 6U – similar models also available, down to 2U)
-  - [DSIT 10" 15U Rack](https://www.redcorp.com/en/product/servers-racks-options/dsit/server-rack-15u-glass-door-black-312x310x752mm-wxdxh--ds10-3315/y3872053#)
-  - [DIY Laser Cut Mini Rack](https://github.com/ssilverm/lasercut-mini-rack)
+| Model (incl. Link)    | Unit Height | Additional information | 
+| -------- | ------- | ------- |
+| [Digitus Network Cabinet](https://amzn.to/3ZIjjBP) | 6U, 9U, 12U | wall-mountable |
+| [DIY Laser Cut Mini Rack](https://github.com/ssilverm/lasercut-mini-rack)|6U||
+| [DSIT Rack](https://www.redcorp.com/en/product/servers-racks-options/dsit/server-rack-15u-glass-door-black-312x310x752mm-wxdxh--ds10-3315/y3872053#) | 15U | glass door |
+| [Flyht Pro Stage Rack Double Door](https://www.thomann.de/intl/flyht_pro_stage_rack_95_6u_double_door.htm) | 6U | flight case, similar models also available down to 2U |
+| [GeeekPi / DeskPi RackMate T0](https://amzn.to/4iIBsZ6) | 4U     | open design |
+| [GeeekPi / DeskPi RackMate T1](https://amzn.to/3DjLhfI)  | 8U    | open design |
+| [Intellinet Network Cabinet](https://amzn.to/3VHYJAc) | 6U | enclosed, locking, wall-mountable, glass door |
+| [KENUCO SOHO Mini Rack](https://amzn.to/3OZvLIi) | 4U, 6U, 9U | enclosed, locking, wall-mountable |
+| [L-com Half Rack Frame Rack](https://www.l-com.com/patch-panel-server-rack-8-space-14-half-rack-frame-rack-10-panel-width-14-deep-passive-top-open-bottom) | 8U | open design |
+| [Middle Atlantic HRF-1214 Half Rack Frame](https://amzn.to/4fr2dy2) | 12U | open design |
+| [NavePoint Server Cabinet I](https://amzn.to/3P3uWOS) | 6U | enclosed, locking, wall-mountable, glass door |
+| [NavePoint Server Cabinet II](https://amzn.to/3BzPc7y) | 6U | enclosed, locking, wall-mountable, perforated door |
+| [NavePoint Server Cabinet III](https://amzn.to/4iFBznY) | 9U | enclosed, locking, wall-mountable, perforated door | 
+| [Penn Elcom Rack Rail with Full Holes](https://www.penn-elcom.com/us/4u-rack-rail-with-full-holes-0-08in-thick-r0863-2mm-04) | 4U | you can tie two of these together with some 10" gear |
+| [Rack Magic Mini Rack](https://www.rack-magic.com/en/p/10-rack-3he-6he-9he-12he-tiefe-290-mm-wand-o-boden-montage-rack-magic) | 3U, 6U, 9U, 12U | wall-mountable, open design |
+| [Rack Magic Cabinet](https://www.rack-magic.com/en/p/10-wall-or-desktop-cabinet-5u-250mm-depth-network-server-studio-laboratory) | 5U | wall-mountable |
+| [Rack Magic Rack Stand](https://www.rack-magic.com/en/p/mini-rack-254mm-10-rack-stand-3u-6u-10-inch) | 3U, 6U | open design |
 
 ### <a name="pdus"></a>PDUs (Power Distribution Units)
 
@@ -83,6 +85,7 @@ Some PDUs can be remotely managed, other PDUs are basically rack-mountable surge
   - [the t.racks Power 3 Power Strip – Type F/Schuko](https://www.thomann.de/intl/the_t.racks_power_3.htm)
   - [netBooter NP-02B Remote Switched PDU 2 outlet](https://amzn.to/40lpnjZ)
   - [NETIO PowerPDU 4KB 4 outlet](https://www.netio-products.com/en/device/powerpdu-4kb)
+  - [APC AP6015A](https://www.apc.com/us/en/product/AP6015A/rack-pdu-basic-0u-1u-120240v-15a-220240v-10a-8-c13)
 
 > **Note**: Some small PoE switches also have PoE+ or PoE++ power input, such as the [Ubiquiti USW-Ultra](https://store.ui.com/us/en/category/switching-utility/collections/pro-ultra/products/usw-ultra). Assuming you are in a location with another PoE++ switch, and everything is PoE-powered, you could power everything off one Ethernet cable, and bypass the need for a PDU or UPS in the mini rack!
 
