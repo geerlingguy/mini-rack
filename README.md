@@ -51,7 +51,7 @@ Besides this site, check out [Reddit's r/minilab](https://www.reddit.com/r/minil
 At the center of every mini rack is a 10" or 'half-width' rack. A typical rack is 19" wide, but half-racks fit in more places. There are only a few manufacturers of mini racks, currently, and availability varies by country.
 
 | Model (incl. Link)    | Unit Height | Additional information | 
-| -------- | ------- | ------- |
+| :-------- | :------- | :------- |
 | [Digitus Network Cabinet](https://amzn.to/3ZIjjBP) | 6U, 9U, 12U | wall-mountable |
 | [DIY Laser Cut Mini Rack](https://github.com/ssilverm/lasercut-mini-rack)|6U||
 | [DSIT Rack](https://www.redcorp.com/en/product/servers-racks-options/dsit/server-rack-15u-glass-door-black-312x310x752mm-wxdxh--ds10-3315/y3872053#) | 15U | glass door |
