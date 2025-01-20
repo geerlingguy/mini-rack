@@ -183,6 +183,7 @@ This section is for _systems_, not individual 3D printable parts. For parts like
   - [Mauker's 10-inch rack mounts](https://makerworld.com/en/collections/2928697)
   - [dalovering's fully 3D printable half-width server rack and trays](https://www.printables.com/model/358304-fully-printable-half-width-server-rack-and-trays)
   - [jazwa's rackstack - modular 3D printable mini rack system](https://github.com/jazwa/rackstack)
+  - [Paul Grove's 3D Cube Rack](https://www.printables.com/model/688952-cube-rack-10-inch-network-cabinet-server-rack)
 
 ### <a name="mini-pc-server-shelves"></a>Mini PC / Server Shelves
 
@@ -258,6 +259,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | loganmarchione | 2021 | [Custom 4U mini-rack](https://github.com/geerlingguy/mini-rack/issues/33) |
 | mrp-yt | 2025 | [GALAXY 10" 3D Printable Homelab Server Rack](https://github.com/geerlingguy/mini-rack/issues/55) |
 | Mauker1 | 2023 | [3D printable rack](https://github.com/geerlingguy/mini-rack/issues/64) |
+| paulgrove | 2023 | [3D Printed "Cube" Mini rack](https://github.com/geerlingguy/mini-rack/issues/51) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
