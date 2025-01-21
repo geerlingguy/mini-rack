@@ -40,9 +40,7 @@ Image source: <a href="https://commons.wikimedia.org/wiki/File:19_inch_vs_10_inc
 
 Allowing for extra tolerance, mini rack gear should fit within around 210mm (8.45") of horizontal space, and mounting holes should be able to accomodate a few mm of width to either side.
 
-For screws, some manufacturers forego threads and use square holes for cage nuts, while others use standard 10/32 or 12/24 screws.
-
-Screw or square holes must follow the same vertical spacing as the 19" rack specification.
+For screws, some manufacturers forego threads and use square holes for cage nuts, while others use standard 10/32 or 12/24 screws. Screw or square holes must follow the same vertical spacing as the 19" rack specification.
 
 [See issue #29](https://github.com/geerlingguy/mini-rack/issues/29) for more discussion around mini rack dimensions.
 
