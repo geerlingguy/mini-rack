@@ -66,12 +66,17 @@ At the center of every mini rack is a 10" or 'half-width' rack. A typical rack i
 
 | Model (incl. Link)    | Unit Height | Additional information | 
 | :-------- | :------- | :------- |
+| [Delock 10″ Network Cabinet (Item No. 43379)](https://www.delock.com/produkt/43379/merkmale.html) | 4U | enclosed, locking, glass door, black |
+| [Delock 10″ Network Cabinet (Item No. 43416)](https://www.delock.com/produkt/43416/merkmale.html) | 4U | enclosed, locking, glass door, grey |
+| [Delock 10″ Network Cabinet (Item No. 43417)](https://www.delock.com/produkt/43417/merkmale.html) | 6U | enclosed, locking, glass door, black |
+| [Delock 10″ Network Cabinet (Item No. 43418)](https://www.delock.com/produkt/43418/merkmale.html) | 8U | enclosed, locking, glass door, black |
+| [Delock 10″ Wallmount Rack (Item No. 43303)](https://www.delock.com/produkt/43303/merkmale.html) | 1U | wall-mountable, black |
 | [Digitus Network Cabinet](https://amzn.to/3ZIjjBP) | 6U, 9U, 12U | wall-mountable |
 | [DIY Laser Cut Mini Rack](https://github.com/ssilverm/lasercut-mini-rack)|6U||
 | [DSIT Rack](https://www.redcorp.com/en/product/servers-racks-options/dsit/server-rack-15u-glass-door-black-312x310x752mm-wxdxh--ds10-3315/y3872053#) | 15U | glass door |
 | [Flyht Pro Stage Rack Double Door](https://www.thomann.de/intl/flyht_pro_stage_rack_95_6u_double_door.htm) | 6U | flight case, similar models also available down to 2U |
-| [GeeekPi / DeskPi RackMate T0](https://amzn.to/4iIBsZ6) | 4U     | open design |
-| [GeeekPi / DeskPi RackMate T1](https://amzn.to/3DjLhfI)  | 8U    | open design |
+| [GeeekPi / DeskPi RackMate T0](https://amzn.to/4iIBsZ6) | 4U | open design |
+| [GeeekPi / DeskPi RackMate T1](https://amzn.to/3DjLhfI)  | 8U | open design |
 | [Intellinet Network Cabinet](https://amzn.to/3VHYJAc) | 6U | enclosed, locking, wall-mountable, glass door |
 | [KENUCO SOHO Mini Rack](https://amzn.to/3OZvLIi) | 4U, 6U, 9U | enclosed, locking, wall-mountable |
 | [L-com Half Rack Frame Rack](https://www.l-com.com/patch-panel-server-rack-8-space-14-half-rack-frame-rack-10-panel-width-14-deep-passive-top-open-bottom) | 8U | open design |
@@ -80,9 +85,9 @@ At the center of every mini rack is a 10" or 'half-width' rack. A typical rack i
 | [NavePoint Server Cabinet II](https://amzn.to/3BzPc7y) | 6U | enclosed, locking, wall-mountable, perforated door |
 | [NavePoint Server Cabinet III](https://amzn.to/4iFBznY) | 9U | enclosed, locking, wall-mountable, perforated door | 
 | [Penn Elcom Rack Rail with Full Holes](https://www.penn-elcom.com/us/4u-rack-rail-with-full-holes-0-08in-thick-r0863-2mm-04) | 4U | you can tie two of these together with some 10" gear |
-| [Rack Magic Mini Rack](https://www.rack-magic.com/en/p/10-rack-3he-6he-9he-12he-tiefe-290-mm-wand-o-boden-montage-rack-magic) | 3U, 6U, 9U, 12U | wall-mountable, open design |
-| [Rack Magic Cabinet](https://www.rack-magic.com/en/p/10-wall-or-desktop-cabinet-5u-250mm-depth-network-server-studio-laboratory) | 5U | wall-mountable |
-| [Rack Magic Rack Stand](https://www.rack-magic.com/en/p/mini-rack-254mm-10-rack-stand-3u-6u-10-inch) | 3U, 6U | open design |
+| [Rack Magic Cabinet](https://www.rack-magic.com/en/p/10-wall-or-desktop-cabinet-5u-250mm-depth-network-server-studio-laboratory) | 5U | wall-mountable, black or grey |
+| [Rack Magic Mini Rack](https://www.rack-magic.com/en/p/10-rack-3he-6he-9he-12he-tiefe-290-mm-wand-o-boden-montage-rack-magic) | 3U, 6U, 9U, 12U | wall-mountable, open design, black or grey |
+| [Rack Magic Rack Stand](https://www.rack-magic.com/en/p/mini-rack-254mm-10-rack-stand-3u-6u-10-inch) | 3U, 6U | open design, black or grey|
 
 ### <a name="pdus"></a>PDUs (Power Distribution Units)
 
