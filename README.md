@@ -66,11 +66,8 @@ At the center of every mini rack is a 10" or 'half-width' rack. A typical rack i
 
 | Model (incl. Link)    | Unit Height | Additional information | 
 | :-------- | :------- | :------- |
-| [Delock 10″ Network Cabinet (Item No. 43379)](https://www.delock.com/produkt/43379/merkmale.html) | 4U | enclosed, locking, glass door, black |
-| [Delock 10″ Network Cabinet (Item No. 43416)](https://www.delock.com/produkt/43416/merkmale.html) | 4U | enclosed, locking, glass door, grey |
-| [Delock 10″ Network Cabinet (Item No. 43417)](https://www.delock.com/produkt/43417/merkmale.html) | 6U | enclosed, locking, glass door, black |
-| [Delock 10″ Network Cabinet (Item No. 43418)](https://www.delock.com/produkt/43418/merkmale.html) | 8U | enclosed, locking, glass door, black |
-| [Delock 10″ Wallmount Rack (Item No. 43303)](https://www.delock.com/produkt/43303/merkmale.html) | 1U | wall-mountable, black |
+| [Delock 10" Network Cabinet](https://www.delock.com/produkt/43379/merkmale.html) | 4U, 6U, 8U | enclosed, locking, glass door |
+| [Delock 10″ Wallmount Rack](https://www.delock.com/produkt/43303/merkmale.html) | 1U | wall-mountable |
 | [Digitus Network Cabinet](https://amzn.to/3ZIjjBP) | 6U, 9U, 12U | wall-mountable |
 | [DIY Laser Cut Mini Rack](https://github.com/ssilverm/lasercut-mini-rack)|6U||
 | [DSIT Rack](https://www.redcorp.com/en/product/servers-racks-options/dsit/server-rack-15u-glass-door-black-312x310x752mm-wxdxh--ds10-3315/y3872053#) | 15U | glass door |
