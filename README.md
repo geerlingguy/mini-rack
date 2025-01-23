@@ -134,10 +134,13 @@ Ongoing discussions:
 
 Patch panels help organize a mess of RJ45 network cables, USB, HDMI, Coax, or whatever other signals you'd like to pass through from the back to the front. Often mounted just above or below a switch for a tidy install.
 
-  - [GeeekPi 12 Port 0.5U CAT6 Network Patch Panel](https://amzn.to/3ZZ1os4)
-  - [INTELLINET 10 Port 1U Keystone Patch Panel](https://amzn.to/3P1PHKF)
-  - [INTELLINET 12 Port 1U CAT6 Network Patch Panel](https://amzn.to/3P2ni7g)
-  - [Rapink Patch Panel Mini 12 Port Cat6A Shielded Patch Panel](https://amzn.to/3PelLuR)
+| Model (incl. Link)    | Unit Height | Additional information | 
+| :-------- | :------- | :------- |
+| [Delock 10" Fiber Optic Patch Panel 12 Port LC Duplex](https://www.delock.com/produkt/66769/merkmale.html) | 1U | Different models available: Different colors,  SC simplex, LC duplex, LC quad, empty panels. Check website for different model numbers |
+| [GeeekPi 12 Port CAT6 Network Patch Panel](https://amzn.to/3ZZ1os4) | 0.5U | Can also be used as a 0.5U Keystone patch panel |
+| [INTELLINET 10 Port Keystone Patch Panel](https://amzn.to/3P1PHKF) | 1U |  |
+| [INTELLINET 12 Port CAT6 Network Patch Panel](https://amzn.to/3P2ni7g) | 1U |  |
+| [Rapink Patch Panel Mini 12 Port Cat6A Shielded Patch Panel](https://amzn.to/3PelLuR) | 1U |  |
 
 ### <a name="network-gear"></a>Network Gear
 
