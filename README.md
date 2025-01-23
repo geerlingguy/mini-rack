@@ -291,6 +291,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | symbiiote | 2025 | [Cheap DIY 10" mini rack](https://github.com/geerlingguy/mini-rack/issues/67) |
 | BlackChar | 2021 | [KALLAX Custom 10" 6U rack (EU)](https://github.com/geerlingguy/mini-rack/issues/70) |
 | lukehoersten | 2025 | [Unifi 2.5Gbps Homelab 9U Mini Rack](https://github.com/geerlingguy/mini-rack/issues/79) |
+| derek-tattersall | 2025 | [Homemade mini-rack](https://github.com/geerlingguy/mini-rack/issues/81) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
