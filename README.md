@@ -162,7 +162,7 @@ In this section, gear will be split between devices which natively mount in a 10
   - [MikroTik RB5009UG+S+IN 7 x 1Gbps 1x 2.5Gbps 1x SFP+ Router](https://mikrotik.com/product/rb5009ug_s_in)
   - [MikroTik RB5009UPr+S+IN 7 x 1Gbps PoE+ 1x 2.5Gbps PoE+ 1x SFP+ Router](https://mikrotik.com/product/rb5009upr_s_in)
   - [YuanLey YS2083GS-P 8-port PoE+, 2-port 1 Gbps, 1-port SFP 120W Unmanaged switch](https://amzn.to/41Y3qKv)
-  - [GiGaPlus GP-S25-0802P 8x 2.5G PoE+ 2x 10G SFP+ Unmanaged Switch](https://amzn.to/4iGMxJR)
+  - [GiGaPlus GP-S25-0802P 8x 2.5G PoE+ 2x 10G SFP+ Unmanaged Switch](https://amzn.to/4iGMxJR) (and [3D printed rack ears](https://github.com/geerlingguy/mini-rack/issues/76))
   - [QNAP QSW-M2108R-2C 8x 2.5G 2x 10G SFP+/RJ45 Managed Switch](https://amzn.to/4gNoaJ4)
   - [QNAP QSW-M2106R-2S2T 6x 2.5G 2x 10G SFP+ 2x 10G RJ45 Managed Switch](https://amzn.to/3VLfwCH)
   - [QNAP QSW-M2106PR-2S2T 6x 2.5G PoE++ 2x 10G PoE++ RJ45 2x 10G SFP+ Managed Switch](https://amzn.to/4iF3Lrj)
