@@ -290,6 +290,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | DJSdev | 2025 | [RackMate T1 - Side mount for laptop, Tripp Lite UPS, 10Gbe, RPis, Mac Minis](https://github.com/geerlingguy/mini-rack/issues/44) |
 | symbiiote | 2025 | [Cheap DIY 10" mini rack](https://github.com/geerlingguy/mini-rack/issues/67) |
 | BlackChar | 2021 | [KALLAX Custom 10" 6U rack (EU)](https://github.com/geerlingguy/mini-rack/issues/70) |
+| lukehoersten | 2025 | [Unifi 2.5Gbps Homelab 9U Mini Rack](https://github.com/geerlingguy/mini-rack/issues/79) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
