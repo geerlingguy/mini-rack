@@ -84,7 +84,8 @@ At the center of every mini rack is a 10" or 'half-width' rack. A typical rack i
 | [Penn Elcom Rack Rail with Full Holes](https://www.penn-elcom.com/us/4u-rack-rail-with-full-holes-0-08in-thick-r0863-2mm-04) | 4U | you can tie two of these together with some 10" gear |
 | [Rack Magic Cabinet](https://www.rack-magic.com/en/p/10-wall-or-desktop-cabinet-5u-250mm-depth-network-server-studio-laboratory) | 5U | wall-mountable, black or grey |
 | [Rack Magic Mini Rack](https://www.rack-magic.com/en/p/10-rack-3he-6he-9he-12he-tiefe-290-mm-wand-o-boden-montage-rack-magic) | 3U, 6U, 9U, 12U | wall-mountable, open design, black or grey |
-| [Rack Magic Rack Stand](https://www.rack-magic.com/en/p/mini-rack-254mm-10-rack-stand-3u-6u-10-inch) | 3U, 6U | open design, black or grey|
+| [Rack Magic Rack Stand](https://www.rack-magic.com/en/p/mini-rack-254mm-10-rack-stand-3u-6u-10-inch) | 3U, 6U | open design, black or grey |
+| [Triton RKA 10/19 Rack](https://triton-racks.com/products/data-cabinets/wall-mounted-cabinets/rka-10-19) | 10U | only 10 inch rack available with a depth > 30cm |
 
 ### <a name="pdus"></a>PDUs (Power Distribution Units)
 
