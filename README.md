@@ -211,6 +211,7 @@ This section is for _systems_, not individual 3D printable parts. For parts like
   - [dalovering's fully 3D printable half-width server rack and trays](https://www.printables.com/model/358304-fully-printable-half-width-server-rack-and-trays)
   - [jazwa's rackstack - modular 3D printable mini rack system](https://github.com/jazwa/rackstack)
   - [Paul Grove's 3D Cube Rack](https://www.printables.com/model/688952-cube-rack-10-inch-network-cabinet-server-rack)
+  - [axiopaladin's ButterflyRack - modular, 3D printed frame for metal rails](https://github.com/axiopaladin/ButterflyRack)
 
 ### <a name="mini-pc-server-shelves"></a>Mini PC / Server Shelves
 
