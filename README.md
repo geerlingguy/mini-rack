@@ -199,6 +199,14 @@ See [Issue #2: Find a perfect way to mount small switches into mini racks](https
   
 Note: Many of these switches have 3D printable ears on Printables, Thingiverse, etc.
 
+### <a name="other-gear"></a>Other Gear
+
+Sometimes there are interesting things that don't fit into any other category.
+
+| Model (incl. Link)    | Unit Height | Additional information | 
+| :-------- | :------- | :------- |
+| [DSIT 10 inch design LED lighting system](https://www.serverrack24.com/10-inch-design-led-lighting-system-white.html) | 1U | Colour of light: white, 12V |
+
 ### <a name="3d-printable-systems"></a>3D Printable mini rack systems
 
 Some makers have created entire mini rack 'systems', where you 3D print a faceplate (or cut it out of metal, like with [SendCutSend](https://sendcutsend.com)), and insert different types of gear, like SBCs, SSDs, mini network switches, etc.
