@@ -21,6 +21,7 @@ This site is maintained by [Jeff Geerling](https://www.jeffgeerling.com), who li
     - [UPSes](#upses)
     - [Patch Panels](#patch-panels)
     - [Network Gear](#network-gear)
+    - [Other Gear](#other-gear)
     - [3D-Printable mini rack systems](#3d-printable-systems)
     - [Mini PC/Server Shelves](#mini-pc-server-shelves)
     - [SBC Shelves](#sbc-shelves)
