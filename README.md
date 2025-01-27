@@ -205,7 +205,8 @@ Sometimes there are interesting things that don't fit into any other category.
 
 | Model (incl. Link)    | Unit Height | Additional information | 
 | :-------- | :------- | :------- |
-| [DSIT 10 inch design LED lighting system](https://www.serverrack24.com/10-inch-design-led-lighting-system-white.html) | 1U | Colour of light: white, 12V |
+| [DSIT 12V design LED lighting system - white](https://www.serverrack24.com/10-inch-design-led-lighting-system-white.html) | 1U | Colour of light: white |
+| [DSIT 12V design LED lighting system - multicolor](https://www.serverrack24.com/10-inch-design-led-lighting-system-multicolor.html) | 1U | Colour of light: white, red, green, blue |
 
 ### <a name="3d-printable-systems"></a>3D Printable mini rack systems
 
