@@ -21,6 +21,7 @@ This site is maintained by [Jeff Geerling](https://www.jeffgeerling.com), who li
     - [UPSes](#upses)
     - [Patch Panels](#patch-panels)
     - [Network Gear](#network-gear)
+    - [Other Gear](#other-gear)
     - [3D-Printable mini rack systems](#3d-printable-systems)
     - [Mini PC/Server Shelves](#mini-pc-server-shelves)
     - [SBC Shelves](#sbc-shelves)
@@ -198,6 +199,15 @@ See [Issue #2: Find a perfect way to mount small switches into mini racks](https
   - Many 4, 5, 6, or 8 port cheap PoE/1 Gbps switches (too many to list...)
   
 Note: Many of these switches have 3D printable ears on Printables, Thingiverse, etc.
+
+### <a name="other-gear"></a>Other Gear
+
+Sometimes there are interesting things that don't fit into any other category.
+
+| Model (incl. Link)    | Unit Height | Additional information | 
+| :-------- | :------- | :------- |
+| [DSIT 12V design LED lighting system - white](https://www.serverrack24.com/10-inch-design-led-lighting-system-white.html) | 1U | Colour of light: white |
+| [DSIT 12V design LED lighting system - multicolor](https://www.serverrack24.com/10-inch-design-led-lighting-system-multicolor.html) | 1U | Colour of light: white, red, green, blue |
 
 ### <a name="3d-printable-systems"></a>3D Printable mini rack systems
 
