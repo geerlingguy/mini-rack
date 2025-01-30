@@ -217,6 +217,7 @@ This section is for _systems_, not individual 3D printable parts. For parts like
 
   - [JaredC01's LabStack mini](https://github.com/JaredC01/LabStack)
   - [monkizzle's MiniRax system](https://makerworld.com/en/collections/4692516)
+  - [bwees' 3D Printable Mini Rack](https://www.printables.com/model/1170708-modular-10-rack)
   - [Uptime Lab - Raspberry Pi Server Mark III](https://uplab.pro/2020/12/raspberry-pi-server-mark-iii/)
   - [Mauker's 10-inch rack mounts](https://makerworld.com/en/collections/2928697)
   - [dalovering's fully 3D printable half-width server rack and trays](https://www.printables.com/model/358304-fully-printable-half-width-server-rack-and-trays)
@@ -309,6 +310,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | aej-comp | 2025 | [DIY 10" Server Rack \| Open Frame](https://github.com/geerlingguy/mini-rack/issues/94) |
 | monkizzle | 2025 | [MiniRax Pi 5 5G Router Ecoflow Showcase](https://github.com/geerlingguy/mini-rack/issues/97) |
 | avrono | 2025 | [Cheap Wooden DIY Mini Rack](https://github.com/geerlingguy/mini-rack/issues/98) |
+| bwees | 2025 | [Another 3D Printed Rack Design](https://github.com/geerlingguy/mini-rack/issues/100) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
