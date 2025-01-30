@@ -22,7 +22,7 @@ This site is maintained by [Jeff Geerling](https://www.jeffgeerling.com), who li
     - [Patch Panels](#patch-panels)
     - [Network Gear](#network-gear)
     - [Other Gear](#other-gear)
-    - [3D-Printable mini rack systems](#3d-printable-systems)
+    - [3D Printable mini rack systems](#3d-printable-systems)
     - [Mini PC/Server Shelves](#mini-pc-server-shelves)
     - [SBC Shelves](#sbc-shelves)
     - [Disk Shelves](#disk-shelves)
@@ -216,6 +216,7 @@ Some makers have created entire mini rack 'systems', where you 3D print a facepl
 This section is for _systems_, not individual 3D printable parts. For parts like cable modem or mini switch mounts, please see the respective sections elsewhere.
 
   - [JaredC01's LabStack mini](https://github.com/JaredC01/LabStack)
+  - [monkizzle's MiniRax system](https://makerworld.com/en/collections/4692516)
   - [Uptime Lab - Raspberry Pi Server Mark III](https://uplab.pro/2020/12/raspberry-pi-server-mark-iii/)
   - [Mauker's 10-inch rack mounts](https://makerworld.com/en/collections/2928697)
   - [dalovering's fully 3D printable half-width server rack and trays](https://www.printables.com/model/358304-fully-printable-half-width-server-rack-and-trays)
@@ -306,6 +307,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | derek-tattersall | 2025 | [Homemade mini-rack](https://github.com/geerlingguy/mini-rack/issues/81) |
 | ben-parker | 2025 | [The "network pile to network rack" mini rack](https://github.com/geerlingguy/mini-rack/issues/89) |
 | aej-comp | 2025 | [DIY 10" Server Rack \| Open Frame](https://github.com/geerlingguy/mini-rack/issues/94) |
+| monkizzle | 2025 | [MiniRax Pi 5 5G Router Ecoflow Showcase](https://github.com/geerlingguy/mini-rack/issues/97) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
