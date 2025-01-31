@@ -311,6 +311,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | monkizzle | 2025 | [MiniRax Pi 5 5G Router Ecoflow Showcase](https://github.com/geerlingguy/mini-rack/issues/97) |
 | avrono | 2025 | [Cheap Wooden DIY Mini Rack](https://github.com/geerlingguy/mini-rack/issues/98) |
 | bwees | 2025 | [Another 3D Printed Rack Design](https://github.com/geerlingguy/mini-rack/issues/100) |
+| Chris Borge | 2025 | [Modular 3D-Printed CNC Controller](https://github.com/geerlingguy/mini-rack/issues/103) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
