@@ -108,8 +108,8 @@ Some PDUs can be remotely managed, other PDUs are basically rack-mountable surge
 | [NETIO PowerPDU 4KS](https://www.netio-products.com/en/device/powerpdu-4ks) | 1U | 4x C13 (type S) outlet, [NETIO RM2 2x4C rack mounts](https://www.netio-products.com/en/accessory/netio-rm2-2x4c) |
 | [PDUOnline (UK) 10" Rack PDUs](https://pduonline.co.uk/product-category/rack-pdus/10-horizontal-pdus/) | 1U | 4x UK (type G) outlet / 2x UK (type G), 1x C13 (type S), 1x C19 (type T) outlet / 2x UK (type G), 4x C13 (type S) outlet / 8x C13 (type S) outlet |
 | [Tripp Lite PDU15NETLX Single Phase Switched Mini PDU](https://amzn.to/3Dmy0mw) | 1U | 2x NEMA 5-15R (type B) outlet |
-| [the t.racks Power 3 Power Strip – Type F/Schuko](https://www.thomann.de/intl/the_t.racks_power_3.htm) | 1U | 3x Schuko (type F) outlet  |
-| [Tupavco TP1713 4-outlet Mini Rack PDU with Protection](https://amzn.to/41JChus) | 1U | 4x NEMA 5-15R (type B) outlet |
+| [the t.racks Power 3 Power Strip](https://www.thomann.de/intl/the_t.racks_power_3.htm) | 1U | 3x Schuko (type F) outlet  |
+| [Tupavco TP1713 Mini Rack PDU with Protection](https://amzn.to/41JChus) | 1U | 4x NEMA 5-15R (type B) outlet |
 
 > **Note**: Some small PoE switches also have PoE+ or PoE++ power input, such as the [Ubiquiti USW-Ultra](https://store.ui.com/us/en/category/switching-utility/collections/pro-ultra/products/usw-ultra). Assuming you are in a location with another PoE++ switch, and everything is PoE-powered, you could power everything off one Ethernet cable, and bypass the need for a PDU or UPS in the mini rack!
 
