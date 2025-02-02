@@ -99,9 +99,9 @@ Some PDUs can be remotely managed, other PDUs are basically rack-mountable surge
 | [AliExpress US Power Strip - 3 socket](https://www.aliexpress.us/item/3256805777681738.html) | 1U |  |
 | [APC AP6015A](https://www.apc.com/us/en/product/AP6015A/rack-pdu-basic-0u-1u-120240v-15a-220240v-10a-8-c13) | 1U | 8x C13 outlet |
 | [Atlas Power AP-S15HR 15A Half-rack Power Conditioner](https://amzn.to/4iG8oBv) | 1U | 6x NEMA 5-15R outlet; slightly too wide, may need modified mounting |
-| [DIGITUS 10" Aluminium Outlet Strip, 3 safety outlets, 2m supply safety plug](https://amzn.eu/d/4CE9nbv) | 1U |  |
-| [DIGITUS 10" Socket Strip with Aluminum Profile, 4-way safety sockets](https://amzn.eu/d/9gsqlp5) | 1U |  |
-| [GeeekPi DC PDU Lite - 7 Channel 12V 0.5U PDU](https://amzn.to/3DliKGG) | 0.5U |  |
+| [DIGITUS 10" Aluminium Outlet Strip](https://amzn.eu/d/4CE9nbv) | 1U | 3x Schuko outlet |
+| [DIGITUS 10" Socket Strip with Aluminum Profile](https://amzn.eu/d/9gsqlp5) | 1U | 4x Schuko outlet |
+| [GeeekPi DC PDU Lite](https://amzn.to/3DliKGG) | 0.5U | 7x 5.5mm outlet (0V to 24V)|
 | [MiniBoot Smart PDU](https://amzn.to/4axNdhm) | 1U | 4x NEMA 5-15R outlet |
 | [netBooter NP-02B Remote Switched PDU 2 outlet](https://amzn.to/40lpnjZ) | ? |  |
 | [NETIO PowerPDU 4KB](https://www.netio-products.com/en/device/powerpdu-4kb) | 1U | 4x NEMA 5-15R outlet |
