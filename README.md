@@ -96,16 +96,16 @@ Some PDUs can be remotely managed, other PDUs are basically rack-mountable surge
 
 | Model (incl. Link)    | Unit Height | Additional information | 
 | :-------- | :------- | :------- |
-| [AliExpress US Power Strip - 3 socket](https://www.aliexpress.us/item/3256805777681738.html) | 1U |  |
+| [AliExpress US Power Strip](https://www.aliexpress.us/item/3256805777681738.html) | 1U | 3x NEMA 5-15R outlet |
 | [APC AP6015A](https://www.apc.com/us/en/product/AP6015A/rack-pdu-basic-0u-1u-120240v-15a-220240v-10a-8-c13) | 1U | 8x C13 outlet |
 | [Atlas Power AP-S15HR 15A Half-rack Power Conditioner](https://amzn.to/4iG8oBv) | 1U | 6x NEMA 5-15R outlet; slightly too wide, may need modified mounting |
 | [DIGITUS 10" Aluminium Outlet Strip](https://amzn.eu/d/4CE9nbv) | 1U | 3x Schuko outlet |
 | [DIGITUS 10" Socket Strip with Aluminum Profile](https://amzn.eu/d/9gsqlp5) | 1U | 4x Schuko outlet |
 | [GeeekPi DC PDU Lite](https://amzn.to/3DliKGG) | 0.5U | 7x 5.5mm outlet (0V to 24V)|
 | [MiniBoot Smart PDU](https://amzn.to/4axNdhm) | 1U | 4x NEMA 5-15R outlet |
-| [netBooter NP-02B Remote Switched PDU 2 outlet](https://amzn.to/40lpnjZ) | ? |  |
-| [NETIO PowerPDU 4KB](https://www.netio-products.com/en/device/powerpdu-4kb) | 1U | 4x NEMA 5-15R outlet |
-| [NETIO PowerPDU 4KS](https://www.netio-products.com/en/device/powerpdu-4ks) | 1U | 4x C13 outlet |
+| [netBooter NP-02B Remote Switched PDU](https://amzn.to/40lpnjZ) | 1U | 2x NEMA 5-15R outlet |
+| [NETIO PowerPDU 4KB](https://www.netio-products.com/en/device/powerpdu-4kb) | 1U | 4x NEMA 5-15R outlet, [NETIO RM2 2x4C rack mounts](https://www.netio-products.com/en/accessory/netio-rm2-2x4c) |
+| [NETIO PowerPDU 4KS](https://www.netio-products.com/en/device/powerpdu-4ks) | 1U | 4x C13 outlet, [NETIO RM2 2x4C rack mounts](https://www.netio-products.com/en/accessory/netio-rm2-2x4c) |
 | [PDUOnline (UK) 10" Rack PDUs](https://pduonline.co.uk/product-category/rack-pdus/10-horizontal-pdus/) | 1U | 4x UK outlet / 2x UK, 1x C13, 1x C19 outlet / 2x UK, 4x C13 outlet / 8x C13 outlet |
 | [Tripp Lite PDU15NETLX Single Phase Switched Mini PDU - 2 Outlets](https://amzn.to/3Dmy0mw) | ? |  |
 | [the t.racks Power 3 Power Strip – Type F/Schuko](https://www.thomann.de/intl/the_t.racks_power_3.htm) | 1U |  |
