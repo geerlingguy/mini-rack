@@ -256,23 +256,23 @@ It can be difficult to adapt storage devices (especially full 3.5" hard drives!)
 
 Not all gear can be mounted on rack rails. And not every U of space needs to be filled. Often, a device needs extra room above or below for cooling or for an accessory that sticks out. In these cases, you can employ a rack shelf or blanking panels.
 
-  - [GeeekPi / DeskPi Rackmate 1U Rack Shelf with supports](https://amzn.to/3ZZJq8T)
-  - [GeeekPi / DeskPi Rackmate 0.5U Rack shelf with supports](https://amzn.to/4fjuuGY)
-  - [GeeekPi / DeskPi 1U Vented blanking panel](https://amzn.to/49KQPMf)
-  - [GeeekPi / DeskPi 1U Solid blanking panel](https://amzn.to/3BLnox3)
-  - [INTELLINET 10" 1U Vented Cantilever Shelf](https://amzn.to/3BM80jY)
-  - [INTELLINET 10" 1U Blank Panel](https://amzn.to/3ZGa6tN)
-  - [L-com Half Rack Quiet Blower Panel, 50 CFM](https://www.l-com.com/patch-panel-server-rack-half-rack-quiet-blower-panel-50-cfm)
-  - [L-com Half Rack 1U Blank Panel](https://www.l-com.com/patch-panel-server-rack-1-space-half-rack-blank-panel-175)
-  - [L-com Half Rack 1U Vent Panel](https://www.l-com.com/patch-panel-server-rack-1-space-half-rack-vent-panel-175)
-  - [L-com Half Rack 2U Vent Panel](https://www.l-com.com/patch-panel-server-rack-2-space-half-rack-vent-panel-350)
-  - [L-com Half Rack 1U Universal Multi Shelf - 5.5" deep](https://www.l-com.com/patch-panel-server-rack-half-rack-1-space-universal-multi-shelf-55-deep-black)
-  - [Digitus Shelf 1U Perforated Steel Shelf](https://amzn.to/4014ATT)
-  - [Flyht Pro Rack Tray 9,5" 1U Mount – with cross holes](https://www.thomann.de/intl/flyht_pro_rack_tray_95_1u_mount.htm)
-  - [Flyht Pro Rack Tray 1U 9,5"](https://www.thomann.de/intl/flyht_pro_rack_tray_1u_95.htm)
-  - [Flyht Pro Rack Panel Air 1U 9,5" – vented](https://www.thomann.de/intl/flyht_pro_rack_panel_air_1u_95.htm)
-  - [Flyht Pro Rack Panel 1U 9,5"](https://www.thomann.de/intl/flyht_pro_rack_panel_1u_95.htm)
-  - [Flyht Pro Rack Panel 4XLR 1U 9,5" – with four D-standard holes](https://www.thomann.de/intl/flyht_pro_rack_panel_4xlr_1u_95.htm)
+| Model (incl. Link)    | Unit Height | Additional information | 
+| :-------- | :------- | :------- |
+| [Digitus Shelf 1U Perforated Steel Shelf](https://amzn.to/4014ATT) | 1U |  |
+| [Flyht Pro Rack Tray 9,5" 1U Mount – with cross holes](https://www.thomann.de/intl/flyht_pro_rack_tray_95_1u_mount.htm) | |  |
+| [Flyht Pro Rack Tray 1U 9,5"](https://www.thomann.de/intl/flyht_pro_rack_tray_1u_95.htm) | |  |
+| [Flyht Pro Rack Panel Air 1U 9,5" – vented](https://www.thomann.de/intl/flyht_pro_rack_panel_air_1u_95.htm) | |  |
+| [Flyht Pro Rack Panel 1U 9,5"](https://www.thomann.de/intl/flyht_pro_rack_panel_1u_95.htm) | |  |
+| [Flyht Pro Rack Panel 4XLR 1U 9,5" – with four D-standard holes](https://www.thomann.de/intl/flyht_pro_rack_panel_4xlr_1u_95.htm) | |  |
+| [GeeekPi / DeskPi Rackmate Rack Shelf with Supports](https://amzn.to/4fjuuGY) | [0.5U](https://deskpi.com/products/deskpi-rackmate-accessories-rack-shell-10-inch-0-5u-rack), [1U](https://amzn.to/3ZZJq8T) |   |
+| [GeeekPi / DeskPi Solid Blanking Panel](https://amzn.to/3BLnox3) | [1U](https://deskpi.com/products/deskpi-accessories-blank-pannel), [2U](https://deskpi.com/products/deskpi-rackmate-accessories-2u-blank-panel-for-10-inch-server-rack-network-cabinet) |  |
+| [GeeekPi / DeskPi Vented Blanking Panel](https://amzn.to/49KQPMf) | [1U](https://deskpi.com/products/deskpi-rackmate-1u-venting-blank-panel-1u), [2U](https://deskpi.com/products/deskpi-rackmate-accessories-2u-venting-blank-panel) |  |
+| [INTELLINET 10" Blank Panel](https://amzn.to/3ZGa6tN) | 1U |  |
+| [INTELLINET 10" Vented Cantilever Shelf](https://amzn.to/3BM80jY) | 1U |  |
+| [L-com Half Rack Blank Panel](https://www.l-com.com/patch-panel-server-rack-1-space-half-rack-blank-panel-175) | 1U |  |
+| [L-com Half Rack Quiet Blower Panel, 50 CFM](https://www.l-com.com/patch-panel-server-rack-half-rack-quiet-blower-panel-50-cfm) | |  |
+| [L-com Half Rack 1U Universal Multi Shelf - 5.5" deep](https://www.l-com.com/patch-panel-server-rack-half-rack-1-space-universal-multi-shelf-55-deep-black) | 1U |  |
+| L-com Half Rack Vent Panel | [1U](https://www.l-com.com/patch-panel-server-rack-1-space-half-rack-vent-panel-175), [2U](https://www.l-com.com/patch-panel-server-rack-2-space-half-rack-vent-panel-350) |  |
 
 ## <a name="cable-management"></a>Cable Management
 
