@@ -262,7 +262,7 @@ Not all gear can be mounted on rack rails. And not every U of space needs to be 
 | :-------- | :------- | :------- |
 | [Digitus Shelf Perforated Steel Shelf](https://amzn.to/4014ATT) | 1U |  |
 | [Flyht Pro Rack Tray Mount](https://www.thomann.de/intl/flyht_pro_rack_tray_95_1u_mount.htm) | 1U | With cross holes |
-| [Flyht Pro Rack Tray Solid](https://www.thomann.de/intl/flyht_pro_rack_tray_1u_95.htm) | 1U |  |
+| Flyht Pro Rack Tray | [1U](https://www.thomann.de/intl/flyht_pro_rack_tray_1u_95.htm), [2U](https://www.thomann.de/intl/flyht_pro_rack_tray_2u_95.htm), [3U](https://www.thomann.de/intl/flyht_pro_rack_tray_3u_95.htm) | 3U variant has ventilation slots |
 | Flyht Pro Rack Panel Air | [1U](https://www.thomann.de/intl/flyht_pro_rack_panel_air_1u_95.htm), [2U](https://www.thomann.de/intl/flyht_pro_rack_panel_air_2u_95.htm) |  |
 | Flyht Pro Rack Panel | [1U](https://www.thomann.de/de/flyht_pro_rack_panel_1u_95.htm), [2U](https://www.thomann.de/intl/flyht_pro_rack_panel_2u_95.htm), [3U](https://www.thomann.de/intl/flyht_pro_rack_panel_3u_95.htm) |  |
 | GeeekPi / DeskPi Rackmate Rack Shelf with Supports | [0.5U](https://amzn.to/4fjuuGY), [1U](https://amzn.to/3ZZJq8T) |   |
@@ -271,8 +271,8 @@ Not all gear can be mounted on rack rails. And not every U of space needs to be 
 | [INTELLINET 10" Blank Panel](https://amzn.to/3ZGa6tN) | 1U |  |
 | [INTELLINET 10" Vented Cantilever Shelf](https://amzn.to/3BM80jY) | 1U |  |
 | [L-com Half Rack Blank Panel](https://www.l-com.com/patch-panel-server-rack-1-space-half-rack-blank-panel-175) | 1U |  |
-| [L-com Half Rack Quiet Blower Panel, 50 CFM](https://www.l-com.com/patch-panel-server-rack-half-rack-quiet-blower-panel-50-cfm) | |  |
-| [L-com Half Rack 1U Universal Multi Shelf - 5.5" deep](https://www.l-com.com/patch-panel-server-rack-half-rack-1-space-universal-multi-shelf-55-deep-black) | 1U |  |
+| [L-com Half Rack Quiet Blower Panel](https://www.l-com.com/patch-panel-server-rack-half-rack-quiet-blower-panel-50-cfm) | 1U | 50 CFM |
+| [L-com Half Rack 1U Universal Multi Shelf](https://www.l-com.com/patch-panel-server-rack-half-rack-1-space-universal-multi-shelf-55-deep-black) | 1U | 5.5" deep |
 | L-com Half Rack Vent Panel | [1U](https://www.l-com.com/patch-panel-server-rack-1-space-half-rack-vent-panel-175), [2U](https://www.l-com.com/patch-panel-server-rack-2-space-half-rack-vent-panel-350) |  |
 
 ## <a name="cable-management"></a>Cable Management
