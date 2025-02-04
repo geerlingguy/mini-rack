@@ -285,10 +285,26 @@ Not all gear can be mounted on rack rails. And not every U of space needs to be 
 
 Mini racks can quickly turn from beauty into beast, once you start plugging things into each other! Larger racks usually have areas where cables can be routed for a tidy finish and easy maintenance, but mini racks often don't have room. So you can add on accessories to tidy up unsightly cable messes.
 
-  - [GeeekPi / DeskPi 0.5U Cable Entry brush panel](https://amzn.to/3DvacwM)
-  - [GeeekPi 0.5U Horizontal Cable Manager with D-ring hooks](https://amzn.to/4gwE6PE)
-  - [INTELLINET 10" 1U Cable Management Panel - 3 rings](https://amzn.to/3ZY8BZa)
-  - [INTELLINET 10" 1U Cable Management Panel - covered](https://amzn.to/4fr239U)
+| Model (incl. Link)    | Unit Height | Additional information | 
+| :-------- | :------- | :------- |
+| [Ad-Tek / Network-Cabs Cable Management Panel with Hooks](https://www.network-cabs.co.uk/product/ad-tek-network-cabs-1u-10-inch-mini-recessed-cable-management-panel-370) | 1U | Recessed, 2x vertical hook |
+| Delock Cable Management Brush Strip I | [1U](https://www.delock.com/produkt/66287/merkmale.html), [2U](https://www.delock.com/produkt/66481/merkmale.html) |  |
+| Delock Cable Management Brush Strip II | [1U](https://www.delock.com/produkt/66343/merkmale.html), [2U](https://www.delock.com/produkt/66345/merkmale.html) | Tool free |
+| [Delock Cable Management Brush Strip with Cable Fixing](https://www.delock.com/produkt/66845/merkmale.html) | 1U |  |
+| [Delock Cable Management Brush Strip with Cable Support Plate](https://www.delock.com/produkt/66483/merkmale.html) | 1U |  |
+| [Delock Cable Management Brush Strip with Hooks](https://www.delock.com/produkt/66487/merkmale.html) | 1U | 2x brush, 3 x vertical hook |
+| [Delock Cable Management Brush Strip with Rings](https://www.delock.com/produkt/66485/merkmale.html) | 1U | 1x brush, 2 x vertical D-Ring hook |
+| [Delock Cable Management Routing Panel with Hooks](https://www.delock.com/produkt/66847/merkmale.html) | 1U |  2 x horizontal and 1 x vertical hook |
+| [Delock Cable Management Routing Panel with Rings I](https://www.delock.com/produkt/43342/merkmale.html) | 1U | 3x D-Ring hook |
+| [Delock Cable Management Routing Panel with Rings II](https://www.delock.com/produkt/66666/merkmale.html) | 1U | Angled, 2 x vertical D-Ring hook |
+| Delock Cable Management Routing Panel with Opening | [1U](https://www.delock.com/produkt/66843/merkmale.html), [2U](https://www.delock.com/produkt/66844/merkmale.html) | Covered, 2U variant has 2 openings |
+| [Digitus Cable Management Brush Strip](https://www.amazon.com/Digitus-Cable-Entry-Panel-Brush/dp/B08T19L6LR) | 0.5U |  |
+| [Digitus Cable Management Routing Panel with Hooks](https://www.amazon.com/Digitus-Cable-Jumper-Panel-Brackets/dp/B08T1JJQD2) | 1U | 3x vertical hook |
+| [GeeekPi / DeskPi Cable Entry Brush Panel](https://amzn.to/3DvacwM) | 0.5U |  |
+| [GeeekPi / DeskPi Horizontal Cable Manager with Hooks](https://amzn.to/4gwE6PE) | 0.5U | 3x D-Ring hook |
+| [INTELLINET Cable Management Panel with Rings](https://amzn.to/3ZY8BZa) | 1U | 3x retaining ring  |
+| [INTELLINET Cable Management Routing Panel with Opening](https://amzn.to/4fr239U) | 1U | Covered |
+
 
 ## <a name="build-showcase"></a>Build showcase
 
