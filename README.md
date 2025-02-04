@@ -264,6 +264,7 @@ Not all gear can be mounted on rack rails. And not every U of space needs to be 
 | All Metal Parts Half-Rack Perforated Vented Blank Panel | [0.5U](http://www.allmetalparts.co.uk/790-1-2u-95-inch-half-rack-perforated-vented-blank-panel.html), [1U](http://www.allmetalparts.co.uk/half-rack-panels/361-1u-half-rack-perforated-vented-blank-panel-5055726200079.html), [2U](http://www.allmetalparts.co.uk/half-rack-panels/374-2u-half-rack-perforated-vented-blank-panel-5055726203728.html), [3U](http://www.allmetalparts.co.uk/half-rack-panels/363-3u-half-rack-perforated-vented-blank-panel-5055726203735.html) |  |
 | All Metal Parts Half-Rack Slot Vented Blank Panel | [0.5U](http://www.allmetalparts.co.uk/637-1-2u-95-inch-half-rack-slot-vented-blank-panel-5055726299486.html), [1U](http://www.allmetalparts.co.uk/half-rack-panels/358-1u-half-rack-vented-slotted-panel-5055726200048.html), [2U](http://www.allmetalparts.co.uk/half-rack-panels/359-2u-half-rack-vented-slotted-panel-5055726200055.html), [3U](http://www.allmetalparts.co.uk/half-rack-panels/360-3u-half-rack-vented-slotted-panel-5055726200062.html) |  |
 | Delock Network Cabinet Blind Cover | [1U](https://www.delock.com/produkt/66576/merkmale.html), [2U](https://www.delock.com/produkt/66578/merkmale.html) | Tool free |
+| Delock Network Cabinet Panel with Opening | [1U](https://www.delock.com/produkt/66672/merkmale.html), [2U](https://www.delock.com/produkt/66673/merkmale.html) |  |
 | Delock Network Cabinet Panel with Ventilation Slots I | [1U](https://www.delock.com/produkt/66839/merkmale.html), [2U](https://www.delock.com/produkt/66840/merkmale.html), [3U](https://www.delock.com/produkt/66841/merkmale.html), [4U](https://www.delock.com/produkt/66842/merkmale.html) |  |
 | Delock Network Cabinet Panel with Ventilation Slots II | [1U](https://www.delock.com/produkt/66984/merkmale.html), [2U](https://www.delock.com/produkt/66986/merkmale.html) | Tool free |
 | [Digitus Shelf Perforated Steel Shelf](https://amzn.to/4014ATT) | 1U |  |
@@ -298,6 +299,8 @@ Mini racks can quickly turn from beauty into beast, once you start plugging thin
 | [Delock Cable Management Routing Panel with Rings I](https://www.delock.com/produkt/43342/merkmale.html) | 1U | 3x D-Ring hook |
 | [Delock Cable Management Routing Panel with Rings II](https://www.delock.com/produkt/66666/merkmale.html) | 1U | Angled, 2 x vertical D-Ring hook |
 | Delock Cable Management Routing Panel with Opening | [1U](https://www.delock.com/produkt/66843/merkmale.html), [2U](https://www.delock.com/produkt/66844/merkmale.html) | Covered, 2U variant has 2 openings |
+| [Delock Cable Support Rail I](https://www.delock.com/produkt/66677/merkmale.html) | 1U |  |
+| [Delock Cable Support Rail II](https://www.delock.com/produkt/66678/merkmale.html) | 1U | Recessed |
 | [Digitus Cable Management Brush Strip](https://www.amazon.com/Digitus-Cable-Entry-Panel-Brush/dp/B08T19L6LR) | 0.5U |  |
 | [Digitus Cable Management Routing Panel with Hooks](https://www.amazon.com/Digitus-Cable-Jumper-Panel-Brackets/dp/B08T1JJQD2) | 1U | 3x vertical hook |
 | [GeeekPi / DeskPi Cable Entry Brush Panel](https://amzn.to/3DvacwM) | 0.5U |  |
