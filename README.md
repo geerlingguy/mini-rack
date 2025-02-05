@@ -163,18 +163,18 @@ In this section, gear will be split between devices which natively mount in a 10
 | :-------- | :------- | :------- |
 | [Digitus DN-80115](https://de.assmann.shop/en/Active-Network-Components/Network-Switches/10-Network-Switches/16-Port-Gigabit-Switch-10-inch-Unmanaged.html) | 1U | Switch Unmanaged, 16x 1G RJ45 |
 | [Digitus DN-80117](https://de.assmann.shop/en/Active-Network-Components/Network-Switches/10-Network-Switches/8-Port-Gigabit-Switch-10-Inch-Managed.html) | 1U | Switch Managed, 8x 1G RJ45 |
-| [MikroTik CSS318-16G-2S+IN](https://mikrotik.com/product/css318_16g_2s_in) | 1U | Switch Managed, 16x 1G RJ45 / 2x 10G SFP+ |
+| [MikroTik CRS112-8P-4S-IN](https://amzn.to/4fivRpi) | 1U | Switch Managed, 8x 1G RJ45 (PoE, PoE+) / 4x 1G SFP |
 | [MikroTik CRS310-1G-5S-4S+IN](https://amzn.to/3VJKYBe) | 1U | Switch Managed, 1x 1G RJ45 / 5x 1G SFP / 4x 10G SFP+ |
 | [MikroTik CRS310-8G+2S+IN](https://amzn.to/3Dx4smb) | 1U | Switch Managed, 8x 2.5G RF45 / 2x 10G SFP+ 
-| [MikroTik CRS112-8P-4S-IN](https://amzn.to/4fivRpi) | 1U | Switch Managed, 8x 1G RJ45 (PoE, PoE+) / 4x 1G SFP |
-| [MikroTik CSS610-8P-2S+IN](https://amzn.to/3ZKAtP8) | 1U | Switch Managed, 8x 1G RJ45 (PoE, PoE+) / 2x 10G SFP+ | 
+| [MikroTik CSS318-16G-2S+IN](https://mikrotik.com/product/css318_16g_2s_in) | 1U | Switch Managed, 16x 1G RJ45 / 2x 10G SFP+ |
 | [MikroTik CSS610-8G-2S+IN](https://amzn.to/3OYAjyV) | 1U | Switch Managed, 8x 1G RF45 / 2x 10G SFP+ |
+| [MikroTik CSS610-8P-2S+IN](https://amzn.to/3ZKAtP8) | 1U | Switch Managed, 8x 1G RJ45 (PoE, PoE+) / 2x 10G SFP+ | 
 | [MikroTik L009UiGS-RM](https://mikrotik.com/product/l009uigs_rm) | 0.5U | Router, 8x 1G RJ45 / 1 x 2.5G SFP |
 | [MikroTik RB5009UG+S+IN](https://mikrotik.com/product/rb5009ug_s_in) | 0.5U | Router, 7x 1G RJ45 / 1x 2.5G RJ45 / 1x 10G SFP+ |
+| [MikroTik RB5009UPr+S+IN](https://mikrotik.com/product/rb5009upr_s_in) | 0.5U | Router, 7x 1G RJ45 (PoE, PoE+) / 1x 2.5G RJ45 (PoE, PoE+) / 1x 10G SFP+ |
+| [YuanLey YS2083GS-P](https://amzn.to/41Y3qKv) | 1U | Switch Unmanaged, 8x 1G RJ45 (PoE, PoE+) / 2x 1G RJ45 / 1x 1G SFP | 
 
 
-  - [MikroTik RB5009UPr+S+IN 7 x 1Gbps PoE+ 1x 2.5Gbps PoE+ 1x SFP+ Router](https://mikrotik.com/product/rb5009upr_s_in)
-  - [YuanLey YS2083GS-P 8-port PoE+, 2-port 1 Gbps, 1-port SFP 120W Unmanaged switch](https://amzn.to/41Y3qKv)
   - [GiGaPlus GP-S25-0802P 8x 2.5G PoE+ 2x 10G SFP+ Unmanaged Switch](https://amzn.to/4iGMxJR) (and [3D printed rack ears](https://github.com/geerlingguy/mini-rack/issues/76))
   - [QNAP QSW-M2108R-2C 8x 2.5G 2x 10G SFP+/RJ45 Managed Switch](https://amzn.to/4gNoaJ4)
   - [QNAP QSW-M2106R-2S2T 6x 2.5G 2x 10G SFP+ 2x 10G RJ45 Managed Switch](https://amzn.to/3VLfwCH)
