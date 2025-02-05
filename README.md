@@ -159,32 +159,34 @@ In this section, gear will be split between devices which natively mount in a 10
 
 #### Rack-mountable Network Gear
 
-  - [Digitus DN-80115 16x 1Gbps Unmanaged Switch](https://www.digitec.ch/en/s1/product/digitus-dn-80115-16-ports-network-switches-12955993)
-  - [Digitus DN-80117 8x 1Gbps Managed Switch](https://de.assmann.shop/en/Active-Network-Components/Network-Switches/10-Network-Switches/8-Port-Gigabit-Switch-10-Inch-Managed.html?listtype=search&searchparam=switch)
-  - [MikroTik CSS318-16G-2S+IN 8x 1Gbps 2x 10G SFP+ Router](https://mikrotik.com/product/css318_16g_2s_in)
-  - [MikroTik CRS310-1G-5S-4S+IN 5x 1Gbps SFP 4x 10G SFP+ 1x 1Gbps Ethernet Switch](https://amzn.to/3VJKYBe)
-  - [MikroTik CRS310-8G+2S+IN 8x 2.5Gbps 2x 10G SFP+ Router](https://amzn.to/3Dx4smb)
-  - [MikroTik CRS112-8P-4S-IN 8x 1Gbps 4x 1Gbps SFP Router](https://amzn.to/4fivRpi)
-  - [MikroTik CSS610-8P-2S+in 8x 1 Gbps PoE+ 2x SFP+ 10G Switch](https://amzn.to/3ZKAtP8)
-  - [MikroTik CSS610-8G-2S+in 8x 1Gbps 2x SPF+ 10G Switch](https://amzn.to/3OYAjyV)
-  - [MikroTik L009UiGS-RM 8 x 1Gbps 1x 2.5G SFP Router](https://mikrotik.com/product/l009uigs_rm)
-  - [MikroTik RB5009UG+S+IN 7 x 1Gbps 1x 2.5Gbps 1x SFP+ Router](https://mikrotik.com/product/rb5009ug_s_in)
-  - [MikroTik RB5009UPr+S+IN 7 x 1Gbps PoE+ 1x 2.5Gbps PoE+ 1x SFP+ Router](https://mikrotik.com/product/rb5009upr_s_in)
-  - [YuanLey YS2083GS-P 8-port PoE+, 2-port 1 Gbps, 1-port SFP 120W Unmanaged switch](https://amzn.to/41Y3qKv)
-  - [GiGaPlus GP-S25-0802P 8x 2.5G PoE+ 2x 10G SFP+ Unmanaged Switch](https://amzn.to/4iGMxJR) (and [3D printed rack ears](https://github.com/geerlingguy/mini-rack/issues/76))
-  - [QNAP QSW-M2108R-2C 8x 2.5G 2x 10G SFP+/RJ45 Managed Switch](https://amzn.to/4gNoaJ4)
-  - [QNAP QSW-M2106R-2S2T 6x 2.5G 2x 10G SFP+ 2x 10G RJ45 Managed Switch](https://amzn.to/3VLfwCH)
-  - [QNAP QSW-M2106PR-2S2T 6x 2.5G PoE++ 2x 10G PoE++ RJ45 2x 10G SFP+ Managed Switch](https://amzn.to/4iF3Lrj)
-  - [QNAP QSW-M3216R-8S8T 8x 10G RJ45 8x 10G SFP+ Managed Switch](https://amzn.to/3VOc1eP)
-  - [QNAP QSW-M3212R-8S4T 4x 10G RJ45 8x 10G SFP+ Managed Switch](https://amzn.to/4fBPOaY)
-  - [QNAP QSW-3216R-8S8T 8x 10G RJ45 8x 10G SFP+ Unmanaged Switch](https://amzn.to/3DtQ1zt)
-  - [QNAP QSW-M7308R-4X 4x 100G QSFP 8x 25G SFP+ L3 Managed Switch](https://amzn.to/3ZO0e0X)
+| Model (incl. Link)    | Unit Height | Additional information | 
+| :-------- | :------- | :------- |
+| [Digitus DN-80115](https://de.assmann.shop/en/Active-Network-Components/Network-Switches/10-Network-Switches/16-Port-Gigabit-Switch-10-inch-Unmanaged.html) | 1U | Switch Unmanaged, 16x 1G RJ45 |
+| [Digitus DN-80117](https://de.assmann.shop/en/Active-Network-Components/Network-Switches/10-Network-Switches/8-Port-Gigabit-Switch-10-Inch-Managed.html) | 1U | Switch Managed, 8x 1G RJ45 |
+| [GiGaPlus GP-S25-0802P](https://amzn.to/4iGMxJR) | 1U | Switch Unmanaged, 8x 2.5G RJ45 (PoE, PoE+) / 2x 10G SFP+, [3D printed rack ears](https://github.com/geerlingguy/mini-rack/issues/76) |
+| [MikroTik CRS112-8P-4S-IN](https://amzn.to/4fivRpi) | 1U | Switch Managed, 8x 1G RJ45 (PoE, PoE+) / 4x 1G SFP |
+| [MikroTik CRS310-1G-5S-4S+IN](https://amzn.to/3VJKYBe) | 1U | Switch Managed, 1x 1G RJ45 / 5x 1G SFP / 4x 10G SFP+ |
+| [MikroTik CRS310-8G+2S+IN](https://amzn.to/3Dx4smb) | 1U | Switch Managed, 8x 2.5G RF45 / 2x 10G SFP+ 
+| [MikroTik CSS318-16G-2S+IN](https://mikrotik.com/product/css318_16g_2s_in) | 1U | Switch Managed, 16x 1G RJ45 / 2x 10G SFP+ |
+| [MikroTik CSS610-8G-2S+IN](https://amzn.to/3OYAjyV) | 1U | Switch Managed, 8x 1G RF45 / 2x 10G SFP+ |
+| [MikroTik CSS610-8P-2S+IN](https://amzn.to/3ZKAtP8) | 1U | Switch Managed, 8x 1G RJ45 (PoE, PoE+) / 2x 10G SFP+ | 
+| [MikroTik L009UiGS-RM](https://mikrotik.com/product/l009uigs_rm) | 0.5U | Router, 8x 1G RJ45 / 1 x 2.5G SFP |
+| [MikroTik RB5009UG+S+IN](https://mikrotik.com/product/rb5009ug_s_in) | 0.5U | Router, 7x 1G RJ45 / 1x 2.5G RJ45 / 1x 10G SFP+ |
+| [MikroTik RB5009UPr+S+IN](https://mikrotik.com/product/rb5009upr_s_in) | 0.5U | Router, 7x 1G RJ45 (PoE, PoE+) / 1x 2.5G RJ45 (PoE, PoE+) / 1x 10G SFP+ |
+| [QNAP QSW-3216R-8S8T](https://amzn.to/3DtQ1zt) | 1U | Switch Unmanaged, 8x 10G RJ45 / 8x 10G SFP+ |
+| [QNAP QSW-M2106R-2S2T](https://amzn.to/3VLfwCH) | 1U | Switch Managed, 6x 2.5G RJ45 / 2x 10G RJ45 / 2x 10G SFP+ |
+| [QNAP QSW-M2106PR-2S2T](https://amzn.to/4iF3Lrj) | 1U | Switch Managed, 6x 2.5G RJ45 (PoE, PoE+, PoE++) / 2x 10G RJ45 (PoE, PoE+, PoE++) / 2x 10G SFP+ |
+| [QNAP QSW-M2108R-2C](https://amzn.to/4gNoaJ4) | 1U | Switch Managed, 8x 2.5G RJ45 / 2x 10G RJ45/SFP+ |
+| [QNAP QSW-M3212R-8S4T](https://amzn.to/4fBPOaY) | 1U | Switch Managed, 4x 10G RJ45 / 8x 10G SFP+ |
+| [QNAP QSW-M3216R-8S8T](https://amzn.to/3VOc1eP) | 1U | Switch Managed, 8x 10G RJ45 / 8x 10G SFP+ |
+| [QNAP QSW-M7308R-4X](https://amzn.to/3ZO0e0X) | 1U | Switch Managed, 4x 100G QSFP28 / 8x 25G SFP28 |
+| [YuanLey YS2083GS-P](https://amzn.to/41Y3qKv) | 1U | Switch Unmanaged, 8x 1G RJ45 (PoE, PoE+) / 2x 1G RJ45 / 1x 1G SFP | 
 
 Note: Some switches intended for full-width rack mount ears _may_ work in a 10" rack with 'universal' rack ears, like the [Pelopy Adjustable Universal Rack Mount Ear Kit](https://amzn.to/4gJ7BxT).
 
 Some manufacturers require special kits for 10" rack compatibility:
 
-  - Mikrotik offers the [RMK-2/10 kit](https://amzn.to/3Pmm5rT)) for full 10" compatibility
+  - Mikrotik offers the [RMK-2/10 kit](https://amzn.to/3Pmm5rT) for full 10" compatibility
   - QNAP offers the [SP-EAR-QSWHALFRACK-01](https://store.qnap.com/sp-ear-qswhalfrack-01.html), though you may need to buy two kits to get a short ear for each side!
     - There's also a set of [3D Printable rack ears for QNAP 10" devices](https://www.printables.com/model/1023123-qnap-switch-10-rack-mount)
   - Pelopy offers a [Universal Rack Mount Ear Kit](https://amzn.to/4gJ7BxT) for many vendors—however fitment can be tricky...
