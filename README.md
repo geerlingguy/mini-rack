@@ -186,7 +186,7 @@ Note: Some switches intended for full-width rack mount ears _may_ work in a 10" 
 
 Some manufacturers require special kits for 10" rack compatibility:
 
-  - Mikrotik offers the [RMK-2/10 kit](https://amzn.to/3Pmm5rT)) for full 10" compatibility
+  - Mikrotik offers the [RMK-2/10 kit](https://amzn.to/3Pmm5rT) for full 10" compatibility
   - QNAP offers the [SP-EAR-QSWHALFRACK-01](https://store.qnap.com/sp-ear-qswhalfrack-01.html), though you may need to buy two kits to get a short ear for each side!
     - There's also a set of [3D Printable rack ears for QNAP 10" devices](https://www.printables.com/model/1023123-qnap-switch-10-rack-mount)
   - Pelopy offers a [Universal Rack Mount Ear Kit](https://amzn.to/4gJ7BxT) for many vendors—however fitment can be tricky...
