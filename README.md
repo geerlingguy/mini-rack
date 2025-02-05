@@ -359,6 +359,7 @@ There's a ton of things you can do in a Homelab—and many of them run perfectly
 Here's a collection of cluster-related projects that may be a good test or starting point for your own rack, if you need the inspiration:
 
   - [Pi Cluster](https://github.com/geerlingguy/pi-cluster) - Build a K3s cluster with 3 or more SBCs
+  - [Pi Hosted](https://pi-hosted.com) - Docker and Portainer-based Pi hosting
   - [Top500 Benchmark](https://github.com/geerlingguy/top500-benchmark) - Benchmark your cluster with HPL (High Performance Linpack)
 
 ## <a name="license"></a>License
