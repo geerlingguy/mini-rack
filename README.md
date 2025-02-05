@@ -348,6 +348,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | bwees | 2025 | [Another 3D Printed Rack Design](https://github.com/geerlingguy/mini-rack/issues/100) |
 | Chris Borge | 2025 | [Modular 3D-Printed CNC Controller](https://github.com/geerlingguy/mini-rack/issues/103) |
 | wildegnux | 2025 | [Sideways IKIEA PAX rack](https://github.com/geerlingguy/mini-rack/issues/110) |
+| hcschmitt | 2025 | [RackMate T0 to Organize my Mess](https://github.com/geerlingguy/mini-rack/issues/116) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
