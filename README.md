@@ -166,8 +166,8 @@ In this section, gear will be split between devices which natively mount in a 10
 | [MikroTik CSS318-16G-2S+IN](https://mikrotik.com/product/css318_16g_2s_in) | 1U | Switch Managed, 16x 1G RJ45 / 2x 10G SFP+ |
 | [MikroTik CRS310-1G-5S-4S+IN](https://amzn.to/3VJKYBe) | 1U | Switch Managed, 1x 1G RJ45 / 5x 1G SFP / 4x 10G SFP+ |
 | [MikroTik CRS310-8G+2S+IN](https://amzn.to/3Dx4smb) | 1U | Switch Managed, 8x 2.5G RF45 / 2x 10G SFP+ 
-| [MikroTik CRS112-8P-4S-IN](https://amzn.to/4fivRpi) | 1U | Switch Managed, 8x 1G RJ45 / 4x 1G SFP |
-| [MikroTik CSS610-8P-2S+IN](https://amzn.to/3ZKAtP8) | 1U | Switch Managed, 8x 1G RJ45 (PoE) / 2x 10G SFP+ | 
+| [MikroTik CRS112-8P-4S-IN](https://amzn.to/4fivRpi) | 1U | Switch Managed, 8x 1G RJ45 (PoE, PoE+) / 4x 1G SFP |
+| [MikroTik CSS610-8P-2S+IN](https://amzn.to/3ZKAtP8) | 1U | Switch Managed, 8x 1G RJ45 (PoE, PoE+) / 2x 10G SFP+ | 
 
 
   - [MikroTik CSS610-8G-2S+in 8x 1Gbps 2x SPF+ 10G Switch](https://amzn.to/3OYAjyV)
