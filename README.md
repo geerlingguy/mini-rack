@@ -167,9 +167,9 @@ In this section, gear will be split between devices which natively mount in a 10
 | [MikroTik CRS310-1G-5S-4S+IN](https://amzn.to/3VJKYBe) | 1U | Switch Managed, 1x 1G RJ45 / 5x 1G SFP / 4x 10G SFP+ |
 | [MikroTik CRS310-8G+2S+IN](https://amzn.to/3Dx4smb) | 1U | Switch Managed, 8x 2.5G RF45 / 2x 10G SFP+ 
 | [MikroTik CRS112-8P-4S-IN](https://amzn.to/4fivRpi) | 1U | Switch Managed, 8x 1G RJ45 / 4x 1G SFP |
+| [MikroTik CSS610-8P-2S+IN](https://amzn.to/3ZKAtP8) | 1U | Switch Managed, 8x 1G RJ45 (PoE) / 2x 10G SFP+ | 
 
 
-  - [MikroTik CSS610-8P-2S+in 8x 1 Gbps PoE+ 2x SFP+ 10G Switch](https://amzn.to/3ZKAtP8)
   - [MikroTik CSS610-8G-2S+in 8x 1Gbps 2x SPF+ 10G Switch](https://amzn.to/3OYAjyV)
   - [MikroTik L009UiGS-RM 8 x 1Gbps 1x 2.5G SFP Router](https://mikrotik.com/product/l009uigs_rm)
   - [MikroTik RB5009UG+S+IN 7 x 1Gbps 1x 2.5Gbps 1x SFP+ Router](https://mikrotik.com/product/rb5009ug_s_in)
