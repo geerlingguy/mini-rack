@@ -173,7 +173,6 @@ In this section, gear will be split between devices which natively mount in a 10
 | [MikroTik L009UiGS-RM](https://mikrotik.com/product/l009uigs_rm) | 0.5U | Router, 8x 1G RJ45 / 1 x 2.5G SFP |
 | [MikroTik RB5009UG+S+IN](https://mikrotik.com/product/rb5009ug_s_in) | 0.5U | Router, 7x 1G RJ45 / 1x 2.5G RJ45 / 1x 10G SFP+ |
 | [MikroTik RB5009UPr+S+IN](https://mikrotik.com/product/rb5009upr_s_in) | 0.5U | Router, 7x 1G RJ45 (PoE, PoE+) / 1x 2.5G RJ45 (PoE, PoE+) / 1x 10G SFP+ |
-| [YuanLey YS2083GS-P](https://amzn.to/41Y3qKv) | 1U | Switch Unmanaged, 8x 1G RJ45 (PoE, PoE+) / 2x 1G RJ45 / 1x 1G SFP | 
 | [QNAP QSW-3216R-8S8T](https://amzn.to/3DtQ1zt) | 1U | Switch Unmanaged, 8x 10G RJ45, 8x 10G SFP+ |
 | [QNAP QSW-M2106R-2S2T](https://amzn.to/3VLfwCH) | 1U | Switch Managed, 6x 2.5G RJ45, 2x 10G RJ45, 2x 10G SFP+ |
 | [QNAP QSW-M2106PR-2S2T](https://amzn.to/4iF3Lrj) | 1U | Switch Managed, 6x 2.5G RJ45 (PoE, PoE+, PoE++), 2x 10G RJ45 (PoE, PoE+, PoE++), 2x 10G SFP+ |
@@ -181,6 +180,7 @@ In this section, gear will be split between devices which natively mount in a 10
 | [QNAP QSW-M3212R-8S4T](https://amzn.to/4fBPOaY) | 1U | Switch Managed, 4x 10G RJ45, 8x 10G SFP+ |
 | [QNAP QSW-M3216R-8S8T](https://amzn.to/3VOc1eP) | 1U | Switch Managed, 8x 10G RJ45, 8x 10G SFP+ |
 | [QNAP QSW-M7308R-4X](https://amzn.to/3ZO0e0X) | 1U | Switch Managed, 4x 100G QSFP28 / 8x 25G SFP28 |
+| [YuanLey YS2083GS-P](https://amzn.to/41Y3qKv) | 1U | Switch Unmanaged, 8x 1G RJ45 (PoE, PoE+) / 2x 1G RJ45 / 1x 1G SFP | 
 
 Note: Some switches intended for full-width rack mount ears _may_ work in a 10" rack with 'universal' rack ears, like the [Pelopy Adjustable Universal Rack Mount Ear Kit](https://amzn.to/4gJ7BxT).
 
