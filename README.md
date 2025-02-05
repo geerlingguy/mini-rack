@@ -168,11 +168,11 @@ In this section, gear will be split between devices which natively mount in a 10
 | [MikroTik CRS310-8G+2S+IN](https://amzn.to/3Dx4smb) | 1U | Switch Managed, 8x 2.5G RF45 / 2x 10G SFP+ 
 | [MikroTik CRS112-8P-4S-IN](https://amzn.to/4fivRpi) | 1U | Switch Managed, 8x 1G RJ45 (PoE, PoE+) / 4x 1G SFP |
 | [MikroTik CSS610-8P-2S+IN](https://amzn.to/3ZKAtP8) | 1U | Switch Managed, 8x 1G RJ45 (PoE, PoE+) / 2x 10G SFP+ | 
+| [MikroTik CSS610-8G-2S+IN](https://amzn.to/3OYAjyV) | 1U | Switch Managed, 8x 1G RF45 / 2x 10G SFP+ |
+| [MikroTik L009UiGS-RM](https://mikrotik.com/product/l009uigs_rm) | 0.5U | Router, 8x 1G RJ45 / 1 x 2.5G SFP |
+| [MikroTik RB5009UG+S+IN](https://mikrotik.com/product/rb5009ug_s_in) | 0.5U | Router, 7x 1G RJ45 / 1x 2.5G RJ45 / 1x 10G SFP+ |
 
 
-  - [MikroTik CSS610-8G-2S+in 8x 1Gbps 2x SPF+ 10G Switch](https://amzn.to/3OYAjyV)
-  - [MikroTik L009UiGS-RM 8 x 1Gbps 1x 2.5G SFP Router](https://mikrotik.com/product/l009uigs_rm)
-  - [MikroTik RB5009UG+S+IN 7 x 1Gbps 1x 2.5Gbps 1x SFP+ Router](https://mikrotik.com/product/rb5009ug_s_in)
   - [MikroTik RB5009UPr+S+IN 7 x 1Gbps PoE+ 1x 2.5Gbps PoE+ 1x SFP+ Router](https://mikrotik.com/product/rb5009upr_s_in)
   - [YuanLey YS2083GS-P 8-port PoE+, 2-port 1 Gbps, 1-port SFP 120W Unmanaged switch](https://amzn.to/41Y3qKv)
   - [GiGaPlus GP-S25-0802P 8x 2.5G PoE+ 2x 10G SFP+ Unmanaged Switch](https://amzn.to/4iGMxJR) (and [3D printed rack ears](https://github.com/geerlingguy/mini-rack/issues/76))
