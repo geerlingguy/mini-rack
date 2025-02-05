@@ -163,6 +163,7 @@ In this section, gear will be split between devices which natively mount in a 10
 | :-------- | :------- | :------- |
 | [Digitus DN-80115](https://de.assmann.shop/en/Active-Network-Components/Network-Switches/10-Network-Switches/16-Port-Gigabit-Switch-10-inch-Unmanaged.html) | 1U | Switch Unmanaged, 16x 1G RJ45 |
 | [Digitus DN-80117](https://de.assmann.shop/en/Active-Network-Components/Network-Switches/10-Network-Switches/8-Port-Gigabit-Switch-10-Inch-Managed.html) | 1U | Switch Managed, 8x 1G RJ45 |
+| [GiGaPlus GP-S25-0802P](https://amzn.to/4iGMxJR) | 1U | Switch Unmanaged, 8x 2.5G RJ45 (PoE, PoE+) / 2x 10G SFP+, [3D printed rack ears](https://github.com/geerlingguy/mini-rack/issues/76) |
 | [MikroTik CRS112-8P-4S-IN](https://amzn.to/4fivRpi) | 1U | Switch Managed, 8x 1G RJ45 (PoE, PoE+) / 4x 1G SFP |
 | [MikroTik CRS310-1G-5S-4S+IN](https://amzn.to/3VJKYBe) | 1U | Switch Managed, 1x 1G RJ45 / 5x 1G SFP / 4x 10G SFP+ |
 | [MikroTik CRS310-8G+2S+IN](https://amzn.to/3Dx4smb) | 1U | Switch Managed, 8x 2.5G RF45 / 2x 10G SFP+ 
@@ -173,11 +174,11 @@ In this section, gear will be split between devices which natively mount in a 10
 | [MikroTik RB5009UG+S+IN](https://mikrotik.com/product/rb5009ug_s_in) | 0.5U | Router, 7x 1G RJ45 / 1x 2.5G RJ45 / 1x 10G SFP+ |
 | [MikroTik RB5009UPr+S+IN](https://mikrotik.com/product/rb5009upr_s_in) | 0.5U | Router, 7x 1G RJ45 (PoE, PoE+) / 1x 2.5G RJ45 (PoE, PoE+) / 1x 10G SFP+ |
 | [YuanLey YS2083GS-P](https://amzn.to/41Y3qKv) | 1U | Switch Unmanaged, 8x 1G RJ45 (PoE, PoE+) / 2x 1G RJ45 / 1x 1G SFP | 
+| [QNAP QSW-M2108R-2C](https://amzn.to/4gNoaJ4) | 1U | Switch Managed, 8x 2.5G RJ45 / 2x 10G RJ45/SFP+ |
+| [QNAP QSW-M2106R-2S2T](https://amzn.to/3VLfwCH) | 1U | Switch Managed, 6x 2.5G RJ45, 2x 10G RJ45, 2x 10G SFP+ |
 
 
-  - [GiGaPlus GP-S25-0802P 8x 2.5G PoE+ 2x 10G SFP+ Unmanaged Switch](https://amzn.to/4iGMxJR) (and [3D printed rack ears](https://github.com/geerlingguy/mini-rack/issues/76))
-  - [QNAP QSW-M2108R-2C 8x 2.5G 2x 10G SFP+/RJ45 Managed Switch](https://amzn.to/4gNoaJ4)
-  - [QNAP QSW-M2106R-2S2T 6x 2.5G 2x 10G SFP+ 2x 10G RJ45 Managed Switch](https://amzn.to/3VLfwCH)
+
   - [QNAP QSW-M2106PR-2S2T 6x 2.5G PoE++ 2x 10G PoE++ RJ45 2x 10G SFP+ Managed Switch](https://amzn.to/4iF3Lrj)
   - [QNAP QSW-M3216R-8S8T 8x 10G RJ45 8x 10G SFP+ Managed Switch](https://amzn.to/3VOc1eP)
   - [QNAP QSW-M3212R-8S4T 4x 10G RJ45 8x 10G SFP+ Managed Switch](https://amzn.to/4fBPOaY)
