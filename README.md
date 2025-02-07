@@ -247,9 +247,13 @@ There are a variety of commercial options to mount Mini ITX motherboards (or SBC
 
 SBCs, or Single Board Computers, are ideal for mini racks, due to their low power, thermal, and space requirements. You can often fit multiple SBCs per U of rack space, and there are many mini rack setups centered around an SBC cluster, or SBC routers or storage devices.
 
-  - [GeeekPi / DeskPi RackMate SBC Shelf (Jetson/Pi 4/5 + 2.5" HDD/SSD)](https://amzn.to/49H76C6)
-  - [GeeekPi / DeskPi RackMate 2U Rack mount for Pi 5/4 with M.2 NVMe](https://amzn.to/4glDzjL)
-  - [Racknex UM-SBC shelves for Pi 2/3/4/5](https://racknex.com/shop/raspberry-pi/?filter_rack=10-inch)
+| Model (incl. Link)    | Unit Height | Additional information | 
+| :-------- | :------- | :------- |
+| [GeeekPi / DeskPi RackMate SBC Shelf](https://amzn.to/49H76C6) | 1U | 2x Raspberry Pi 4B/5, 2x NVidia Jetson Nano (Super), 2x 2.5" HDD/SSD |
+| [GeeekPi / DeskPi RackMate Rack Mount](https://amzn.to/4glDzjL) | 2U | 4x Raspberry Pi 4B/5 with M.2 NVMe |
+| [Makerworld Arduino Uno Rack Mount](https://makerworld.com/en/models/1011789) | 2U | 3x Arduino Uno, 3D printable |
+| [Makerworld Raspberry Pi Zero Rack Mount](https://makerworld.com/en/models/982725) | 1U | 1x/3x Raspberry Pi Zero/Zero W/Zero 2 W, 3D printable |
+| [Racknex UM-SBC-30x Shelf](https://racknex.com/shop/raspberry-pi/?filter_rack=10-inch) | 1U, 2U | Raspberry Pi 2B/3B/3B+/4B/5 |
 
 ### <a name="disk-shelves"></a>Disk Shelves
 
