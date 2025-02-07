@@ -278,7 +278,7 @@ Not all gear can be mounted on rack rails. And not every U of space needs to be 
 | Flyht Pro Rack Panel | [1U](https://www.thomann.de/de/flyht_pro_rack_panel_1u_95.htm), [2U](https://www.thomann.de/intl/flyht_pro_rack_panel_2u_95.htm), [3U](https://www.thomann.de/intl/flyht_pro_rack_panel_3u_95.htm) |  |
 | GeeekPi / DeskPi Rackmate Rack Shelf with Supports | [0.5U](https://amzn.to/4fjuuGY), [1U](https://amzn.to/3ZZJq8T) |   |
 | GeeekPi / DeskPi Solid Blanking Panel | [1U](https://amzn.to/3BLnox3), [2U](https://deskpi.com/products/deskpi-rackmate-accessories-2u-blank-panel-for-10-inch-server-rack-network-cabinet) |  |
-| GeeekPi / DeskPi Vented Blanking Panel | [1U](https://amzn.to/49KQPMf), [2U](https://deskpi.com/products/deskpi-rackmate-accessories-2u-venting-blank-panel) |  |
+| GeeekPi / DeskPi Vented Blanking Panel | [1U](https://amzn.to/49KQPMf), [2U](https://deskpi.com/products/deskpi-rackmate-accessories-2u-venting-blank-panel) | 1U variant can hold 2x 40mm fan, 2U variant can hold 2x 70mm/80mm fan |
 | [INTELLINET 10" Blank Panel](https://amzn.to/3ZGa6tN) | 1U |  |
 | [INTELLINET 10" Vented Cantilever Shelf](https://amzn.to/3BM80jY) | 1U |  |
 | [L-com Half Rack Blank Panel](https://www.l-com.com/patch-panel-server-rack-1-space-half-rack-blank-panel-175) | 1U |  |
