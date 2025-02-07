@@ -249,8 +249,10 @@ SBCs, or Single Board Computers, are ideal for mini racks, due to their low powe
 
 | Model (incl. Link)    | Unit Height | Additional information | 
 | :-------- | :------- | :------- |
-| [GeeekPi / DeskPi RackMate SBC Shelf](https://amzn.to/49H76C6) | 1U | Raspberry Pi 4B/5, NVidia Jetson Nano (Super), 2.5" HDD/SSD |
-| [GeeekPi / DeskPi RackMate Rack Mount](https://amzn.to/4glDzjL) | 2U | Raspberry Pi 4B/5 with M.2 NVMe |
+| [GeeekPi / DeskPi RackMate SBC Shelf](https://amzn.to/49H76C6) | 1U | 2x Raspberry Pi 4B/5, 2x NVidia Jetson Nano (Super), 2x 2.5" HDD/SSD |
+| [GeeekPi / DeskPi RackMate Rack Mount](https://amzn.to/4glDzjL) | 2U | 4x Raspberry Pi 4B/5 with M.2 NVMe |
+| [Makerworld Arduino Uno Rack Mount](https://makerworld.com/en/models/1011789) | 2U | 3x Arduino Uno, 3D printable |
+| [Makerworld Raspberry Pi Zero Rack Mount](https://makerworld.com/en/models/1011789) | 1U | 1x/3x Raspberry Pi Zero/Zero W/Zero 2 W, 3D printable |
 | [Racknex UM-SBC-30x Shelf](https://racknex.com/shop/raspberry-pi/?filter_rack=10-inch) | 1U, 2U | Raspberry Pi 2B/3B/3B+/4B/5 |
 
 ### <a name="disk-shelves"></a>Disk Shelves
