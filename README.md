@@ -355,6 +355,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | hcschmitt | 2025 | [RackMate T0 to Organize my Mess](https://github.com/geerlingguy/mini-rack/issues/116) |
 | jcmarinn | 2025 | [8U Extended-depth Custom 10" Rack](https://github.com/geerlingguy/mini-rack/issues/123) |
 | sylvaintremblay666 | 2025 | [NationTech Nano Data Center OKD rack](https://github.com/geerlingguy/mini-rack/issues/126) |
+| hamiller | 2025 | [10" Rack, Home Central (12HE)](https://github.com/geerlingguy/mini-rack/issues/130) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
