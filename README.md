@@ -227,6 +227,7 @@ This section is for _systems_, not individual 3D printable parts. For parts like
   - [monkizzle's MiniRax system](https://makerworld.com/en/collections/4692516)
   - [bwees' 3D Printable Mini Rack](https://www.printables.com/model/1170708-modular-10-rack)
   - [The Open Node Project - 3U 10" 3D Printable Rack](https://github.com/garrettekinsman/OpenNode/)
+  - [Kev's Robots - 10" 3D Printable Mini Rack](https://www.kevsrobots.com/projects/mini-rack/)
   - [Uptime Lab - Raspberry Pi Server Mark III](https://uplab.pro/2020/12/raspberry-pi-server-mark-iii/)
   - [Mauker's 10-inch rack mounts](https://makerworld.com/en/collections/2928697)
   - [dalovering's fully 3D printable half-width server rack and trays](https://www.printables.com/model/358304-fully-printable-half-width-server-rack-and-trays)
@@ -358,6 +359,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | sylvaintremblay666 | 2025 | [NationTech Nano Data Center OKD rack](https://github.com/geerlingguy/mini-rack/issues/126) |
 | hamiller | 2025 | [10" Rack, Home Central (12HE)](https://github.com/geerlingguy/mini-rack/issues/130) |
 | adamhl8 | 2025 | [Homelab in a T1 - Mini-ITX, Proxmox, KVM, OPNsense, NAS](https://github.com/geerlingguy/mini-rack/issues/128) |
+| kevinmcaleer | 2025 | [Kev's 10" Mini Rack Build](https://github.com/geerlingguy/mini-rack/issues/134#issuecomment-2661642916) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
