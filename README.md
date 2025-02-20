@@ -362,6 +362,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | kevinmcaleer | 2025 | [Kev's 10" Mini Rack Build](https://github.com/geerlingguy/mini-rack/issues/134#issuecomment-2661642916) |
 | beatles1 | 2025 | [Digitus 12U Rack Build](https://github.com/geerlingguy/mini-rack/issues/137) |
 | oggreeb | 2025 | [6U NavePoint Proxmox homelab](https://github.com/geerlingguy/mini-rack/issues/138) |
+| helmarw | 2025 | [10" Rack SDR Station with built-in NanoVNA](https://github.com/geerlingguy/mini-rack/issues/140) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
