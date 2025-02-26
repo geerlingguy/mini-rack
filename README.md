@@ -75,6 +75,7 @@ At the center of every mini rack is a 10" or 'half-width' rack. A typical rack i
 | [Flyht Pro Stage Rack Double Door](https://www.thomann.de/intl/flyht_pro_stage_rack_95_6u_double_door.htm) | 6U | flight case, similar models also available down to 2U |
 | [GeeekPi / DeskPi RackMate T0](https://amzn.to/4iIBsZ6) | 4U | open design |
 | [GeeekPi / DeskPi RackMate T1](https://amzn.to/3DjLhfI)  | 8U | open design |
+| [GeeekPi / DeskPi RackMate T2](https://amzn.to/3Dcx6cD)  | 12U | open design |
 | [Intellinet Network Cabinet](https://amzn.to/3VHYJAc) | 6U | enclosed, locking, wall-mountable, glass door |
 | [KENUCO SOHO Mini Rack](https://amzn.to/3OZvLIi) | 4U, 6U, 9U | enclosed, locking, wall-mountable |
 | [L-com Half Rack Frame Rack](https://www.l-com.com/patch-panel-server-rack-8-space-14-half-rack-frame-rack-10-panel-width-14-deep-passive-top-open-bottom) | 8U | open design |
