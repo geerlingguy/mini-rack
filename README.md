@@ -17,6 +17,7 @@ This site is maintained by [Jeff Geerling](https://www.jeffgeerling.com), who li
   - [The 10" Mini Rack Standard](#standard)
   - [Hardware](#hardware)
     - [10" Mini Racks](#racks)
+    - [10" 3D-Printable Mini Racks](#printableracks)
     - [PDUs](#pdus)
     - [UPSes](#upses)
     - [Patch Panels](#patch-panels)
@@ -88,6 +89,26 @@ At the center of every mini rack is a 10" or 'half-width' rack. A typical rack i
 | [Rack Magic Mini Rack](https://www.rack-magic.com/en/p/10-rack-3he-6he-9he-12he-tiefe-290-mm-wand-o-boden-montage-rack-magic) | 3U, 6U, 9U, 12U | wall-mountable, open design, black or grey |
 | [Rack Magic Rack Stand](https://www.rack-magic.com/en/p/mini-rack-254mm-10-rack-stand-3u-6u-10-inch) | 3U, 6U | open design, black or grey |
 | [Triton RKA 10/19 Rack](https://triton-racks.com/products/data-cabinets/wall-mounted-cabinets/rka-10-19) | 10U | only 10 inch rack available with a depth > 30cm |
+
+### <a name="printableracks"></a>10" Mini Racks - 3D printable
+
+There are a number of 10 inch / half-width rack options that can be 3d printed.
+
+#### Fully 3D printed
+
+Fully 3D printed mini racks require little or no components to build.
+
+These are typically cheaper to build than designs with integration metal frames, but may be weaker and less durable.
+
+  - [Cube Rack - 10" inch Network Cabinet / Server Rack](https://www.printables.com/model/688952-cube-rack-10-inch-network-cabinet-server-rack)
+  - [10 inch server rack by McBig](https://www.printables.com/model/427461-10-inch-server-rack)
+  - [10 inch server rack M5 by Qwertymanzero](https://www.printables.com/model/1115636-10-inch-server-rack-m5)
+
+#### Partialy 3D printed / supported with metal frame
+
+3D Printed mini rack designs with an integrated metal frame offer better strength but require more components to build.
+
+  - [10 inch server rack by Jorge](https://www.printables.com/model/1003967-10-inch-server-rack)
 
 ### <a name="pdus"></a>PDUs (Power Distribution Units)
 
