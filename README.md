@@ -367,6 +367,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | DunarDolorgiet | 2025 | [10" 9U Extrusion-based NUC rack](https://github.com/geerlingguy/mini-rack/issues/142) |
 | jjuttej | 2025 | [10" 8U Proxmox rack](https://github.com/geerlingguy/mini-rack/issues/146) |
 | Stewjw-jsi | 2025 | [RackMate T1+T2 20U mini rack](https://github.com/geerlingguy/mini-rack/issues/148) |
+| ReillyBex | 2025 | [Stealthy Mini Rack for embedded development](https://github.com/geerlingguy/mini-rack/issues/149) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
