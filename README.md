@@ -152,7 +152,7 @@ Patch panels help organize a mess of RJ45 network cables, USB, HDMI, Coax, or wh
 | [INTELLINET 10 Port Keystone Patch Panel](https://amzn.to/3P1PHKF) | 1U |  |
 | [INTELLINET 12 Port CAT6 Network Patch Panel](https://amzn.to/3P2ni7g) | 1U |  |
 | [Rapink Patch Panel Mini 12 Port Cat6A Shielded Patch Panel](https://amzn.to/3PelLuR) | 1U |  |
-| [Kennable Cat6 RJ45Pass Through Keystone Patch Panel 12 Port ](https://www.kenable.co.uk/en/networking/network-cabinets/patch-panels/11732-cat6-rj45-10-inch-pass-through-patch-panel-12-port-rack-mountable-mini-soho-1u-5054338117324.html) | 1U | Cat6a version available |
+| [Kennable Cat6 RJ45 Pass Through Keystone Patch Panel 12 Port ](https://www.kenable.co.uk/en/networking/network-cabinets/patch-panels/11732-cat6-rj45-10-inch-pass-through-patch-panel-12-port-rack-mountable-mini-soho-1u-5054338117324.html) | 1U | Cat6a version available |
 
 ### <a name="network-gear"></a>Network Gear
 
