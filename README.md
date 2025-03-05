@@ -88,7 +88,7 @@ At the center of every mini rack is a 10" or 'half-width' rack. A typical rack i
 | [Rack Magic Mini Rack](https://www.rack-magic.com/en/p/10-rack-3he-6he-9he-12he-tiefe-290-mm-wand-o-boden-montage-rack-magic) | 3U, 6U, 9U, 12U | wall-mountable, open design, black or grey |
 | [Rack Magic Rack Stand](https://www.rack-magic.com/en/p/mini-rack-254mm-10-rack-stand-3u-6u-10-inch) | 3U, 6U | open design, black or grey |
 | [Triton RKA 10/19 Rack](https://triton-racks.com/products/data-cabinets/wall-mounted-cabinets/rka-10-19) | 10U | only 10 inch rack available with a depth > 30cm |
-| [Stalflex Wall Mount Network Rack](https://triton-racks.com/products/data-cabinets/wall-mounted-cabinets/rka-10-19) | 4U | open design, desk mountable when turned sideways |
+| [Stalflex Wall Mount Network Rack](https://www.amazon.co.uk/dp/B0D9RT6MQ1) | 4U | open design, desk mountable when turned sideways |
 
 ### <a name="pdus"></a>PDUs (Power Distribution Units)
 
@@ -295,7 +295,7 @@ Not all gear can be mounted on rack rails. And not every U of space needs to be 
 | [L-com Half Rack Quiet Blower Panel](https://www.l-com.com/patch-panel-server-rack-half-rack-quiet-blower-panel-50-cfm) | 1U | 50 CFM |
 | [L-com Half Rack Universal Multi Shelf](https://www.l-com.com/patch-panel-server-rack-half-rack-1-space-universal-multi-shelf-55-deep-black) | 1U | 5.5" deep |
 | L-com Half Rack Vent Panel | [1U](https://www.l-com.com/patch-panel-server-rack-1-space-half-rack-vent-panel-175), [2U](https://www.l-com.com/patch-panel-server-rack-2-space-half-rack-vent-panel-350) |  |
-| [Stalfex Server Rack Shelf Eco 10 inch 1U 150mm, vented](https://www.amazon.co.uk/dp/B087T9MXZF) | 1U | 150mm depth, does not flex |
+| [Stalflex Server Rack Shelf Eco 10 inch 1U 150mm, vented](https://www.amazon.co.uk/dp/B087T9MXZF) | 1U | 150mm depth, does not flex |
 
 ## <a name="cable-management"></a>Cable Management
 
