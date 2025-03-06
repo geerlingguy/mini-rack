@@ -151,7 +151,7 @@ Patch panels help organize a mess of RJ45 network cables, USB, HDMI, Coax, or wh
 | [GeeekPi / DeskPi D-type Patch Panel](https://deskpi.com/products/deskpi-rackmate-accessories-10-inch-1u-d-type-patch-panel-rack-mount-7d-rackmate-xlr-hdmi-av-rj45) | 1U | 7x D-type |
 | [INTELLINET 10 Port Keystone Patch Panel](https://amzn.to/3P1PHKF) | 1U |  |
 | [INTELLINET 12 Port CAT6 Network Patch Panel](https://amzn.to/3P2ni7g) | 1U |  |
-| [Kennable Cat6 RJ45 Pass Through Keystone Patch Panel 12 Port ](https://www.kenable.co.uk/en/networking/network-cabinets/patch-panels/11732-cat6-rj45-10-inch-pass-through-patch-panel-12-port-rack-mountable-mini-soho-1u-5054338117324.html) | 1U | Cat6a version available |
+| [Kenable Cat6 RJ45 Pass Through Keystone Patch Panel 12 Port ](https://www.kenable.co.uk/en/networking/network-cabinets/patch-panels/11732-cat6-rj45-10-inch-pass-through-patch-panel-12-port-rack-mountable-mini-soho-1u-5054338117324.html) | 1U | Cat6a version available |
 | [Rapink Patch Panel Mini 12 Port Cat6A Shielded Patch Panel](https://amzn.to/3PelLuR) | 1U |  |
 
 ### <a name="network-gear"></a>Network Gear
