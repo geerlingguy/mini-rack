@@ -151,6 +151,7 @@ Patch panels help organize a mess of RJ45 network cables, USB, HDMI, Coax, or wh
 | [GeeekPi / DeskPi D-type Patch Panel](https://deskpi.com/products/deskpi-rackmate-accessories-10-inch-1u-d-type-patch-panel-rack-mount-7d-rackmate-xlr-hdmi-av-rj45) | 1U | 7x D-type |
 | [INTELLINET 10 Port Keystone Patch Panel](https://amzn.to/3P1PHKF) | 1U |  |
 | [INTELLINET 12 Port CAT6 Network Patch Panel](https://amzn.to/3P2ni7g) | 1U |  |
+| [Kenable Cat6 RJ45 Pass Through Keystone Patch Panel 12 Port ](https://www.kenable.co.uk/en/networking/network-cabinets/patch-panels/11732-cat6-rj45-10-inch-pass-through-patch-panel-12-port-rack-mountable-mini-soho-1u-5054338117324.html) | 1U | Cat6a version available |
 | [Rapink Patch Panel Mini 12 Port Cat6A Shielded Patch Panel](https://amzn.to/3PelLuR) | 1U |  |
 
 ### <a name="network-gear"></a>Network Gear
@@ -197,15 +198,16 @@ See [Issue #2: Find a perfect way to mount small switches into mini racks](https
 
 #### Network Gear that fits on a 10" shelf
 
-  - [Zyxel GS1100-16 1 Gbps Unmanaged Switch](https://amzn.to/41GicFw)
-  - [Ubiquiti USW-Ultra 42W 8-port Managed PoE Switch](https://store.ui.com/us/en/collections/pro-ultra/products/usw-ultra)
-  - [Ubiquiti EdgeSwitch 10X 10-port Managed Switch](https://amzn.to/49Hobf2)
-  - [Netgear 8-port Unmanaged Gigabit Switch GS308](https://amzn.to/4gilDq9)
-  - [Real HD 8-port 2.5G Unmanaged Switch with 10G SFP+ Uplink SW8-25G](https://amzn.to/3VJuDwy)
-  - [Netgear GS110EMX 8x 1 Gbps 2x 10G Managed Switch](https://amzn.to/4fyKWDj)
   - [D-Link DGS-108 8x 1 Gbps Unmanaged Switch](https://amzn.to/4ftNW3N)
-  - [TRENDnet TEG-S762 4x 2.5G 2x 2.5/5/10G Unmanaged Switch](https://amzn.to/4gEau2S)
   - [GiGaPlus GP-S100-0500T 5x 10G Unmanaged Switch](https://amzn.to/3ZGUia0)
+  - [Netgear 8-port Unmanaged Gigabit Switch GS308](https://amzn.to/4gilDq9)
+  - [Netgear GS110EMX 8x 1 Gbps 2x 10G Managed Switch](https://amzn.to/4fyKWDj)
+  - [Real HD 8-port 2.5G Unmanaged Switch with 10G SFP+ Uplink SW8-25G](https://amzn.to/3VJuDwy)
+  - [TRENDnet TEG-S762 4x 2.5G 2x 2.5/5/10G Unmanaged Switch](https://amzn.to/4gEau2S)
+  - [Ubiquiti EdgeSwitch 10X 10-port Managed Switch](https://amzn.to/49Hobf2)
+  - [Ubiquiti USW-Flex-XG 4+1 10GbE Managed Switch](https://uk.store.ui.com/uk/en/category/all-switching/products/usw-flex-xg)
+  - [Ubiquiti USW-Ultra 42W 8-port Managed PoE Switch](https://store.ui.com/us/en/collections/pro-ultra/products/usw-ultra)
+  - [Zyxel GS1100-16 1 Gbps Unmanaged Switch](https://amzn.to/41GicFw)
   - Many 4, 5, 6, or 8 port cheap PoE/1 Gbps switches (too many to list...)
   
 Note: Many of these switches have 3D printable ears on Printables, Thingiverse, etc.
@@ -293,6 +295,7 @@ Not all gear can be mounted on rack rails. And not every U of space needs to be 
 | [L-com Half Rack Quiet Blower Panel](https://www.l-com.com/patch-panel-server-rack-half-rack-quiet-blower-panel-50-cfm) | 1U | 50 CFM |
 | [L-com Half Rack Universal Multi Shelf](https://www.l-com.com/patch-panel-server-rack-half-rack-1-space-universal-multi-shelf-55-deep-black) | 1U | 5.5" deep |
 | L-com Half Rack Vent Panel | [1U](https://www.l-com.com/patch-panel-server-rack-1-space-half-rack-vent-panel-175), [2U](https://www.l-com.com/patch-panel-server-rack-2-space-half-rack-vent-panel-350) |  |
+| [Stalflex Server Rack Shelf Eco 10 inch 1U 150mm, vented](https://www.amazon.co.uk/dp/B087T9MXZF) | 1U | 150mm depth, does not flex |
 
 ## <a name="cable-management"></a>Cable Management
 
