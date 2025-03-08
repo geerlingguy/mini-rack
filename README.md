@@ -375,6 +375,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | aioue | 2025 | [4U UK Stalflex Mini Network Rack](https://github.com/geerlingguy/mini-rack/issues/153) |
 | jashngooyen | 2025 | [A Freelancer's Dream - 4U Audio Networking Rack with Dante](https://github.com/geerlingguy/mini-rack/issues/152) |
 | sirphobos88 | 2025 | [Newbie 3D Printed build](https://github.com/geerlingguy/mini-rack/issues/155) |
+| andy53757 | 2025 | [RackMate T1 8HE Server Playground](https://github.com/geerlingguy/mini-rack/issues/156) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
