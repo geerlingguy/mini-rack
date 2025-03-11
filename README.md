@@ -232,6 +232,7 @@ This section is for _systems_, not individual 3D printable parts. For parts like
   - [bwees' 3D Printable Mini Rack](https://www.printables.com/model/1170708-modular-10-rack)
   - [The Open Node Project - 3U 10" 3D Printable Rack](https://github.com/garrettekinsman/OpenNode/)
   - [Kev's Robots - 10" 3D Printable Mini Rack](https://www.kevsrobots.com/projects/mini-rack/)
+  - [MandicReally's ModTen 3D 10" mini rack system](https://www.printables.com/model/1225275-modular-10-server-rack-mod10)
   - [Uptime Lab - Raspberry Pi Server Mark III](https://uplab.pro/2020/12/raspberry-pi-server-mark-iii/)
   - [Mauker's 10-inch rack mounts](https://makerworld.com/en/collections/2928697)
   - [dalovering's fully 3D printable half-width server rack and trays](https://www.printables.com/model/358304-fully-printable-half-width-server-rack-and-trays)
