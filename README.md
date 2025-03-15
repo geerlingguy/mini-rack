@@ -378,6 +378,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | sirphobos88 | 2025 | [Newbie 3D Printed build](https://github.com/geerlingguy/mini-rack/issues/155) |
 | andy53757 | 2025 | [RackMate T1 8HE Server Playground](https://github.com/geerlingguy/mini-rack/issues/156) |
 | btb2k | 2025 | [Pi RAID 10" DeskPi Rack with Penta SATA HAT](https://github.com/geerlingguy/mini-rack/issues/158) |
+| drosner | 2025 | [Mini rack for home audio and automation](https://github.com/geerlingguy/mini-rack/issues/161) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
