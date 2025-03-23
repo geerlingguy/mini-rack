@@ -381,6 +381,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | maizyy | 2025 | [PRINTARACK - 3D Printed 10' rack](https://github.com/geerlingguy/mini-rack/issues/162) |
 | cameronzucker | 2025 | [AREDN Deployable Half Rack](https://github.com/geerlingguy/mini-rack/issues/169) |
 | Privatecoder | 2025 | [Mini ITX server rack](https://github.com/geerlingguy/mini-rack/issues/165) |
+| levi-rogers | 2025 | [BlazerTech Project MiniRack](https://github.com/geerlingguy/mini-rack/issues/163) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
