@@ -36,8 +36,8 @@ This site is maintained by [Jeff Geerling](https://www.jeffgeerling.com), who li
 
 There is no worldwide 'standard' published for what constitutes a "mini rack". However, most of the industry has settled on the same '1U' height standard as typical 19" racks (44.45mm, or 1.75"), but with the width being 236.525mm (9.312") between screw holes. This equates to an _absolute maximum_ of around 220mm (8.75") of horizontal clearance.
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:19_inch_vs_10_inch_rack_dimensions.svg"><img alt="Mini Rack size standard" src="/assets/images/mini-rack-size-wikipedia.png" height="auto" width="600"></a><br>
-Image source: <a href="https://commons.wikimedia.org/wiki/File:19_inch_vs_10_inch_rack_dimensions.svg">Wikipedia</a>.</p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:19_inch_vs_10_inch_correct_rack_dimensions.svg"><img alt="Mini Rack size standard" src="/assets/images/mini-rack-size-wikipedia.png" height="auto" width="600"></a><br>
+Image source: <a href="https://commons.wikimedia.org/wiki/File:19_inch_vs_10_inch_correct_rack_dimensions.svg">Wikipedia</a>.</p>
 
 Allowing for extra tolerance, mini rack gear should fit within around 210mm (8.45") of horizontal space, and mounting holes should be able to accomodate a few mm of width to either side.
 
