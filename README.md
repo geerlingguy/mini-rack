@@ -326,7 +326,9 @@ Mini racks can quickly turn from beauty into beast, once you start plugging thin
 
 ## <a name="build-showcase"></a>Build showcase
 
-I'm not the first person to build a mini rack. In fact, the mini-homelab community's been thriving for years! Check out [Reddit r/minilab](https://www.reddit.com/r/minilab/) for some extra inspiration.
+I'm not the first person to build a mini rack. In fact, the mini-homelab community's been thriving for years! Check out [Reddit r/minilab](https://www.reddit.com/r/minilab/) for some extra inspiration, or click through some of the builds below! The one pictured below, [from GitHub user @cameronzucker](https://github.com/geerlingguy/mini-rack/issues/169) is used as a mobile AREDN (Amateur Radio Emergency Data Network) deployment:
+
+<p align="center"><img alt="AREDN Deployable Half Rack" src="/assets/images/cameronzucker-aredn-deployable-half-rack.jpg" height="auto" width="600"></p>
 
 If you would like your mini rack added to this list, please open a [new issue](https://github.com/geerlingguy/mini-rack/issues/new), add the `build showcase` label, and document your build! Once it is complete(ish), we can add it to this list:
 
