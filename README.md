@@ -182,6 +182,7 @@ In this section, gear will be split between devices which natively mount in a 10
 | [QNAP QSW-M3212R-8S4T](https://amzn.to/4fBPOaY) | 1U | Switch Managed, 4x 10G RJ45 / 8x 10G SFP+ |
 | [QNAP QSW-M3216R-8S8T](https://amzn.to/3VOc1eP) | 1U | Switch Managed, 8x 10G RJ45 / 8x 10G SFP+ |
 | [QNAP QSW-M7308R-4X](https://amzn.to/3ZO0e0X) | 1U | Switch Managed, 4x 100G QSFP28 / 8x 25G SFP28 |
+| [TRENDnet TL2-F7120](https://amzn.to/3FH9ZrG) | 1U | Switch Managed, 12x 10G SFP+ / 1x Console (OOB) |
 | [YuanLey YS2083GS-P](https://amzn.to/41Y3qKv) | 1U | Switch Unmanaged, 8x 1G RJ45 (PoE, PoE+) / 2x 1G RJ45 / 1x 1G SFP | 
 
 Note: Some switches intended for full-width rack mount ears _may_ work in a 10" rack with 'universal' rack ears, like the [Pelopy Adjustable Universal Rack Mount Ear Kit](https://amzn.to/4gJ7BxT).
