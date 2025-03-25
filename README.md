@@ -385,6 +385,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | cameronzucker | 2025 | [AREDN Deployable Half Rack](https://github.com/geerlingguy/mini-rack/issues/169) |
 | Privatecoder | 2025 | [Mini ITX server rack](https://github.com/geerlingguy/mini-rack/issues/165) |
 | levi-rogers | 2025 | [BlazerTech Project MiniRack](https://github.com/geerlingguy/mini-rack/issues/163) |
+| thejevans | 2025 | [9U Mini Rack Network Cabinet with Cooling](https://github.com/geerlingguy/mini-rack/issues/174) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
