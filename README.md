@@ -360,7 +360,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | monkizzle | 2025 | [MiniRax Pi 5 5G Router Ecoflow Showcase](https://github.com/geerlingguy/mini-rack/issues/97) |
 | avrono | 2025 | [Cheap Wooden DIY Mini Rack](https://github.com/geerlingguy/mini-rack/issues/98) |
 | bwees | 2025 | [Another 3D Printed Rack Design](https://github.com/geerlingguy/mini-rack/issues/100) |
-| Chris Borge | 2025 | [Modular 3D-Printed CNC Controller](https://github.com/geerlingguy/mini-rack/issues/103) |
+| Chris Borge | 2025 | [Modular 3D-Printed CNC Controller - Rackfinity V1](https://github.com/geerlingguy/mini-rack/issues/103) |
 | wildegnux | 2025 | [Sideways IKIEA PAX rack](https://github.com/geerlingguy/mini-rack/issues/110) |
 | hcschmitt | 2025 | [RackMate T0 to Organize my Mess](https://github.com/geerlingguy/mini-rack/issues/116) |
 | jcmarinn | 2025 | [8U Extended-depth Custom 10" Rack](https://github.com/geerlingguy/mini-rack/issues/123) |
