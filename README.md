@@ -220,6 +220,7 @@ Sometimes there are interesting things that don't fit into any other category.
 | :-------- | :------- | :------- |
 | [DSIT 12V design LED lighting system - white](https://www.serverrack24.com/10-inch-design-led-lighting-system-white.html) | 1U | Colour of light: white |
 | [DSIT 12V design LED lighting system - multicolor](https://www.serverrack24.com/10-inch-design-led-lighting-system-multicolor.html) | 1U | Colour of light: white, red, green, blue |
+| [Machdyne Klinge](https://github.com/machdyne/klinge) | 1U | FPGA computer/server with dual 10/100 Ethernet ports; up to 8 fit in 1U |
 
 ### <a name="3d-printable-systems"></a>3D Printable mini rack systems
 
@@ -241,6 +242,7 @@ This section is for _systems_, not individual 3D printable parts. For parts like
   - [axiopaladin's ButterflyRack - modular, 3D printed frame for metal rails](https://github.com/axiopaladin/ButterflyRack)
   - [Mauker1's Tiny-Rack 6" and 10" 3D Printable Rack Mount System](https://github.com/geerlingguy/mini-rack/issues/105)
   - [MRP's 3D Printable 10" Mini Rack](https://www.printables.com/model/1173672-10-mini-rack-all-3d-printable)
+  - [Machdyne's Half10 modular rack system](https://github.com/machdyne/half10)
 
 ### <a name="mini-pc-server-shelves"></a>Mini PC / Server Shelves
 
