@@ -218,6 +218,7 @@ Sometimes there are interesting things that don't fit into any other category.
 
 | Model (incl. Link)    | Unit Height | Additional information | 
 | :-------- | :------- | :------- |
+| [DeskPi 7.84" Touch Screen](https://deskpi.com/products/deskpi-7-84-inch-touch-screen-1280x400-tft-lcd-display-for-10-inch-2u-rack-rackmate-supports-installation-of-t0-t1-t2) | 2U | 1280x400 TFT LCD, USB-C power/data and HDMI in |
 | [DeskPi RackMate 2U Locking Rackmount Drawer](https://deskpi.com/products/deskpi-rackmate-10-inch-2u-rackmount-drawer-with-locks-and-keys-for-t0-t1-server-cabinets) | 2U | Includes lock and rear cable grommets |
 | [DSIT 12V design LED lighting system - white](https://www.serverrack24.com/10-inch-design-led-lighting-system-white.html) | 1U | Colour of light: white |
 | [DSIT 12V design LED lighting system - multicolor](https://www.serverrack24.com/10-inch-design-led-lighting-system-multicolor.html) | 1U | Colour of light: white, red, green, blue |
