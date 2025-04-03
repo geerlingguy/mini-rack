@@ -218,6 +218,7 @@ Sometimes there are interesting things that don't fit into any other category.
 
 | Model (incl. Link)    | Unit Height | Additional information | 
 | :-------- | :------- | :------- |
+| [DeskPi RackMate 2U Locking Rackmount Drawer](https://deskpi.com/products/deskpi-rackmate-10-inch-2u-rackmount-drawer-with-locks-and-keys-for-t0-t1-server-cabinets) | 2U | Includes lock and rear cable grommets |
 | [DSIT 12V design LED lighting system - white](https://www.serverrack24.com/10-inch-design-led-lighting-system-white.html) | 1U | Colour of light: white |
 | [DSIT 12V design LED lighting system - multicolor](https://www.serverrack24.com/10-inch-design-led-lighting-system-multicolor.html) | 1U | Colour of light: white, red, green, blue |
 
