@@ -388,6 +388,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | thejevans | 2025 | [9U Mini Rack Network Cabinet with Cooling](https://github.com/geerlingguy/mini-rack/issues/174) |
 | geerlingguy | 2025 | [The Lamp Stack](https://github.com/geerlingguy/mini-rack/issues/177) |
 | Fywqdk | 2025 | [Newbie 3D Printed mini rack with GaN PDU](https://github.com/geerlingguy/mini-rack/issues/179) |
+| geerlingguy | 2025 | [Radio Broadcaster's Dream Mini Rack](https://github.com/geerlingguy/mini-rack/issues/181) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
