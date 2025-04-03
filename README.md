@@ -72,7 +72,7 @@ At the center of every mini rack is a 10" or 'half-width' rack. A typical rack i
 | [Digitus Network Cabinet](https://amzn.to/3ZIjjBP) | 6U, 9U, 12U | wall-mountable |
 | [DIY Laser Cut Mini Rack](https://github.com/ssilverm/lasercut-mini-rack)|6U||
 | [DSIT Rack](https://www.redcorp.com/en/product/servers-racks-options/dsit/server-rack-15u-glass-door-black-312x310x752mm-wxdxh--ds10-3315/y3872053#) | 15U | glass door |
-| [Flyht Pro Stage Rack Double Door](https://www.thomann.de/intl/flyht_pro_stage_rack_95_6u_double_door.htm) | 6U | flight case, similar models also available down to 2U |
+| [Flyht Pro Stage Rack Double Door](https://www.thomann.de/intl/flyht_pro_stage_rack_95_6u_double_door.htm) | 6U | flight case, similar models also available down to 2U, requires [slight modification](https://github.com/geerlingguy/mini-rack/issues/99) |
 | [GeeekPi / DeskPi RackMate T0](https://amzn.to/4iIBsZ6) | 4U | open design |
 | [GeeekPi / DeskPi RackMate T1](https://amzn.to/3DjLhfI)  | 8U | open design |
 | [GeeekPi / DeskPi RackMate T2](https://amzn.to/3Dcx6cD)  | 12U | open design |
@@ -146,7 +146,6 @@ Patch panels help organize a mess of RJ45 network cables, USB, HDMI, Coax, or wh
 | Model (incl. Link)    | Unit Height | Additional information | 
 | :-------- | :------- | :------- |
 | [Delock 10" Fiber Optic Patch Panel 12 Port LC Duplex](https://www.delock.com/produkt/66769/merkmale.html) | 1U | Different models available: Different colors,  SC simplex, LC duplex, LC quad, empty panels. Check website for different model numbers |
-| [Flyht Pro Rack Panel 4XLR](https://www.thomann.de/intl/flyht_pro_rack_panel_4xlr_1u_95.htm) | 1U | 4x D-type |
 | [GeeekPi / DeskPi 12 Port CAT6 Network Patch Panel](https://amzn.to/3ZZ1os4) | 0.5U | Can also be used as a 0.5U Keystone patch panel |
 | [GeeekPi / DeskPi D-type Patch Panel](https://deskpi.com/products/deskpi-rackmate-accessories-10-inch-1u-d-type-patch-panel-rack-mount-7d-rackmate-xlr-hdmi-av-rj45) | 1U | 7x D-type |
 | [INTELLINET 10 Port Keystone Patch Panel](https://amzn.to/3P1PHKF) | 1U |  |
@@ -285,10 +284,6 @@ Not all gear can be mounted on rack rails. And not every U of space needs to be 
 | Delock Network Cabinet Panel with Ventilation Slots I | [1U](https://www.delock.com/produkt/66839/merkmale.html), [2U](https://www.delock.com/produkt/66840/merkmale.html), [3U](https://www.delock.com/produkt/66841/merkmale.html), [4U](https://www.delock.com/produkt/66842/merkmale.html) |  |
 | Delock Network Cabinet Panel with Ventilation Slots II | [1U](https://www.delock.com/produkt/66984/merkmale.html), [2U](https://www.delock.com/produkt/66986/merkmale.html) | Tool free |
 | [Digitus Shelf Perforated Steel Shelf](https://amzn.to/4014ATT) | 1U |  |
-| [Flyht Pro Rack Tray Mount](https://www.thomann.de/intl/flyht_pro_rack_tray_95_1u_mount.htm) | 1U | With cross holes |
-| Flyht Pro Rack Tray | [1U](https://www.thomann.de/intl/flyht_pro_rack_tray_1u_95.htm), [2U](https://www.thomann.de/intl/flyht_pro_rack_tray_2u_95.htm), [3U](https://www.thomann.de/intl/flyht_pro_rack_tray_3u_95.htm) | 3U variant has ventilation slots |
-| Flyht Pro Rack Panel Air | [1U](https://www.thomann.de/intl/flyht_pro_rack_panel_air_1u_95.htm), [2U](https://www.thomann.de/intl/flyht_pro_rack_panel_air_2u_95.htm) |  |
-| Flyht Pro Rack Panel | [1U](https://www.thomann.de/de/flyht_pro_rack_panel_1u_95.htm), [2U](https://www.thomann.de/intl/flyht_pro_rack_panel_2u_95.htm), [3U](https://www.thomann.de/intl/flyht_pro_rack_panel_3u_95.htm) |  |
 | GeeekPi / DeskPi Rackmate Rack Shelf with Supports | [0.5U](https://amzn.to/4fjuuGY), [1U](https://amzn.to/3ZZJq8T) |   |
 | GeeekPi / DeskPi Solid Blanking Panel | [1U](https://amzn.to/3BLnox3), [2U](https://deskpi.com/products/deskpi-rackmate-accessories-2u-blank-panel-for-10-inch-server-rack-network-cabinet) |  |
 | GeeekPi / DeskPi Vented Blanking Panel | [1U](https://amzn.to/49KQPMf), [2U](https://deskpi.com/products/deskpi-rackmate-accessories-2u-venting-blank-panel) | 1U variant can hold 2x 40mm fan, 2U variant can hold 2x 70mm/80mm fan |
