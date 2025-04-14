@@ -387,6 +387,8 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | geerlingguy | 2025 | [The Lamp Stack](https://github.com/geerlingguy/mini-rack/issues/177) |
 | Fywqdk | 2025 | [Newbie 3D Printed mini rack with GaN PDU](https://github.com/geerlingguy/mini-rack/issues/179) |
 | geerlingguy | 2025 | [Radio Broadcaster's Dream Mini Rack](https://github.com/geerlingguy/mini-rack/issues/181) |
+| curtisspendlove | 2025 | DevLab Mini Software Development Lab](https://github.com/geerlingguy/mini-rack/issues/180) |
+| Kyrd0x | 2025 | [Rack and White](https://github.com/geerlingguy/mini-rack/issues/188) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
