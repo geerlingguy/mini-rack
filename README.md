@@ -73,6 +73,7 @@ At the center of every mini rack is a 10" or 'half-width' rack. A typical rack i
 | [DIY Laser Cut Mini Rack](https://github.com/ssilverm/lasercut-mini-rack)|6U||
 | [DSIT Rack](https://www.redcorp.com/en/product/servers-racks-options/dsit/server-rack-15u-glass-door-black-312x310x752mm-wxdxh--ds10-3315/y3872053#) | 15U | glass door |
 | [Flyht Pro Stage Rack Double Door](https://www.thomann.de/intl/flyht_pro_stage_rack_95_6u_double_door.htm) | 6U | flight case, similar models also available down to 2U, requires [slight modification](https://github.com/geerlingguy/mini-rack/issues/99) |
+| [GeeekPi / DeskPi RackMate TT](https://deskpi.com/products/pre-sale-deskpi-rackmate-tt-rackmount-mini-server-cabinet-for-network-servers-audio-and-video-equipment) | 3U | open design, rotate for 4U 5" rack |
 | [GeeekPi / DeskPi RackMate T0](https://amzn.to/4iIBsZ6) | 4U | open design |
 | [GeeekPi / DeskPi RackMate T1](https://amzn.to/3DjLhfI)  | 8U | open design |
 | [GeeekPi / DeskPi RackMate T2](https://amzn.to/3Dcx6cD)  | 12U | open design |
