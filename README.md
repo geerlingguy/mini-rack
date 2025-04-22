@@ -168,7 +168,7 @@ In this section, gear will be split between devices which natively mount in a 10
 | [GiGaPlus GP-S25-0802P](https://amzn.to/4iGMxJR) | 1U | Switch Unmanaged, 8x 2.5G RJ45 (PoE, PoE+) / 2x 10G SFP+, [3D printed rack ears](https://github.com/geerlingguy/mini-rack/issues/76) |
 | [MikroTik CRS112-8P-4S-IN](https://amzn.to/4fivRpi) | 1U | Switch Managed, 8x 1G RJ45 (PoE, PoE+) / 4x 1G SFP |
 | [MikroTik CRS310-1G-5S-4S+IN](https://amzn.to/3VJKYBe) | 1U | Switch Managed, 1x 1G RJ45 / 5x 1G SFP / 4x 10G SFP+ |
-| [MikroTik CRS310-8G+2S+IN](https://amzn.to/3Dx4smb) | 1U | Switch Managed, 8x 2.5G RJ45 / 2x 10G SFP+
+| [MikroTik CRS310-8G+2S+IN](https://amzn.to/3Dx4smb) | 1U | Switch Managed, 8x 2.5G RJ45 / 2x 10G SFP+ |
 | [MikroTik CSS318-16G-2S+IN](https://mikrotik.com/product/css318_16g_2s_in) | 1U | Switch Managed, 16x 1G RJ45 / 2x 10G SFP+ |
 | [MikroTik CSS610-8G-2S+IN](https://amzn.to/3OYAjyV) | 1U | Switch Managed, 8x 1G RJ45 / 2x 10G SFP+ |
 | [MikroTik L009UiGS-RM](https://mikrotik.com/product/l009uigs_rm) | 0.5U | Router, 8x 1G RJ45 / 1 x 2.5G SFP |
