@@ -391,6 +391,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | curtisspendlove | 2025 | [DevLab Mini Software Development Lab](https://github.com/geerlingguy/mini-rack/issues/180) |
 | Kyrd0x | 2025 | [Rack and White](https://github.com/geerlingguy/mini-rack/issues/188) |
 | rskntroot | 2025 | [Mini Ceph Cluster](https://github.com/geerlingguy/mini-rack/issues/189) |
+| Leafeon_TheGrassType | 2024 | [Ikea EKET storage cube rack](https://github.com/geerlingguy/mini-rack/issues/195) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
