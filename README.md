@@ -397,6 +397,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | aafuni | 2025 | [20mm Alum Extrusion Rack](https://github.com/geerlingguy/mini-rack/issues/197) |
 | bobfairbairn | 2025 | [mini-shack — Ham Radio Shack in a mini-rack](https://github.com/geerlingguy/mini-rack/issues/199) |
 | deosrc | 2025 | [The Pi Rack - 4U with PoE](https://github.com/geerlingguy/mini-rack/issues/206) |
+| wiretap-retro | 2025 | [wiretap's Ikea Eket](https://github.com/geerlingguy/mini-rack/issues/209) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
