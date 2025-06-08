@@ -170,6 +170,7 @@ In this section, gear will be split between devices which natively mount in a 10
 | [Digitus DN-80115](https://de.assmann.shop/en/Active-Network-Components/Network-Switches/10-Network-Switches/16-Port-Gigabit-Switch-10-inch-Unmanaged.html) | 1U | Switch Unmanaged, 16x 1G RJ45 |
 | [Digitus DN-80117](https://de.assmann.shop/en/Active-Network-Components/Network-Switches/10-Network-Switches/8-Port-Gigabit-Switch-10-Inch-Managed.html) | 1U | Switch Managed, 8x 1G RJ45 |
 | [GiGaPlus GP-S25-0802P](https://amzn.to/4iGMxJR) | 1U | Switch Unmanaged, 8x 2.5G RJ45 (PoE, PoE+) / 2x 10G SFP+, [3D printed rack ears](https://github.com/geerlingguy/mini-rack/issues/76) |
+| [Intellinet 16-Port Gigabit Ethernet Switch](https://amzn.to/43Akp5Z) | 1U | Switch Unmanaged, 16x 1G RJ45 (comes w/10" and 19" rack ears) |
 | [MikroTik CRS112-8P-4S-IN](https://amzn.to/4fivRpi) | 1U | Switch Managed, 8x 1G RJ45 (PoE, PoE+) / 4x 1G SFP |
 | [MikroTik CRS310-1G-5S-4S+IN](https://amzn.to/3VJKYBe) | 1U | Switch Managed, 1x 1G RJ45 / 5x 1G SFP / 4x 10G SFP+ |
 | [MikroTik CRS310-8G+2S+IN](https://amzn.to/3Dx4smb) | 1U | Switch Managed, 8x 2.5G RJ45 / 2x 10G SFP+ |
@@ -187,7 +188,6 @@ In this section, gear will be split between devices which natively mount in a 10
 | [QNAP QSW-M7308R-4X](https://amzn.to/3ZO0e0X) | 1U | Switch Managed, 4x 100G QSFP28 / 8x 25G SFP28 |
 | [TRENDnet TL2-F7120](https://amzn.to/3FH9ZrG) | 1U | Switch Managed, 12x 10G SFP+ / 1x Console (OOB) |
 | [YuanLey YS2083GS-P](https://amzn.to/41Y3qKv) | 1U | Switch Unmanaged, 8x 1G RJ45 (PoE, PoE+) / 2x 1G RJ45 / 1x 1G SFP | 
-| [Intellinet 16-Port Gigabit Ethernet Switch](https://intellinetsolutions.com/products/intellinet-en-16-port-gigabit-ethernet-switch-561068?srsltid=AfmBOopIp4bJJJBJxLHDC3lZ8pSEnLCfvjI6MdsaynRU23wVDmxd9axB) | 1U | Switch Unmanaged, 16x 1G RJ45 (comes w/10" and 19" rack ears) |
 
 Note: Some switches intended for full-width rack mount ears _may_ work in a 10" rack with 'universal' rack ears, like the [Pelopy Adjustable Universal Rack Mount Ear Kit](https://amzn.to/4gJ7BxT).
 
