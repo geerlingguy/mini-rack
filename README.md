@@ -402,6 +402,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | deosrc | 2025 | [The Pi Rack - 4U with PoE](https://github.com/geerlingguy/mini-rack/issues/206) |
 | wiretap-retro | 2025 | [wiretap's Ikea Eket](https://github.com/geerlingguy/mini-rack/issues/209) |
 | etrigan63 | 2025 | [ProxMoxBox Mini ITX rack](https://github.com/geerlingguy/mini-rack/issues/216) |
+| Darkrym | 2025 | [DIY Budget 2020 Extrusion rack](https://github.com/geerlingguy/mini-rack/issues/219) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
