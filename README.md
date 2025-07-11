@@ -405,6 +405,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | etrigan63 | 2025 | [ProxMoxBox Mini ITX rack](https://github.com/geerlingguy/mini-rack/issues/216) |
 | Darkrym | 2025 | [DIY Budget 2020 Extrusion rack](https://github.com/geerlingguy/mini-rack/issues/219) |
 | mmiller1br | 2025 | [Yeat another 3D printed mini-rack](https://github.com/geerlingguy/mini-rack/issues/222) |
+| imrein | 2025 | [Lanberg 9U Homelab Learning Rack](https://github.com/geerlingguy/mini-rack/issues/224) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
