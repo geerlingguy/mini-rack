@@ -407,6 +407,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | mmiller1br | 2025 | [Yeat another 3D printed mini-rack](https://github.com/geerlingguy/mini-rack/issues/222) |
 | imrein | 2025 | [Lanberg 9U Homelab Learning Rack](https://github.com/geerlingguy/mini-rack/issues/224) |
 | sddcinfo | 2025 | [OnlyFans4U minirack](https://github.com/geerlingguy/mini-rack/issues/225) |
+| ocpistol-bec | 2025 | [Stainless steel wall mount mini rack](https://github.com/geerlingguy/mini-rack/issues/230) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
