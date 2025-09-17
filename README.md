@@ -257,6 +257,7 @@ There are a variety of commercial options to mount Mini ITX motherboards (or SBC
   - [GeeekPi / DeskPi RackMate Mini ITX 1U shelf](https://amzn.to/3ZKq5qV)
   - [MyElectronics 10" 2U Mini ITX Short-Depth PC enclosure](https://amzn.to/41H6wCe)
   - [Parametric 10 inch Server Rack Mount (3D Printable)](https://www.printables.com/model/1188439-parametric-10-inch-server-rack-mount)
+  - [Raw Hardware R-CASE mITX 10"](https://rawhardware.com/r-case-7-mitx-10)
 
 ### <a name="sbc-shelves"></a>SBC Shelves
 
@@ -276,6 +277,7 @@ It can be difficult to adapt storage devices (especially full 3.5" hard drives!)
 
   - [GeeekPi / DeskPi RackMate SBC Shelf](https://amzn.to/49H76C6) (can hard-mount two 2.5" HDDs side by side)
   - [10" Rack Hard Drive Mount](https://www.printables.com/model/142325-10-rack-harddrive-mount) (can hard-mount two 3.5" drives)
+  - [Raw Hardware 6 x HDD Holder](https://rawhardware.com/r-case-6-x-hdd-holder-1r-10)
 
 ### <a name="shelves-and-blanking-panels"></a>Shelves and Blanking Panels
 
