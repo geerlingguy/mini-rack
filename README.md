@@ -412,6 +412,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | ocpistol-bec | 2025 | [Stainless steel wall mount mini rack](https://github.com/geerlingguy/mini-rack/issues/230) |
 | MaxCarritt | 2025 | [Unifi Network and Home Server Rack (8U)](https://github.com/geerlingguy/mini-rack/issues/232) |
 | geerlingguy | 2025 | [Framework Desktop AI Cluster mini-rack](https://github.com/geerlingguy/mini-rack/issues/234) |
+| mint-dulip | 2025 | [Offsite backup rack with UPS](https://github.com/geerlingguy/mini-rack/issues/247) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
