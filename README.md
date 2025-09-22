@@ -414,6 +414,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | geerlingguy | 2025 | [Framework Desktop AI Cluster mini-rack](https://github.com/geerlingguy/mini-rack/issues/234) |
 | mint-dulip | 2025 | [Offsite backup rack with UPS](https://github.com/geerlingguy/mini-rack/issues/247) |
 | oxnan | 2025 | [10" 8U Portable Malware Analysis and CTF rack](https://github.com/geerlingguy/mini-rack/issues/248) |
+| r3f4ctor | 2025 | [4U 10" Radio Lab](https://github.com/geerlingguy/mini-rack/issues/251) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
