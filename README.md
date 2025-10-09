@@ -106,6 +106,7 @@ Some PDUs can be remotely managed, other PDUs are basically rack-mountable surge
 | [DIGITUS 10" Socket Strip with Aluminum Profile](https://amzn.eu/d/9gsqlp5) | 1U | 4x Schuko (type F) outlet |
 | [ENERGIS - Managed PDU for 10-Inch Racks](https://github.com/DvidMakesThings/HW_10-In-Rack_PDU) | 1U | 8x C13 - GPLv3 Open Source Design ]
 | [GeeekPi DC PDU Lite](https://amzn.to/3DliKGG) | 0.5U | 7x 5.5mm outlet (0V to 24V)|
+| [Generic 5 Outlet Power Strip w/switch](https://www.amazon.com/Outlets-Recessed-Power-Switch-Mountable/dp/B081LQL699) | 1U | 5x NEMA 5-15R. Can be mounted with [inside rack brackets](https://makerworld.com/en/models/1614967-5-outlet-mounting-bracket-for-10-inch-rack#profileId-1704029). [Amazon CA](https://www.amazon.ca/Recessed-Outlet-Switch-Mountable-Outlets/dp/B081LQL699)|
 | [HHSOET 16 in 1](https://www.amazon.com/HHSOET-Recessed-Furniture-Conference-Protection/dp/B0CC99XYX3?th=1) | 1.5U | 8x NEMA 5-15R (4 facing forward, 4 facing backward), 2x QC 3.0 30W Max USB-A port, 2x PD 3.0 30W Max USB-C port. [DTOX's rack mount](https://makerworld.com/en/models/1132933-10in-mini-rack-power-strip-mount) |
 | [MaxLax 140W 6-port USB-C PD Charging Station with LCD](https://amzn.to/4kzLADy) | 1U | 6x USB-C PD, use [3D printed rackmount](https://www.printables.com/model/1301563-asometech-140w-pd-psu-10-rack-mount) |
 | [MiniBoot Smart PDU](https://amzn.to/4axNdhm) | 1U | 4x NEMA 5-15R (type B) outlet |
