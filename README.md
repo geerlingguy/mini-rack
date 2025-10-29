@@ -408,7 +408,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | wiretap-retro | 2025 | [wiretap's Ikea Eket](https://github.com/geerlingguy/mini-rack/issues/209) |
 | etrigan63 | 2025 | [ProxMoxBox Mini ITX rack](https://github.com/geerlingguy/mini-rack/issues/216) |
 | Darkrym | 2025 | [DIY Budget 2020 Extrusion rack](https://github.com/geerlingguy/mini-rack/issues/219) |
-| mmiller1br | 2025 | [Yeat another 3D printed mini-rack](https://github.com/geerlingguy/mini-rack/issues/222) |
+| mmiller1br | 2025 | [Yet another 3D printed mini-rack](https://github.com/geerlingguy/mini-rack/issues/222) |
 | imrein | 2025 | [Lanberg 9U Homelab Learning Rack](https://github.com/geerlingguy/mini-rack/issues/224) |
 | sddcinfo | 2025 | [OnlyFans4U minirack](https://github.com/geerlingguy/mini-rack/issues/225) |
 | ocpistol-bec | 2025 | [Stainless steel wall mount mini rack](https://github.com/geerlingguy/mini-rack/issues/230) |
