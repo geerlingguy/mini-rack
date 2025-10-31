@@ -423,6 +423,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | KellyNyanbinary | 2025 | [Hard Mount HDD NAS "Cat Nest"](https://github.com/geerlingguy/mini-rack/issues/258) |
 | 2700kelvin | 2025 | [Solar powered 12V Audio 8U mini rack](https://github.com/geerlingguy/mini-rack/issues/260) |
 | sylvaintremblay666 | 2025 | [2U Power Bricks / The YaMR Project](https://github.com/geerlingguy/mini-rack/issues/263) |
+| cpierce | 2025 | [2 Mini Racks mounted under the desk](https://github.com/geerlingguy/mini-rack/issues/269) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
