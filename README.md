@@ -424,6 +424,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | 2700kelvin | 2025 | [Solar powered 12V Audio 8U mini rack](https://github.com/geerlingguy/mini-rack/issues/260) |
 | sylvaintremblay666 | 2025 | [2U Power Bricks / The YaMR Project](https://github.com/geerlingguy/mini-rack/issues/263) |
 | cpierce | 2025 | [2 Mini Racks mounted under the desk](https://github.com/geerlingguy/mini-rack/issues/269) |
+| mike126 | 2025 | [DIY 8U 3D Printed Network and Server Rack](https://github.com/geerlingguy/mini-rack/issues/277) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
