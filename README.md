@@ -427,6 +427,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | cpierce | 2025 | [2 Mini Racks mounted under the desk](https://github.com/geerlingguy/mini-rack/issues/269) |
 | mike126 | 2025 | [DIY 8U 3D Printed Network and Server Rack](https://github.com/geerlingguy/mini-rack/issues/277) |
 | MartinLenord | 2026 | [Loft + Office Mini Racks for network and compute](https://github.com/geerlingguy/mini-rack/issues/289) |
+| asquelt | 2026 | [RUMBURack - Really Useful Mobile Broadcasting Unit Rack](https://github.com/geerlingguy/mini-rack/issues/291) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
