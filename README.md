@@ -429,6 +429,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | MartinLenord | 2026 | [Loft + Office Mini Racks for network and compute](https://github.com/geerlingguy/mini-rack/issues/289) |
 | asquelt | 2026 | [RUMBURack - Really Useful Mobile Broadcasting Unit Rack](https://github.com/geerlingguy/mini-rack/issues/291) |
 | Hornochs | 2026 | [Welcome 2 the Jungle LAN-Party Serverstack 3.0](https://github.com/geerlingguy/mini-rack/issues/274) |
+| especially-relative | 2026 | [Mini Talos Cluster 1.0](https://github.com/geerlingguy/mini-rack/issues/297) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
