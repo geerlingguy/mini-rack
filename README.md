@@ -431,7 +431,8 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | asquelt | 2026 | [RUMBURack - Really Useful Mobile Broadcasting Unit Rack](https://github.com/geerlingguy/mini-rack/issues/291) |
 | Hornochs | 2026 | [Welcome 2 the Jungle LAN-Party Serverstack 3.0](https://github.com/geerlingguy/mini-rack/issues/274) |
 | especially-relative | 2026 | [Mini Talos Cluster 1.0](https://github.com/geerlingguy/mini-rack/issues/297) |
-| ianleckie | 2026 | DIY Wood Mini Rack: Homelab/Personal Cloud](https://github.com/geerlingguy/mini-rack/issues/299) |
+| ianleckie | 2026 | [DIY Wood Mini Rack: Homelab/Personal Cloud](https://github.com/geerlingguy/mini-rack/issues/299) |
+| ezramorris | 2026 | [Budget 6U Kallax-compatible homelab cluster](https://github.com/geerlingguy/mini-rack/issues/300) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
