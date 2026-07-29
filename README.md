@@ -106,6 +106,7 @@ Some PDUs can be remotely managed, other PDUs are basically rack-mountable surge
 | [Atlas Power AP-S15HR 15A Half-rack Power Conditioner](https://amzn.to/4iG8oBv) | 1U | 6x NEMA 5-15R (type B) outlet; slightly too wide, may need modified mounting |
 | [DIGITUS 10" Aluminium Outlet Strip](https://amzn.eu/d/4CE9nbv) | 1U | 3x Schuko (type F) outlet |
 | [DIGITUS 10" Socket Strip with Aluminum Profile](https://amzn.eu/d/9gsqlp5) | 1U | 4x Schuko (type F) outlet |
+| [ElecVoztile 10 inch Rack PDU](https://amzn.to/4x6T4nw) | 1U | 8x NEMA 5-15 pigtail outlets |
 | [ENERGIS - Managed PDU for 10-Inch Racks](https://github.com/DvidMakesThings/HW_10-In-Rack_PDU) | 1U | 8x C13 - GPLv3 Open Source Design ]
 | [GeeekPi DC PDU Lite](https://amzn.to/3DliKGG) | 0.5U | 7x 5.5mm outlet (0V to 24V)|
 | [MaxLax 140W 6-port USB-C PD Charging Station with LCD](https://amzn.to/4kzLADy) | 1U | 6x USB-C PD, use [3D printed rackmount](https://www.printables.com/model/1301563-asometech-140w-pd-psu-10-rack-mount) |
@@ -446,6 +447,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | geerlingguy | 2026 | [DIY Atomic Clock mini rack](https://github.com/geerlingguy/mini-rack/issues/315) |
 | RawBoomer | 2026 | [8U deskpi ITX board/GPU](https://github.com/geerlingguy/mini-rack/issues/320) |
 | louwrentius | 2026 | [10" Aluminum Extrusion Mini Rack](https://github.com/geerlingguy/mini-rack/issues/322) |
+| njjerrysmith | 2026 | [Redundant PowerPoint Rig](https://github.com/geerlingguy/mini-rack/issues/325) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
