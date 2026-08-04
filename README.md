@@ -448,6 +448,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | RawBoomer | 2026 | [8U deskpi ITX board/GPU](https://github.com/geerlingguy/mini-rack/issues/320) |
 | louwrentius | 2026 | [10" Aluminum Extrusion Mini Rack](https://github.com/geerlingguy/mini-rack/issues/322) |
 | njjerrysmith | 2026 | [Redundant PowerPoint Rig](https://github.com/geerlingguy/mini-rack/issues/325) |
+| ReFil | 2026 | [EMF Village Mini Rack](https://github.com/geerlingguy/mini-rack/issues/326) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
