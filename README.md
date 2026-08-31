@@ -82,6 +82,7 @@ At the center of every mini rack is a 10" or 'half-width' rack. A typical rack i
 | [KENUCO SOHO Mini Rack](https://amzn.to/3OZvLIi) | 4U, 6U, 9U | enclosed, locking, wall-mountable |
 | [L-com Half Rack Frame Rack](https://www.l-com.com/patch-panel-server-rack-8-space-14-half-rack-frame-rack-10-panel-width-14-deep-passive-top-open-bottom) | 8U | open design |
 | [Middle Atlantic HRF-1214 Half Rack Frame](https://amzn.to/4fr2dy2) | 12U | open design |
+| [MikroTik SolidRACK 5 mini](https://mikrotik.com/product/sr_5u_mini) | 5U | open design, under-desk mountable
 | [NavePoint Server Cabinet I](https://amzn.to/3P3uWOS) | 6U | enclosed, locking, wall-mountable, glass door |
 | [NavePoint Server Cabinet II](https://amzn.to/3BzPc7y) | 6U | enclosed, locking, wall-mountable, perforated door |
 | [NavePoint Server Cabinet III](https://amzn.to/4iFBznY) | 9U | enclosed, locking, wall-mountable, perforated door | 
