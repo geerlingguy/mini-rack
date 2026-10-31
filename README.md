@@ -452,6 +452,7 @@ If you would like your mini rack added to this list, please open a [new issue](h
 | ReFil | 2026 | [EMF Village Mini Rack](https://github.com/geerlingguy/mini-rack/issues/326) |
 | ezabitov | 2026 | [Endgame minirack cluster](https://github.com/geerlingguy/mini-rack/issues/329) |
 | geerlingguy | 2026 | [Mobile homelab that fits in my carry-on](https://github.com/geerlingguy/mini-rack/issues/330) |
+| SkalaNetworks | 2026 | [12 U 10" Rack with 4 ThinkCenters](https://github.com/geerlingguy/mini-rack/issues/342) |
 
 [Browse all issues tagged 'build showcase'](https://github.com/geerlingguy/mini-rack/labels/build%20showcase) (includes in-progress builds).
 
