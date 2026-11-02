@@ -287,6 +287,8 @@ It can be difficult to adapt storage devices (especially full 3.5" hard drives!)
   - [GeeekPi / DeskPi RackMate SBC Shelf](https://amzn.to/49H76C6) (can hard-mount two 2.5" HDDs side by side)
   - [10" Rack Hard Drive Mount](https://www.printables.com/model/142325-10-rack-harddrive-mount) (can hard-mount two 3.5" drives)
   - [Raw Hardware 6 x HDD Holder](https://rawhardware.com/r-case-6-x-hdd-holder-1r-10)
+  - [5 Bay 3.5" hotswap JBOD](https://www.etsy.com/uk/listing/1846699092/homelab-5-bay-35-hotswap-jbod-for-10)
+  - [5 Bay 3.5" hotswap JBOD with PSUn](https://www.etsy.com/uk/listing/1863896597/5-bay-35-hot-swap-jbod-enclosure-10)
 
 ### <a name="shelves-and-blanking-panels"></a>Shelves and Blanking Panels
 
