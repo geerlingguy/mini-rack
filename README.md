@@ -464,6 +464,7 @@ Here's a collection of cluster-related projects that may be a good test or start
 
   - [Pi Cluster](https://github.com/geerlingguy/pi-cluster) - Build a K3s cluster with 3 or more SBCs
   - [Pi Hosted](https://pi-hosted.com) - Docker and Portainer-based Pi hosting
+  - [PrintableRacks](https://printableracks.com) - Free browser-based 3D planner for 10" mini racks: pick a printable or ready-made frame, add gear, and get fit checks plus a print-and-buy list
   - [Top500 Benchmark](https://github.com/geerlingguy/top500-benchmark) - Benchmark your cluster with HPL (High Performance Linpack)
 
 ## <a name="license"></a>License
