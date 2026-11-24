@@ -463,7 +463,7 @@ Here's a collection of cluster-related projects that may be a good test or start
 
   - [Pi Cluster](https://github.com/geerlingguy/pi-cluster) - Build a K3s cluster with 3 or more SBCs
   - [Pi Hosted](https://pi-hosted.com) - Docker and Portainer-based Pi hosting
-  - [RackArchitect MCP](https://github.com/itAlex240/rack-architect-mcp) ([Live 3D/2D Planner](https://italex240.github.io/rack-architect-mcp/)) - Open-source 10" & 19" Rack-as-Code 3D/2D CAD planner, AABB plug-clearance collision solver, and parametric OpenSCAD/STL 3D-print carrier generator
+  - [RackArchitect MCP](https://github.com/itAlex240/rack-architect-mcp) ([Live 3D/2D Studio](https://mcp.rackarchitect.dev/)) - Open-source 10", 6" & 19" Rack-as-Code 3D/2D CAD planner (101 measured blueprints), AABB plug-clearance collision solver, auto-layout optimizer, and watertight OpenSCAD/STL custom bracket & carrier generator
   - [Top500 Benchmark](https://github.com/geerlingguy/top500-benchmark) - Benchmark your cluster with HPL (High Performance Linpack)
 
 ## <a name="license"></a>License
