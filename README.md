@@ -266,6 +266,7 @@ There are a variety of commercial options to mount Mini ITX motherboards (or SBC
   - [DeskPi RackMate 10" 2U Mini ITX shelf](https://frame.work/products/deskpi-rackmate-10-inch-2u-mini-itx-shelf)
   - [Parametric 10 inch Server Rack Mount (3D Printable)](https://www.printables.com/model/1188439-parametric-10-inch-server-rack-mount)
   - [Raw Hardware R-CASE mITX 10"](https://rawhardware.com/r-case-7-mitx-10)
+  - [MiniRackWorks 10" 1U mount for Lenovo ThinkCentre Tiny (3D printed PETG, ships within the EU)](https://minirackworks.etsy.com/listing/4625491756)
 
 ### <a name="sbc-shelves"></a>SBC Shelves
 
